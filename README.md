@@ -1,5 +1,5 @@
 # vernacular-names-extraction
-Code and resources for automatic extraction of vernacular name-related information in triple structure from botanical works such as Bosshard (1978).
+Code and resources for automatic extraction of vernacular name-related information in triple structure from botanical works, i.e. Bosshard (1978).
 
 #### resources:
 
@@ -10,6 +10,8 @@ https://zenodo.org/record/293746/files/bosshard_1978_OCRr.pdf
 #### motivation:   
 Google search for “wysshulftere” (Viburnum opulus) re-directs to digitized, OCRed work from Bosshard.
 
+#### goal:
+add information related to vernacular names to open-source knowledge bases.
 
 #### task:
 extract the following information:   
