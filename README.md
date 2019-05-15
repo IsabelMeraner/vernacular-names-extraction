@@ -7,7 +7,7 @@ Bosshard, Hans Heinrich (1978): Mundartnamen von Bäumen und Sträuchern in der 
 https://zenodo.org/record/293746/files/bosshard_1978_OCRr.pdf
 
 
-#### Motivation:   
+#### motivation:   
 Google search for “wysshulftere” (Viburnum opulus) re-directs to digitized, OCRed work from Bosshard.
 
 
