@@ -1,0 +1,9583 @@
+
+
+KANTON BASEL-LANDSCHAFT
+Wisstanne Oberwil 50
+Danne Oberbaselbiet 54
+Wissdanne Oberbaselbiet 54
+Tanne Liestal 73
+Wisstanne Liestal 73
+Wysstanne Reigoldswil 76
+
+KANTON SOLOTHURN
+Wisstanne Dorneck-Thierstein 3
+Tanne Dorneck-Thierstein 3
+Wysstanne Olten 11
+
+KANTON BERN
+Tanne Biel 1
+Wysstanne Langenthal 9
+Wysstanne Murten 16
+Wysstanne Biel 16
+Wiisstanne Bern 14
+Tanne 14
+Wysstannen Gadmen 35
+Wysstannen Hasliberg 35
+Wisstanne ob. Emmental 39
+Wysstanne Beatenberg 41
+Tanne 42
+Wyssbaum Emmental 48
+Wisstanne Rüschegg 53
+Wysstanne Emmental 55
+Wysstannä Kandertal 66
+Tanne Büren 19
+
+117
+
+
+
+KANTON WALLIS
+Wiistanna Termen 74
+Wisstanna Brig 74
+
+KANTON AARGAU
+Wiisstanne Aarau 6
+Tanne Aarau 6
+Wisstanne Fricktal 8
+Tanne Brugg 23
+Wiisstanne Lenzburg 56
+Tanne Lenz bürg 56
+Wysstanne Rheinfelden 57
+Tanne Muri 71
+Tanne Zofingen 68
+Wisstanne Möhlin 69
+Tannenbaum Kirchspiel 70
+Tanne ob. Fricktal 70
+Tanne Aarau 22
+
+KANTON LUZERN
+Wiistanne Schwarzenberg 36
+Wiisstanne Horw 36
+Tanne Rigi 36
+Wysstanne Luzerner Hinterland 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Tschwiggentannli Sarnen 21
+Tschwiggentanndli Sarnen 21
+
+KANTON SCHAFFHAUSEN
+Wiisstanne
+
+KANTON ZÜRICH
+Wysstaf
+Wiisstanne Weinland 29
+Wisstane Sihlwald 58
+
+118
+
+
+
+Tanne ob. Glattal 67
+Tanne Pfannenstiel 67
+
+KANTON ZUG
+Tannä
+
+KANTON SCHWYZ
+Wysstannä 28
+Tannä 28
+Wiistann Wägital 40
+Wisstannä Arth 40
+
+KANTON URI
+Wiisstannä Gurtnellen 4
+
+KANTON TESSIN
+Wistannu Bosco/Gurin 72
+
+KANTON THURGAU
+Wisstanne
+Tane Weinfelden 18
+Wisstane Beckelswilen 18
+
+KANTON APPENZELL I.RH.
+Wistanne 34
+
+KANTON ST. GALLEN
+Tanne Vilters 30
+Tanne Bad Ragaz 30
+Tanna Meis 30
+Wisstannä Meis 30
+Weisstanne Flums 30
+Wistanne Berschis 30
+Wisstanne Walenstadt 30
+
+119
+
+
+
+Wysstanna Berneck 59
+Wiisstanne Wattwil 64
+Wisstanne Grabs 65
+
+KANTON GRAUBÜNDEN
+Wiisstanna Luzein 7
+Wiisstanna St. Antonien 7
+Tanna Vals 24
+Tanne Prättigau 27
+Wysstanna Seewis 32
+Tanna Seewis 32
+Wisstannä Schiers 33
+Wisstanne Safien, Versam,
+
+Valendas 43
+Tanna Safien, Versam,
+
+Valendas 43
+Tannä Langwies 44
+Wisstanna Langwies 44
+Tannä Mittel-Schanfigg 44
+Wisstanna Mittel-Schanfigg 44
+Wisstanna Obersaxen 45
+Wiistana Mastrils 75
+Wiistanna Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Wisstanna Oberland 47
+Wisstanna Unterland 47
+
+120
+
+
+
+Juniperus communis L. Wacholder
+
+
+KANTON BASEL-LANDSCHAFT
+Räckholder Oberwil 50
+Räckholler Oberwil 50
+Räckholder Oberbaselbiet 54
+Räckholder Liestal 73
+Räckholder Reigoldswil 76
+
+KANTON SOLOTHURN
+Räckholder Hofstetten 3
+Räckholler Hofstetten 3
+Räckholder Kleinlützel 3
+Räckholler Kleinlützel 3
+Räckholder Gäu 5
+Räckholder Olten 11
+
+KANTON BERN
+Räckholder Bern VI
+Räckholder Thun VI
+Räckholder Ins VI
+Reckholder Langenthal 9
+Wachhouder Murten 16
+Wachhouder Biel 16
+Räckhouder Murten 16
+Räckhouder Biel 16
+Räckhouder Bern 14
+Räkolter Bern 14
+Räckholder Büren a.A. 19
+Räckolter Büren a.A. 19
+Räckolter Schwanden 35
+Räckholder Gadmen 35
+Räckholter Hasliberg 35
+Räckhouter ob. Emmental 39
+Räckholder Beatenberg 41
+
+121
+
+
+
+Räckholder
+Räckholder
+Räckholder
+Räckhoultere
+Räckholder
+Räckouter
+Räckolder
+Sevibaum
+Räckholter
+Reckholder
+
+KANTON WALLIS
+Räckolter
+Reckholder
+Räckholter
+Räckholter
+
+Biel 42
+Mittelland 48
+Oberland 48
+Rüschegg 53
+Wohlen 55
+Emmental 55
+
+63
+63
+
+Kandertal 66
+Berner-Oberland 62
+
+Brig 12
+62
+
+Termen 74
+Brig 74
+
+KANTON AARGAU
+Räckholder
+Räckholder
+Reckholder
+Sevi
+Efi
+Wachholder
+Wacholdere
+Räckholder
+
+Rekholder
+Reckholder
+Räckholder
+Wacholder
+Räckholder
+Reckholdere
+Reckholdere
+Räckholder
+Räckholder
+Räckholder
+
+KANTON LUZERN
+Räukholder
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Freiamt 22
+Freiamt 22
+Brugg 23
+Lenzburg 56
+Rheinfelden, Mägden,
+Möhlin 57
+Muri 71
+Zofingen 68
+Zofingen 68
+Möhlin 69
+Möhlin 69
+Bez. Brugg 70
+Fricktal 70
+Bözen 70
+Effingen 70
+Oberaargau 14
+
+Entlebuch VI
+
+122
+
+
+
+Räckholder Sursee VI
+Räckholder Willisau VI
+Räckholder Luzern VI
+Bräukbeeristudä Entlebuch VI
+Reickholder Rigi 36
+Räckholder Rigi 36
+Räckholder Schwarzenberg 36
+Räckoltere Horw 36
+Reckholder Amt Willisau 37
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Räukholder VI
+Räukholterä VI
+Räckholder VI
+Reikholder Alpnach 21
+Reikholder Lungern 21
+Sefi Giswil 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Reikholter 10
+Räukholder VI
+Räukholtere VI
+Räckholder VI
+
+KANTON SCHAFFHAUSEN
+Räckoltere Bez. Schleitheim
+Räckoltere Bez. Unterklettgau
+Räckholder Bez. Schaffhausen
+Bräukbeeristude Bez. Reiat
+Süütriiber Beringen
+
+KANTON ZÜRICH
+Räckholder Bez. Zürich I
+Räckholder Bez. Affoltern I
+Räckholder Bez. Horgen I
+Räckholder Bez. Meilen I
+Räckholder Zürcher Oberland I
+Räckholder Bez. Winterthur I
+
+123
+
+
+
+Räckholder Bez. Dielsdorf I
+Räckholder Glattfelden I
+Reckholdere Rafzerfeld I
+Reckholdere Uhwiesen I
+Reckholdere Stammheim I
+Reckholdere Bez. Andelfingen I
+Räckholdere Weinland 29
+Räckholdere Schlatt 51
+Räckholder Sihlwald 58
+Räckoldere ob. Glattal 67
+Räckoldere Pfannenstiel 67
+
+KANTON ZUG
+Räckholderä
+Räckholder
+Räckholder Zug 26
+
+
+KANTON SCHWYZ
+Räukholder VI
+Räukholter Morschach VI
+Räukholderä Iberg VI
+Räukholterä Gersau VI
+Räukholterä Bez. Schwyz VI
+Räukholterä Galgenen VI
+Bräukholder Gross VI
+Dräckholder Bez. March VI
+Dräckholderä Küssnacht am Rigi VI
+Dräckholderä Iberg VI
+Dräckholderä Einsiedeln VI
+Dräckholderä Bez. March VI
+Dräckholterä Gersau VI
+Dräckholterä Iberg VI
+Dräckholterä Reichenburg VI
+Holdärä 28
+Räukholder Innerschwyz 28
+Dräckholder Wägital 40
+Dräckhoderä Arth 40
+
+KANTON URI
+Reikholder
+124
+
+Gurtnellen 4
+
+
+
+Räukholder
+Räukholter
+
+
+
+KANTON TESSIN
+Wachholder Bosco/Gurin 72
+
+KANTON THURGAU
+Reckholder
+Reckoldere Hinterthurgau
+Reckolter Rhe
+Reckholder Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Reckholder 34
+
+KANTON APPENZELL A.RH.
+Reckolder Gais 13
+
+KANTON ST. GALLEN
+Reggholder Bez. Werdenberg 13
+Reckholder Altstätten 17
+Reckholder Vilters 30
+Reckholder Bad Ragaz 30
+Rägholder Pfäfers 30
+Räggholder Berschis 30
+Reckholder Valens 30
+Räggholder Vättis 30
+Räggholder Meis 30
+Räggholder Flums 30
+Räggholder Walenstadt 30
+Räkholdar Berneck 59
+Reckholder Toggenburg 61
+Reckholder Rheintal 61
+Reckholder Toggenburg 64
+Wachholder Toggenburg 64
+
+125
+
+
+
+
+KANTON GLARUS
+Reckholder Oberblegi 31
+Dräckholder Bilten 31
+
+KANTON GRAUBÜNDEN
+Reckholder
+Räggholdera Luzein 7
+Räggholdera St. Antonien 7
+Dräckholdera Vals 24
+Reckholder Vorderprättigau 32
+Räckholder Seewis 32
+Räckholder Schiers 33
+Räckholder Safien, Valendas 43
+Räckholtera Safien, Valendas 43
+Reckholder Schanfigg 44
+Wachholder Obersaxen 45
+Reckholder Jenaz, Mittelprättigau 46
+Räckholdera Mastrils 75
+Räckholder Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Rekholder Oberland 47
+Rekholder Unterland 47
+Röklatar Rugell 47
+
+126
+
+
+
+Larix decidua Mill. Lärche
+
+
+KANTON BASEL-LANDSCHAFT
+
+Lerchä Oberwil 50
+Lerche Oberbaselbiet 54
+Lerche Liestal 73
+Lerche Reigoldswil 76
+
+KANTON SOLOTHURN
+
+Lerche Dorneck-Thierstein 3
+Lerche Olten 11
+
+KANTON BERN
+Lierch Lauenen
+Lerche Langenthal 9
+Lerche Murten 16
+Lerche Biel 16
+Lerch 14
+Lärchen Gadmen 35
+Lärchen Hasliberg 35
+Lerch ob. Emmental 39
+Leerche Beatenberg 41
+Leerche Rüschegg 53
+Lerchä Kandertal 66
+Lärche Emmenthal 55
+Lärche Büren 19
+Lerche Büren 19
+
+KANTON WALLIS
+Lärche Termen 74
+Lärche Brig 74
+Lärcha Termen 74
+Lärcha Brig 74
+
+127
+
+
+
+KANTON AARGAU
+Lärche Aarau 6
+Lärchtanne Aarau 6
+Lerch Lenz bürg 56
+Lärche Möhlin 69
+Lerchtanne Mandach, Leuggern 70
+Lärchtanne Kirchspiel 70
+Lärch ob. Fricktal 70
+Lärche 71
+
+KANTON LUZERN
+Lärche Rigi 36
+Lärch Schwarzenberg 36
+Lärche Horw 36
+
+KANTON UNTERWALDEN OB DEM WALD
+Lärch Sarnen 21
+
+KANTON ZÜRICH
+Lärche Sihlwald 58
+Lärche oberes Glattal 67
+Lärche Pfannenstiel 67
+
+KANTON SCHWYZ
+Lärchä Innerschwyz 28
+Lärchä Wägital 40
+Lärchä Arth 40
+
+KANTON URI
+Lärchä Gurtnellen 4
+Lärchä Ursern 4
+
+KANTON TESSIN
+Larcha Bosco/Gurin 72
+
+128
+
+
+
+KANTON THURGAU
+Lerche
+Lärche Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Lerche 34
+
+KANTON APPENZELL A.RH.
+Lortanne Gais 13
+Lerchtanne 13
+Lortane Teufen 58
+Lortanne Teufen 64
+
+KANTON ST. GALLEN
+Lärche Vilters 30
+Lärch Vättis 30
+Lärch Meis 30
+Lärchä Vättis 30
+Lärchä Meis 30
+Lärch Flums 30
+Lärchä Berschis 30
+Lärchä Walenstadt 30
+Lärchä Berneck 59
+Lerche Wattwil 64
+
+KANTON GRAUBÜNDEN
+Laresch Heinzenberg
+Larsch Remüs
+Larsch Schieins
+Leerch Luzein 7
+Leerch St. Antonien 7
+Lärchä Vals 24
+Lärch Prättigau 27
+Lärch Vorderprättigau 32
+Lerch Schiers 33
+Lärch Safien, Versam,
+
+Valendas 43
+
+129
+
+
+
+Lerchä Langwies/Mittel-
+Schanfigg 44
+
+Leerch Mittel-/Inner-
+Schanfigg 44
+
+Lärch Obersaxen 45
+Lärcha Mastrils 75
+Lärch Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Lärcha Oberland 47
+Lärcha Unterland 47
+
+130
+
+
+
+Picea Abies (L? Karst Fichte
+
+
+KANTON BASEL-LANDSCHAFT
+Rottanne Oberwil 50
+Rotdanne Oberbaselbiet 54
+Rottanne Liestal 73
+Rottanne Reigoldswil 76
+
+KANTON SOLOTHURN
+Rottanne Dorneck-Thierstein 3
+Tanne Dorneck-Thierstein 3
+Fiechte Olten 11
+
+KANTON BERN
+Rottanne Seeland 1
+Fiechte Ligerz 1
+Rottanne Langenthal 9
+Rottanne Murten 16
+Rottanne Biel 16
+Rottanne 14
+Rottannen Gadmen 35
+Rottannen Hasliberg 35
+Grotzen Gadmen 35
+Grotzen Hasliberg 35
+Rottanne oberes Emmental 39
+Rottanne nördl. Seeland 42
+Tanne nördl. Seeland 42
+Fiechte Ligerz 42
+Rottanne Mittelland 48
+Rottanne Oberland 48
+Rottanne Rüschegg 53
+Rottanne Emmental 55
+Rottannä Kandertal 66
+Rottanne Büren a.A. 19
+Tanne Beatenberg 41
+
+131
+
+
+
+KANTON WALLIS
+Tanne Termen 74
+Tanne Brig 74
+Tanna Termen 74
+Tanna Brig 74
+
+KANTON AARGAU
+Rottanne Aarau 6
+Tanne Aarau 6
+Rottanne Fricktal 8
+Rottanne Aarau 22
+Rottanne Brugg 23
+Rottanne Lenzburg 56
+Rottanne Rheinfelden,
+
+Mägden, Möhlin 57
+Rottanne Freiamt 71
+Rottanne Zofingen 68
+Rotanne Möhlin 69
+Rottanne 70
+Rottanne Bez. Brugg 70
+Roottanne Oberaargau 14
+
+KANTON LUZERN
+Rottanne Rigi 36
+Rottanne Schwarzenberg 36
+Rottanne Horw 36
+Rottanne Amt Willisau 37
+
+KANTON UNTERWALDEN OB DEM WALD
+Schärmtannä 21
+Grotzä 21
+
+KANTON SCHAFFHAUSEN
+Rottanne
+Rottanne Stein am Rhein 49
+Tanne Stein am Rhein 49
+
+132
+
+
+
+KANTON ZÜRICH
+Rottanne Winterthur 2
+Tanne Weinland 29
+Rottanne Schlatt 51
+Tanne Buch a. Irchel 51
+Rottane Sihlwald 58
+Rottanne Furttal 60
+Rottanne ob. Glattal 67
+Rottanne Pfannenstiel 67
+
+KANTON ZUG
+Tannä
+
+KANTON SCHWYZ
+Rottannä 28
+Rottann Wägital 40
+Rottannä Arth 40
+
+KANTON URI
+Rottannä Gurtnellen 4
+Rottannä Ursem 4
+
+KANTON TESSIN
+Tannu Bosco/Gurin 72
+
+KANTON THURGAU
+Rottane Weinfelden 18
+Rottane Beckelswilen 18
+
+KANTON APPENZELL I.RH.
+Rottanne 34
+Tänneli Oberegg 34
+
+133
+
+
+
+KANTON ST. GALLEN
+Rottanne Vilters 30
+Rottanne Bad Ragaz 30
+Rottanne Berschis 30
+Rottanne Valens 30
+Roottanna Vättis 30
+Tannä Meis 30
+Rottanne Flums 30
+Tannä Flums 30
+Rottannä Walenstadt 30
+Grotza Sevelen 59
+Rottanna Berneck 59
+Grotzen 61
+Rottanne Toggenburg 64
+Rone Toggenburg 64
+Grotze Toggenburg 64
+Tane Toggenburg 64
+Tanne Toggenburg 64
+
+KANTON GLARUS
+Tschuupe 61/31
+
+KANTON GRAUBÜNDEN
+Rottanna Luzein 7
+Rottanna St. Antonien 7
+Tanna Vals 24
+Rottanne Prättigau 27
+Rottannä Vorderprättigau 32
+Rottannä Seewis 32
+Rottannä Schiers 33
+Tanna Safien, Versam,
+
+Valendas 43
+Tanna Langwies 44
+Tannä Mittel-Schanfigg 44
+Tanna Obersaxen 45
+Rottana Mastrils 75
+Rottanna Untervaz 75
+
+134
+
+
+
+FÜRSTENTUM LIECHTENSTEIN
+
+Tanna Oberland 47
+Tanna Unterland 47
+Rottanna Oberland 47
+Rottanna Unterland 47
+
+135
+
+
+
+Pinus Cembra L. Arve
+
+
+KANTON BASEL-LANDSCHAFT
+Arve Oberwil 50
+Arvä Oberwil 50
+
+KANTON BERN
+Zirbelnussbaum
+Arven
+Arven
+
+Wasen
+Gadmen
+Hasliberg
+
+35
+35
+
+Arvä oberes Emmental 39
+Arve Rüschegg 53
+Zirbe 63
+Arvä Kandersteg 66
+Arbä Kandersteg 66
+Arve Murten 16
+Arve Biel 16
+
+
+KANTON WALLIS
+Arbe Bez. Leuk 12
+Arve Termen 74
+Arve Brig 74
+
+KANTON AARGAU
+Zeipe Zofingen 68
+Arve Möhlin 69
+
+KANTON LUZERN
+Arvä Wegg
+Arve Schwarzenberg 36
+Arve Horw 36
+
+
+136
+
+
+
+KANTON UNTERWALDEN OB DEM WALD
+Arvä
+
+
+
+KANTON UNTERWALDEN NID DEM WALD
+Arvä Emmetten
+
+KANTON SCHWYZ
+Arvä Küssnacht a. Rigi
+Arvä Gersau
+Arvä 28
+Arvä Wägital 40
+Arvä Arth 40
+
+KANTON URI
+Arfä Gurtnellen 4
+Arfä Ursern 4
+Arvä
+
+KANTON TESSIN
+Arvu Bosco/Gurin 72
+
+KANTON ST. GALLEN
+Arbä Sargans 13
+Arve Vilters 30
+Arva Vättis 30
+Arva Meis 30
+Arvä Vättis 30
+Arvä Meis 30
+Arvä Flums 30
+Arvä Walenstadt 30
+Arvä Berschis 30
+Arva Berneck 59
+Zürbel 61
+Arve Wattwil 64
+
+
+
+137
+
+
+
+KANTON GRAUBÜNDEN
+Zirbel V
+Arva Luzein 7
+Arva St. Antonien 7
+Arva Vals 24
+Arba Seewis 32
+Arvä Seewis 32
+Arvä Safien, Versam,
+
+Valendas 43
+Arba Langwies 44
+Arvä Mittel-Schanfigg 44
+Arva Obersaxen 45
+Zierbele 62
+Arva Mastrils 75
+Arva Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Arva Oberland 47
+Arva Unterland 47
+
+138
+
+
+
+Pimis montana Mill. Berg-Föhre
+
+
+KANTON BASEL-LANDSCHAFT
+Bärg-Föhre Oberwil 50
+
+KANTON SOLOTHURN
+Fohre Olten 11
+
+KANTON BERN
+Bärgföhre Murten 16
+Bärgföhre Biel 16
+Dähle Büren a.A. 19
+Dählpiischen Gadmen 35
+Dählpischen Hasliberg 35
+Legföhre Gadmen 35
+Legföhre Hasliberg 35
+Bergdähllen Oberhasli 35
+Bärgfehren Oberhasli 35
+Schwarz dähle Beatenberg 41
+Legföhre Hünigen 55
+Legföhre 63
+Latsche 63
+Schnaagi-Dähle Kandersteg 66
+Dähle 61
+Laatsche 62
+
+KANTON WALLIS
+Thäla Termen 74
+Thäla Brig 74
+Laatsche Termen/Brig 74
+
+139
+
+
+
+KANTON LUZERN
+Bärgföra Rigi 36
+Bärgfööre Schwarzenberg 36
+Bärgfööre Horw 36
+
+KANTON SCHAFFHAUSEN
+Laatsche Stein am Rhein 49
+
+KANTON ZÜRICH
+Archli
+Latsche
+
+Kappel
+51
+
+Bergföre Sihlwald 58
+
+KANTON SCHWYZ
+Furä 28
+Legföörä Wägital 40
+Berg-Föhrä Arth 40
+
+KANTON URI
+Chiäbäum Gurtnellen 4
+Legferä Gurtnellen 4
+Legferä Ursern 4
+
+KANTON APPENZELL I.RH.
+Legföhre 34
+Chresföhre 34
+
+KANTON ST. GALLEN
+Truosa Werdenberg 13
+Legföhre Bad Ragaz 30
+Legföhre Pfäfers 30
+Arle Valens-Varon 30
+Aria Vättis 30
+Fohra Flums 30
+
+140
+
+
+
+Legföhre Berschis 30
+Legföhre Walenstadt 30
+Berg-Föhra Berneck 59
+Laotscha Berneck 59
+Legföre Wattwil 64
+Chrommholz Wattwil 64
+Latsche Wattwil 64
+
+KANTON GLARUS
+Latsche 31
+Legföhre 31
+
+KANTON GRAUBÜNDEN
+Aria Luzein 7
+Aria St. Antonien 7
+Legföhra Safien, Versam,
+
+Valendas 43
+Foorä Mittel-Schanfigg 44
+Foora Langwies 44
+Arala Langwies 44
+Arälä Mittel-Schanfigg 44
+Arala Jenaz 46
+
+FÜRSTENTUM LIECHTENSTEIN
+Berg-Föhra Oberland 47
+Berg-Föhra Unterland 47
+
+141
+
+
+
+Pinus silvestris L. Wald-Föhre
+
+
+KANTON BASEL-LANDSCHAFT
+Fiechte Oberwil 50
+Fiechtä Oberwil 50
+Foore Oberbaselbiet 54
+Fööre Bez. Sissach 54
+Fööre Liestal 54
+Foore Liestal 73
+
+KANTON SOLOTHURN
+Fiechte Dorneck-Thierstein 3
+Fööre Dorneck-Thierstein 3
+Fiechte 5
+Fohre Olten 11
+Brächnuss 62
+
+KANTON BERN
+Dähle
+Dähle Thun
+Daehle Seeland 1
+Dähle Langenthal 9
+Dähle Murten 16
+Dähle Biel 16
+Föhre Murten 16
+Föhre Biel 16
+Dääle 14
+Dähle Büren a.A. 19
+Dähle 25
+Dähllen Schwanden 35
+Dähllen Gadmen 35
+Dähllen Hasliberg 35
+Dähl Emmental 39
+Rotdähle Beatenberg 41
+Dähle Brienzersee 41
+
+
+142
+
+
+
+Dähle nördl. Seeland 42
+Dähle 48
+Bähle Emmental 55
+Dählä 62
+Dähle 63
+Dähle Frutigtal 66
+Waldföhre Rüschegg 53
+
+KANTON WALLIS
+Dälhe Leuk 12
+Thäla Termen 74
+Thäla Brig 74
+
+KANTON AARGAU
+Före Aarau 6
+Fore Aarau 6
+Forche Aarau 6
+Foore Fricktal 8
+Dääle Oberaargau 14
+Forä Sins VI
+Fööre Lenz burg 56
+Forche Ammerswil 56
+Forche Othmarsingen 56
+Fohre Mägden 57
+Föhre Muri 71
+Dähle Zofingen 68
+Forch Zofingen 68
+Foore Möhlin 69
+Däle Fricktal 70
+Fohre Bözen, Effingen 70
+Föhre Kirchspiel 70
+Föhre Brugg 23
+
+KANTON LUZERN
+Kiefer Amt Sursee VI
+Kiefer Amt Willisau VI
+Föhre Amt Sursee VI
+Föhre Amt Willisau VI
+Kienbaum VI
+
+143
+
+
+
+Forä Entlebuch VI
+Dählä Entlebuch VI
+Waldfööre Schwarzenberg 36
+Före Rigi 36
+Fööre Horw 36
+Fohre Willisau 37
+Fore Hinterland 38
+
+KANTON UNTERWALDEN OB DEM WALD
+21Forä Lungern
+
+KANTON SCHAFFHAUSEN
+Forre
+Fore
+Förri Holz
+Före Stein am Rhein 49
+
+KANTON ZÜRICH
+Före Winterthur I
+Före Bez. Hinwil I
+Före Bez. Meilen I
+Fore Bez. Andelfingen I
+Fore Regensberg I
+Fore Bez. Dielsdorf I
+Fore Bez. Bülach I
+Fore Oberland I
+Forch Bez. Horgen I
+Forch Kappel I
+Forch Bonstetten I
+Forchli Bez. Horgen I
+Forchli Kappel I
+Forchli Bonstetten I
+Faar Oberhasli I
+Chifere 51
+Fore Buch 51
+Fore Sihlwald 58
+Forre ob. Glattal 67
+Forre Pfannenstiel 67
+Fööre ob. Glattal 67
+Fööre Pfannenstiel 67
+144
+
+
+
+KANTON ZUG
+Forchä V
+Forrä V
+
+KANTON SCHWYZ
+Kiefer Küssnacht a.Rigi VI
+Föhre Küssnacht a.Rigi VI
+Kienbaum Küssnacht a.Rigi VI
+Forä Küssnacht a.Rigi VI
+Furä VI
+Furä Bez. Schwyz VI
+Chienholz Gersau VI
+Furä Innerschwyz 28
+Föörä Wägital 40
+Rot-Föhre Arth 40
+
+KANTON URI
+Chiäbäum Gurtnellen 4
+Furä Altdorf VI
+
+KANTON THURGAU
+Forre
+Före Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Rotföhre 34
+
+KANTON APPENZELL A.RH.
+Fore Gais 13
+
+KANTON ST. GALLEN
+Fora Valens 30
+Fora Meis 30
+Fohrä Valens 30
+Fohrä Meis 30
+Fora Vättis 30
+Fohra Flums 30
+
+145
+
+
+
+Föhra Berschis 30
+Wald-Föhra Berneck 59
+Före Wattwil 64
+Chierness Wattwil 64
+Chiernes Wattwil 64
+
+KANTON GLARUS
+Forre 31
+Forrä 31
+
+KANTON GRAUBÜNDEN
+Foore Schiers
+Foora Luzein 7
+Foora St. Antonien 7
+Forrä Seewis 32
+Fohrä Seewis 32
+Föörä Schiers 33
+Täla Valendas 43
+Tähla Valendas 43
+Dähla Valendas 43
+Foora Langwies 44
+Foorä Mittel-Schanfigg 44
+Fohra Obersaxen 45
+Fohra Mastrils 75
+Fohra Untervaz 75
+
+
+FÜRSTENTUM LIECHTENSTEIN
+Föhra Oberland 47
+Föhra Unterland 47
+
+146
+
+
+
+Taxus baccata L. Eibe
+
+KANTON BASEL-LANDSCHAFT
+Schnuderbeeri Oberwil 50
+Eibe Oberbaselbiet 54
+Eie Bez. Sissach 54
+Eie Liestal 54
+Eye Liestal 73
+
+KANTON SOLOTHURN
+Eibe Dorneck-Thierstein 3
+Eie Dorneck-Thierstein 3
+Eye Jura 5
+Eie Olten 11
+
+KANTON BERN
+Iibe Oberland 14
+Eibe Büren a.A. 19
+Iboun Schwanden 35
+Iholz Hasliberg 35
+Eibe Emmental 39
+Ibe oberes Emmental 39
+I-Buum Beatenberg 41
+Schnoderbeeri Biel 42
+Ey Simmenthai 48
+Ii Frutigtal 66
+Eibe Murten—Biel 16
+
+KANTON AARGAU
+Eibe 6
+Iibe 6
+Iibe Fricktal 8
+Eie Fricktal 8
+Ibe Brugg 23
+
+147
+
+
+
+Eie Oberhof 22
+Eibe Lenzburg 56
+Ibe Muri 71
+Ibsche Muri 71
+Ibe Zofingen 68
+Iibe ob. Fricktal 70
+Iibe Kirchspiel 70
+
+KANTON LUZERN
+Eyä Amt Sursee VI
+Eyä Amt Willisau VI
+Eyä VI
+Eyä Entlebuch VI
+Eya Sursee VI
+Eya Willisau VI
+Yä Entlebuch VI
+Yä Weggis VI
+Iigs Rigi 36
+lie Rigi 36
+Iche Rigi 36
+Eie Schwarzenberg 36
+Eiie Horw 36
+Eie Hinterland 37
+
+KANTON UNTERWALDEN OB DEM WALD
+Yä VI
+
+Alpnach
+Lungern
+
+21
+21
+
+KANTON UNTERWALDEN NID DEM WALD
+Ye 10
+Yä VI
+
+KANTON SCHAFFHAUSEN
+Ibe Bez. Stein am Rhein
+Ibe Bez. Reiat
+Ibe Bez. Schaffhausen
+Ible Lohn
+
+148
+
+
+
+Ibli Opfertshofen
+Iibe Stein am Rhein 49
+Schluderbeeri Stein am Rhein 49
+
+KANTON ZÜRICH
+Ybe Bez. Bülach I
+Ybe Dinhard I
+Ybe Bez. Andelfingen I
+Ybe Elgg I
+Ybe Qberhasli I
+Eye Oberland I
+Eye Bez. Horgen I
+Eye Albisrieden I
+Eye Kappel I
+Iibe Winterthur 2
+Schnuderbeeribaum Winterthur 2
+Ibe Bez. Andelfingen 29
+Ibe Schlatt 51
+Ibe Sihlwald 58
+Ibetane Sihlwald 58
+Schnuderbeeri 62
+Iibe ob. Glattal 67
+Eibe Pfannenstiel 67
+
+KANTON ZUG
+Ywa V
+Ywe V
+Yä V
+Eiä V
+lie Zug 26
+
+KANTON SCHWYZ
+Yä Küssnacht a.Rigi VI
+Yä Gersau VI
+Yä Bez. Schwyz VI
+Yä Einsiedeln VI
+Yä Bez. March VI
+Yäli Küssnacht a.Rigi VI
+Yäli VI
+
+149
+
+
+
+Yäli Bez. March VI
+Yli Küssnacht a.Rigi VI
+Yelä Bez. March VI
+Yali Bez. March VI
+Ya Bez. March VI
+Iiä 28
+Iiä Wägital 40
+Ibä Arth 40
+
+KANTON URI
+Iiä Gurtnellen 4
+Yä VI
+
+KANTON THURGAU
+Ibe
+Schnuderbeeribomm
+Ibe Weinfelden 18
+Ibe 62
+
+KANTON APPENZELL I.RH.
+Ibä 34
+
+KANTON APPENZELL A.RH.
+Ibetännli Gais 13
+
+KANTON ST. GALLEN
+Iba 13
+Eia Sargans 13
+Eia Obertoggenburg 13
+Eibe Vilters 30
+Ibä Meis 30
+Iba Bez. Sargans 30
+Iba Valens 30
+Iba Vättis 30
+Ibä Flums 30
+Ibä Berschis 30
+
+150
+
+
+
+Eyä Walenstadt 30
+Iba Berneck 59
+len 61
+Iibe 61
+Iibe Wattwil 64
+Eiä Wattwil 64
+lie Wattwil 64
+
+KANTON GLARUS
+lie 31
+Iiä 31
+
+KANTON GRAUBÜNDEN
+Iba V
+lib Luzein 7
+lib St. Antonien 7
+Iib Klosters 27
+Iib Vorderprättigau 32
+Iib Seewis 32
+Iib Schiers 33
+Iba Safien, Versam,
+
+Valendas 43
+Iibä Mittel-Schanfigg 44
+Iib Jenaz 46
+Iba Mastrils 75
+Iba Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Iba Oberland 47
+Iba Unterland 47
+
+151
+
+
+
+Acer campestre L. Feld-Ahorn
+
+
+KANTON BASEL-LANDSCHAFT
+
+Masshollere
+Fäldahorn
+Massholder
+Nassholder
+Massholder
+Nassholder
+Massholder
+Nassholder
+
+Oberwil 50
+Sissach 54
+Oberbaselbiet 54
+Homburgertal 54
+Sissach 73
+Sissach 73
+Reigoldswil 76
+Reigoldswil 76
+
+KANTON SOLOTHURN
+Maasholder
+Fäld Ahorn
+
+Dorneck-Thierstein 3
+Olten 11
+
+KANTON BERN
+Masshouder
+Fäudahorn
+Fäudahorn
+Masshouder
+Masshouder
+Masshouder
+Massolter
+Maashouder
+Maassholder
+Massholder
+Massholtere
+Massoltren
+Massholder
+Massholder
+Masshouder
+Massholder
+Massholter
+Massholder
+
+Seeland 1
+Murten 16
+Biel 16
+Murten 16
+Biel 16
+
+14
+14
+
+Büren 19
+Büren 19
+Seeland 25
+Seeland 25
+Schwanden 35
+Gadmen 35
+Hasliberg 35
+ob. Emmental 39
+Brienzersee 41
+Beatenberg 41
+nördl. Seeland 42
+
+152
+
+
+
+Massholder Mittelland 48
+Massholder Wohlen 55
+Massouter Emmental 55
+Masshouder 63
+Maasholder 62
+Massholter Frutigtal 66
+
+KANTON AARGAU
+Massholder Aarau 6
+Massholder Fricktal 8
+Maassholder Aarau 22
+Maasshoudere Suhrental 22
+Massholder Brugg 23
+Maassholdere Lenz bürg 56
+Massholder Mägden, Möhlin 57
+Massholder Muri 71
+Massholder Zofingen 68
+Warmholz Zofingen 68
+Massholder Möhlin 69
+Massholtere Brugg 70
+Massholtere Fricktal 70
+Massholder Kirchspiel 70
+
+KANTON LUZERN
+Masholder
+Biäggelä
+Massholder Rigi 36
+Bättlerstude Rigi 36
+Feldahorn Schwarzenberg 36
+Massolder Horw 36
+
+KANTON UNTERWALDEN OB DEM WALD
+Fäld-Ahorä 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Massholter 10
+
+153
+
+
+
+KANTON SCHAFFHAUSEN
+Massholter
+Massholtere
+Masshölzis Buch
+Masshulftere Rüdlingen
+Masshulftere Buchberg
+Masholder Stein am Rhein 49
+
+KANTON ZÜRICH
+Maassholder Bez. Horgen I
+Maassholder Stäfa I
+Maassholder Wald I
+Maassholder Oberhasli I
+Maassholder Regensberg I
+Maassholder Bez. Bülach I
+Maassholter Stammheim I
+Warmholz Embrach 2
+Maasholder Altikon 2
+Maassholder Weinland 29
+Warmholz Buch a.I. 51
+Massholder Sihlwald 58
+Masholder Furttal 60
+Massholder ob. Glattal 67
+Massholder Pfannenstiel 67
+Massholder 61
+
+KANTON ZUG
+Massholder
+Massholder Zug 26
+
+
+KANTON SCHWYZ
+Massholder Innerschwyz 28
+Aahorä Wägital 40
+Feld-Ahorä Arth 40
+
+KANTON URI
+Ahorä Gurtnellen 4
+
+154
+
+
+
+KANTON TESSIN
+Feld Ahora Bosco/Gurin 72
+
+KANTON THURGAU
+Massholder
+Maassholder Wigoltingen 18
+Massholder Steckborn 52
+Massholder Diessenhofen 52
+Warmholz Steckborn 52
+Warmholz Diessenhofen 52
+
+KANTON APPENZELL I.RH.
+Ahorn 34
+
+KANTON ST. GALLEN
+Massholder Sargans 13
+Masshölderis Seebezirk 13
+Chüestudä Obertoggenburg 13
+Massholder Bez. Sargans 30
+Massholder Sevelen 59
+Massholdar Berneck 59
+Massholder 61
+Massholder Bazenheid 64
+
+KANTON GLARUS
+Massholder 31
+
+KANTON GRAUBÜNDEN
+Massholder Luzein 7
+Massholder St. Antonien 7
+Massholder Bd. Herrschaft 15
+Massholder Prättigau 27
+Maassholder Vorderprättigau 32
+Massholdär Seewis 32
+Massholder Schiers 33
+Maassholder Mittel-Schanfigg 44
+
+155
+
+
+
+Massholder
+Massholder
+
+Jenaz 46
+Bez. Unterlandquart 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Massholder Vaduz 47
+
+156
+
+
+
+Acer Opalus Mill. Schneeballblättriger Ahorn
+
+
+KANTON BERN
+Opal-Ahorn Seeland 1
+Schneeballe Langenthal 9
+Opalahorn Murten 16
+Opalahorn Biel 16
+Ahorä Kandertal 66
+
+157
+
+
+
+Acer platanoides L. Spitz-Ahorn
+
+
+KANTON BASEL-LANDSCHAFT
+
+Ahorn
+Spitzahorn
+Spitzahorn
+Ohorne
+
+KANTON SOLOTHURN
+Ahorn
+
+KANTON BERN
+Spitzahorn
+Spitzahorn
+Liinahoren
+Wyssahoren
+Liinahore
+Roter Ahorn
+Ahorä
+Ahorn
+
+Oberwil 50
+Oberbaselbiet 54
+Liestal 73
+Reigoldswil 76
+
+3
+
+Murten 16
+Biel 16
+Schwanden 35
+Hasliberg 35
+Brienzersee 41
+
+62
+Kandertal 66
+Büren 19
+
+KANTON AARGAU
+Spitz-Ahorn
+Spitz-Ahorn
+Spizahorn
+Ohorn
+Spitz-Ahorn
+Spitz-Ahorn
+
+KANTON LUZERN
+Ahore
+Spitzahorn
+
+Lenzburg 56
+Muri 71
+Möhlin 69
+Zeiningen 69
+Kirchspiel 70
+ob. Fricktal 70
+
+Rigi 36
+Schwarzenberg 36
+
+158
+
+
+
+Spitzahorn Horw 36
+
+KANTON UNTERWALDEN NID DEM WALD
+Wiss-Ahorn 10
+
+KANTON SCHAFFHAUSEN
+Wiissahorn Beggingen
+Ahorn Stein am Rhein 49
+
+KANTON ZÜRICH
+Spitzliahorn Turbenthal
+Naasebaum Affoltern a. Aib
+Spizahorn Sihlwald 58
+Spitzahorn ob. Glattal 67
+Spitzahorn Pfannenstiel 67
+
+KANTON SCHWYZ
+Spitzaahorä Wägital 40
+Spitz-Ahorä Arth 40
+
+KANTON URI
+Ahorä Gurtnellen 4
+
+KANTON APPENZELL
+Ohorn 34
+
+KANTON ST. GALLEN
+Liebaum Oberriet 17
+Ragenstiel Vilters 30
+Ragenstiel Meis 30
+Agensteinen Flums 30
+Agasteina Flums 30
+Agerstein Berschis 30
+Liebaum Walenstadt 30
+
+159
+
+
+
+Spitz-Ahorn Berneck 59
+
+KANTON GLARUS
+Liibaum 31
+Spitzahore 31
+Spitzahorä 31
+
+KANTON GRAUBÜNDEN
+Regestiel Prättigau
+Rägastiel Luzein 7
+Regestiel Vorderprättigau 32
+Rägästiel Seewis 32
+Rägästiel Schiers 33
+Rägästiel Jenaz 46
+Rägastiel Mastrils 75
+Ahorn Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Spetz-Ahorn Oberland 47
+Spetz-Ahorn Unterland 47
+
+160
+
+
+
+Acer Pseudoplatanus L. Berg-Ahorn
+
+
+KANTON BASEL-LANDSCHAFT
+Bärgahorn Oberwil 50
+Ahorn Oberbaselbiet 54
+Ohorne Arisdorf 54
+Ahorn Liestal 73
+Bergahorn Liestal 73
+Ohorn Liestal 73
+Ohorne Liestal 73
+Ohorne Reigoldswil 76
+
+KANTON SOLOTHURN
+Ahorn 3
+Uhorn Bärschwil 3
+
+KANTON BERN
+Bärgahorn Murten 16
+Bärgahorn Biel 16
+Ahore Berner-Oberland 14
+Ahoren Gadmen 35
+Ahoren Hasliberg 35
+Ahorn Emmental 39
+Ahore Beatenberg 41
+Ahore Oberland 48
+Bärgahorn Rüschegg 53
+Wissahorn 62
+Waldahorn 62
+Ahorä Kandertal 66
+
+KANTON AARGAU
+Ahorn Aarau 6
+Ahorn Lenz bürg 56
+Ahorne Lenz bürg 56
+
+161
+
+
+
+Ahorn Rheinfelden,
+Mägden, Möhlin 57
+
+Ahorn Freiamt 71
+Ahorn Möhlin 69
+Berg-Ahorn Kirchspiel 70
+Ahorn Bözen 70
+
+KANTON LUZERN
+Ahore Rigi 36
+Ahorn Schwarzenberg 36
+Waldahorn Horw 36
+
+KANTON OBWALDEN
+Orn Engelberg 21
+Ore Lungern 21
+Or Melchtal 21
+
+KANTON SCHAFFHAUSEN
+Rotahorn Bargen
+Ahorn Stein am Rhein 49
+
+KANTON ZÜRICH
+Ahorn Sihlwald 58
+Ahorn oberes Glattal 67
+Bergahorn Pfannenstiel 67
+
+KANTON SCHWYZ
+Ahorä Innerschwyz 28
+Bärgaahorä Wägital 40
+Berg-Ahorä Arth 40
+
+KANTON URI
+Ahorä Gurtnellen 4
+Ahorä Ursern 4
+
+162
+
+
+
+KANTON THURGAU
+Ahorn Weinfelden 18
+
+KANTON APPENZELL
+Ohorn 34
+
+KANTON APPENZELL A.RH.
+Ohorn Gais 13
+
+KANTON ST. GALLEN
+Ohorn Werdenberg 13
+Ohorn Toggenburg 13
+Ahorrä Sargans 13
+Chüestudäbaum Obertoggenburg 13
+Ahorn Vilters 30
+Ahora Bez. Sargans 30
+Ahore Walenstadt 30
+Ahorn Berneck 59
+Ahorn Wattwil 64
+Ahorne Wattwil 64
+
+KANTON GLARUS
+Bergahore 31
+Bergahorä 31
+Bargahorä 31
+
+KANTON GRAUBÜNDEN
+Ahore Schiers
+Ahora Luzein 7
+Ahora St. Antonien 7
+Ahora Vals 24
+Ahore Prättigau 27
+Ahoora Vorderprättigau 32
+Aahoorä Schiers 33
+Ahora Safien, Versam,
+
+Valendas 43
+
+163
+
+
+
+Auhoora Langwies,
+Mittel-Schanfigg 44
+
+Ahora Obersaxen 45
+Ahora Mastrils 75
+Ahorn Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Bärg-Ahorn Oberland 47
+Bärg-Ahorn Unterland 47
+
+164
+
+
+
+Aesculus Hippocastanum L. Rosskastan
+
+
+KANTON BASEL-LANDSCHAFT
+Cheschtene Oberwil 50
+Cheschtenebaum Oberbaselbiet 54
+Cheschtenebaum Liestal 73
+
+KANTON SOLOTHURN
+Chestenebaum 3
+Ross-Cheschtene 5
+Rosscheschtene Olten 11
+Rosschegele Olten 11
+
+KANTON BERN
+Cheschtelebaum Seeland 1
+Rosscheschtele Langenthal 9
+Rosscheschtene Langenthal 9
+Chegele Langenthal 9
+Rosschegele Langenthal 9
+Rosscheschtele Murten 16
+Rosscheschtele Biel 16
+Rosschegele 14
+Chegeleboum 14
+Kestele Büren 19
+Rosschestele Büren 19
+wildi Chestele Büren 19
+Chestele 25
+Rosschesti Hasliberg 35
+Roscheschti Oberhasli 35
+Söicheschtele Emmental 39
+Cheschtiboum Brienzersee 41
+Chestele nördl. Seeland 41
+Chegele-Boum Land 48
+Chestine-Boum Stadt 48
+Chöschtiboom Rüschegg 53
+
+165
+
+
+
+Rosschestele
+Rosscheschtele
+Chegelebaum
+Chöschtiboom
+
+KANTON AARGAU
+Rosscheschtene
+Chestene
+Rosscheschtene
+Ross-Cheschtene
+Rosscheschtene
+wildi Chestene
+Chischtene
+Chäschtene
+Chischtene
+Chestene
+Säuchestene
+
+KANTON LUZERN
+Pudelchestene
+Rosschestene
+Rosschestene
+Budele
+Chestele
+Chestene
+Kestene-Baum
+
+KANTON SCHAFFHAUSEN
+Wildi Kastan
+Wildi Kastan
+Chisteleboom
+Chisteleboom
+Kaschtan
+
+KANTON ZÜRICH
+Ross-Cheschtene
+wildi Chestene
+wildi Cheschtene
+
+Emmenthal
+
+Kandertal
+
+55
+63
+62
+66
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Brugg 23
+Lenzburg 56
+Lenzburg 56
+Magden 56
+Möhlin 57
+Möhlin 69
+Fricktal 70
+Laufenburg 70
+
+Rigi 36
+Rigi 36
+Schwarzenberg 36
+Horw 36
+Hinterland 37
+Hinterland 37
+Sursee 38
+
+Thayngen
+Löhningen
+Rüdlingen
+Buchberg
+Stein am Rhein 49
+
+Bez. Horgen
+Rafz
+Bez. Rafzerfeld
+
+166
+
+
+
+Cheschtele Gossau I
+Chischtele Gossau I
+Rosschestene Winterthur 2
+Chestene Winterthur 2
+Chistene Stammertal 29
+Chistele Schlatt 51
+Cheschtenebaum Sihlwald 58
+Kaschtanie ob. Glattal 67
+Kaschtanie Pfannenstiel 67
+Rosskaschtanie ob. Glattal 67
+Rosskaschtanie Pfannenstiel 67
+Cheschtene ob. Glattal 67
+Cheschtene Pfannenstiel 67
+wildi Cheschtene ob. Glattal 67
+wildi Cheschtene Pfannenstiel 67
+Chestele 62
+
+KANTON ZUG
+wilde Chestene
+Pudelkestene Zug 26
+
+
+KANTON SCHWYZ
+Chestänä 28
+Rosschestänä Innerschwyz 28
+Rosskeestenen Wägital 40
+Rosskestänä Arth 40
+
+KANTON THURGAU
+wildi Kastanie Rhein
+wildi Kastanie Obersee
+wildi Kastanie Untersee
+wildi Kastanie Thurtal
+wildi Kastanie Hinterthurgau
+wildi Kastanie Bischofszell
+Rosschastanie Untersee
+Rosschastanie Unterthurgau
+Rosschastanie Oberthurgau
+wildi Kastanie Weinfelden 18
+
+167
+
+
+
+KANTON ST. GALLEN
+Chistelebaum
+wilda Maraboom
+wildi Chistana
+Ross-Chestana
+Chistälä
+Chestele
+Rosscheschnä
+Rosscheschnä
+Rosscheschnä
+Chischtana
+Kistana
+Rosskistana
+Chestelen
+Chischtele
+Chischtelebom
+Ross-Chischte
+Ross-Cheschtele
+
+Wildhaus 32
+13
+
+Ober-Rheintal 13
+Werdenberg 13
+Untertoggenburg 13
+Balgach 17
+Bez. Sargans 30
+Berschis 30
+Walenstadt 30
+Sevelen 59
+Berneck 59
+Berneck 59
+
+61
+Toggenburg 64
+Wattwil 64
+Ebnat-Kappel 64
+Ebnat-Kappel 64
+
+KANTON GRAUBÜNDEN
+Ross-Chestene
+Rossmara
+Chästenebom
+Marräbom
+Rosskastan
+Rosscheschtäna
+Chestina
+Chästana
+
+KANTON WALLIS
+Cheschtine
+
+KANTON URI
+Cheschtänä
+
+KANTON APPENZELL I.RH.
+Chistenä
+
+Prättigau V
+Jenins 15
+Vorderprättigau 32
+Seewis 32
+Seewis 32
+Schiers 33
+Versam 43
+Valendas 43
+
+Oberwallis 12
+
+Altdorf 4
+
+34
+
+168
+
+
+
+KANTON GLARUS
+Rosschestenäbaum 31
+Rosscheschtene 31
+
+FÜRSTENTUM LIECHTENSTEIN
+Rosskastanii Oberland 47
+Rosskastanii Unterland 47
+
+169
+
+
+
+Ainus glutinosa (L.) Gaertn. Schwarz-Erle
+
+
+KANTON BASEL-LANDSCHAFT
+Schwarzerle Oberwil 50
+Erle Oberbaselbiet 54
+Schwarzerle Oberbaselbiet 54
+Erle Liestal 73
+Erle Reigoldswil 76
+
+KANTON SOLOTHURN
+Erle 3
+Schwarzerle Olten 11
+
+KANTON BERN
+Schwarzerle Murten/Biel 16
+Erlä Kandertal 66
+Edlä Adelboden 66
+Erle Büren 19
+Erle Emmental 39
+
+KANTON AARGAU
+Schwarzerle Lenzburg 56
+Erle Rheinfelden, Mägden,
+
+Möhlin 57
+Erle Freiamt 71
+
+KANTON LUZERN
+Erle Rigi 36
+Schwarzerle Schwarzenberg 36
+Schwarzerle Horw 36
+
+170
+
+
+
+KANTON SCHAFFHAUSEN
+
+Erli Holz
+Erle Stein am Rhein 49
+
+
+KANTON ZÜRICH
+Erle Sihlwald 58
+Roterle 62
+Erle ob. Glattal 67
+Erle Pfannenstiel 67
+Schwarzerle ob. Glattal 67
+Schwarzerle Pfannenstiel 67
+
+KANTON ZUG
+Ehrä V
+
+KANTON SCHWYZ
+Schwarzeerlä Wägital 40
+Schwarz-Erlä Arth 40
+
+KANTON URI
+Erlä Altdorf 4
+
+KANTON TESSIN
+Schwarz Erla Bosco/Gurin 72
+
+KANTON THURGAU
+Erle Bischofszell
+Erle Thurtal
+Erle Oberthurgau
+Eierle Bischofszell
+Eierle Thurtal
+Eierle Oberthurgau
+Eierli Bischofszell
+Erle Weinfelden 18
+
+171
+
+
+
+KANTON ST. GALLEN
+Erlä Meis 30
+Schwarz-Erlä Flums 30
+Schwarz-Erlä Berschis 30
+Schwarz-Ärla Berneck 59
+
+KANTON GRAUBÜNDEN
+Schwarz Erlä Seewis 32
+
+FÜRSTENTUM LIECHTENSTEIN
+Schwarz-Erla Oberland 47
+Schwarz-Erla Unterland 47
+
+172
+
+
+
+Ainus incana(L.) Moench Grau-Erle
+
+
+KANTON BASEL-LANDSCHAFT
+Erle Oberbaselbiet 54
+Wisserle Oberbaselbiet 54
+Erle Liestal 73
+
+KANTON SOLOTHURN
+Erle 3
+
+KANTON BERN
+Wysserle Langenthal 9
+Wysserle Murten 16
+Wysserle Biel 16
+Wisserlen Schwanden 35
+Wisserlen Gadmen 35
+Wisserlen Hasliberg 35
+Weisserie Emmental 39
+Wysserle Mittelland 48
+Erlä Kanderthal 66
+Edlä Adelboden 66
+Erle Büren 19
+Erle Beatenberg 41
+
+KANTON AARGAU
+Wiisserle Aarau 22
+Erle Brugg 23
+Wiisserle Lenz bürg 56
+Weisserie Freiamt 71
+Wissärle Möhlin 69
+
+KANTON LUZERN
+Wisserle Horw 36
+
+173
+
+
+
+KANTON SCHAFFHAUSEN
+
+Erle Stein am Rhein 49
+
+
+
+KANTON ZÜRICH
+Wisserle Weinland 29
+Wisserle Sihlwald 58
+Wisserle 62
+Erle ob. Glattal 67
+Erle Pfannenstiel 67
+Wiisserle ob. Glattal 67
+Wiisserle Pfannenstiel 67
+
+KANTON SCHWYZ
+Wysserlä Innerschwyz 28
+Wiisserlä Wägital 40
+Grau-Erlä Arth 40
+
+KANTON URI
+Erlä Gurtnellen 4
+
+KANTON APPENZELL I.RH.
+Eilä 34
+
+KANTON ST. GALLEN
+Grò Aria Berneck 59
+Wyssärla Berneck 59
+
+KANTON GRAUBÜNDEN
+Erla Luzein 7
+Erla St. Antonien 7
+Wysserlä Seewis 32
+Wisserlä Schiers 33
+Erla Safien, Versam,
+
+Valendas 43
+
+174
+
+
+
+Erla Langwies 44
+Erlä Mittel-Schanfigg 44
+Erla Obersaxen 45
+
+FÜRSTENTUM LIECHTENSTEIN
+Wiss-Erla Oberland 47
+Wiss-Erla Unterland 47
+
+175
+
+
+
+
+Ainus viridis (Chaix) DC. Grün-Erle, Alpen-Erle
+
+KANTON BERN
+Troosle Oberland 14
+Drösle Emmental 39
+Drösle Beatenberg 41
+Droslen Schwanden 35
+Droslen Gadmen 35
+Droslen Hasliberg 35
+Drösle Oberland 63
+Droslä Kandertal 66
+
+KANTON WALLIS
+Droosle Ried 12
+Droosle Brig 12
+
+KANTON UNTERWALDEN OB DEM WALD
+Droslä Sarnen 21
+Droslä Sächseln 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Droslen 10
+
+KANTON SCHWYZ
+Ruesserlä Innerschwyz 28
+Truoserlä Wägital 40
+
+KANTON URI
+Drosslä Gurtnellen 4
+Drosslä Urseren 4
+
+176
+
+
+
+KANTON ST. GALLEN
+Tros Sargans 13
+Tros Pfäfers 30
+Trosa Valens 30
+Trousa Vättis 30
+Trous Meis 30
+Tros Walenstadt 30
+
+KANTON GLARUS
+Droos 31
+Tros 31
+
+KANTON GRAUBÜNDEN
+Dross Seewis 32
+Dros Safien, Versam,
+
+Valendas 43
+Troos Safien, Versam,
+
+Valendas 43
+Droosla Obersaxen 45
+Dros Jenaz 46
+Dröslerne Klosters 27
+Dros Klosters 27
+
+KANTON APPENZELL A.RH.
+Trossle 13
+
+177
+
+
+
+Amelanchier ovalis Medik. Felsenmispel
+
+
+KANTON BASEL-LANDSCHAFT
+Mischble
+Felsebiire
+Mischbel
+Flüebirli
+
+Bez. Sissach
+Sissach
+Rickenbach
+Reigoldsw
+
+54
+54
+54
+76
+
+KANTON SOLOTHURN
+Mischple Olten 11
+
+KANTON BERN
+Flüebirli Schwanden 35
+Flööbiri Gadmen 35
+Felsebire 63
+
+KANTON AARGAU
+Felsebeeri Suhrental 22
+
+KANTON ZÜRICH
+Felsebirne 62
+
+KANTON ST. GALLEN
+Mistla Berneck 59
+
+KANTON GRAUBÜNDEN
+Süätschgi Plessur 44
+
+178
+
+
+
+Berberis vulgaris L. Sauerdorn
+
+
+KANTON BASEL-LANDSCHAFT
+Suurdorn Oberwil 50
+Ärbsele Diegten 54
+Ärbsele Frenkentäler 54
+Erbsele Bennwil 54
+Erbsele Bez. Liestal 54
+Erbsele Bez. Sissach 54
+Suurbeeri Liestal 54
+Oschterholz Liestal 54
+Hasebrot Liestal 54
+Essigchrüegli Anwil 54
+Spitzbeeri Sissach 54
+Surdorn Bez. Sissach 54
+Berberitze Rickenbach 54
+Berberitze Gelterkinden 54
+Erbsele Liestal 73
+Surdorn Liestal 73
+Ärbsele Reigoldswil 76
+
+KANTON SOLOTHURN
+Berberitze Dörnach 3
+Suurdorn Olten 11
+
+KANTON BERN
+Erbsele Bern
+Erbsele Thun
+Erbsele Simmental
+Berberitze Langenthal 9
+Berberitze Murten 16
+Berberitze Biel 16
+Berberize Büren a.A. 19
+Zandholz Schwanden 35
+Erbsellen Gadmen 35
+
+
+179
+
+
+
+Erbsellen Hasliberg 35
+Rächezaanholz Brienzersee 41
+Berberize nördl. Seeland 42
+Suurdorn Rüschegg 53
+Berberitze 63
+
+KANTON WALLIS
+Schwiderbeer Brig 12
+Schwiderbeer Termen 74
+
+KANTON AARGAU
+Berberitze 6
+Suurdorn Aarau 22
+Berberitze Brugg 23
+Erbsele Mägden 57
+Berberitze Freiamt 71
+Hasechrut 71
+Wehdorn 71
+Bärberize Möhlin 69
+Berberitze Kirchspiel 70
+
+KANTON LUZERN
+Surbeeri Reiden VI
+Surbeeri Lowerz VI
+Erbselädörn Entlebuch VI
+Ibseläbeeri Weggis VI
+Ibscheläbeeri Entlebuch VI
+Ibscheläbeeri Weggis VI
+Chrüzdorn Rigi 36
+Berberizze Horw 36
+Berberize Schwarzenberg 36
+Berberitze Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Erbselä VI
+Ibscheläbeeri VI
+Rächäzinggäholz Sächseln 21
+Rächäzinggäholz Giswil 21
+
+180
+
+
+
+KANTON UNTERWALDEN NID DEM WALD
+Erbseläbeeri VI
+Ibselä VI
+
+KANTON SCHAFFHAUSEN
+Suurdorn Stein am Rhein 49
+Spitzbeeri Stein am Rhein 49
+
+KANTON ZÜRICH
+Geelholz Bez. Rafzerfeld I
+Gäälholz Oberland I
+Göörpsele Bez. Rafzerfeld I
+Ärbsele Turbenthal I
+Öbsele I
+Spiesstörn Turbenthal I
+Ryspitze Turbenthal I
+Bettlerchruud Stammheim I
+Wyspitzbeeri Gossau I
+Wyspitzbeeritörn Gossau I
+rooti Tintebeeri
+Berberize Winterthur 2
+
+
+Ürpselle Flaach 29
+Surdorn Sihlwald 58
+Berberize Sihlwald 58
+Berberitze 62
+Gäälholz 62
+Berberitze ob. Glattal 67
+Iispitz rechtes Zürich­
+
+seeufer 67
+
+KANTON ZUG
+Spitzbeeri
+Erbselä
+Ibseläbeeri
+
+Walchw
+Zug
+
+
+KANTON SCHWYZ
+Ibseläbeeri VI
+
+181
+
+
+
+Spitzbeeri Bez. Schwyz VI
+Spitzbeeri Einsiedeln VI
+Spitzbeeri Bez. March VI
+Spitzdoräbeeri Galgenen VI
+Berberitze 28
+Spitzbeeri Wägital 40
+Berberitzä Arth 40
+
+KANTON URI
+Dornä Gurtnellen 4
+Erbselä Silenen VI
+Erbseläbeeri VI
+Ibseläbeeri VI
+Ibscheläbeeri VI
+
+KANTON THURGAU
+Fässlichrut Obersee
+Fässlistruch Oberthurgau
+Fässlistruch Obersee
+Muttergotteschrut Rhein
+Spitzbeeristruch Hinterthurgau
+
+KANTON APPENZELL I.RH.
+Sumötzli 34
+
+KANTON ST. GALLEN
+Spitzbeeri Altstätten 17
+Spitzbeeri Bez. Sargans 30
+Surdorn Berneck 59
+Spitzbeeri Bazenheid 64
+
+KANTON GLARUS
+Spitzbeeri 31
+
+182
+
+
+
+KANTON GRAUBÜNDEN
+Spitzberri Luzein 7
+Spitzberri St. Antonien 7
+Gäälhagel Luzein 7
+Gäälhagel St. Antonien 7
+Spitzbeeri Jenins 15
+Gäälhagel Jenins 15
+Spitzberi Vals 24
+Spitzbeeri Vorderprättigau 32
+Spitzbeer Seewis 32
+Gächagel Seewis 32
+Spitzbeeri Valendas 43
+Spitzberi Langwies, Mittel-
+
+Schanfigg 44
+Spitzberi Jenaz 46
+Gäälhagel Mastrils 75
+Spitzbeeri Untervaz 75
+Gäälhagel Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Spitzbeer Schaan 47
+Spitzbeer Vaduz 47
+Spitzbeer Eschen 47
+
+183
+
+
+
+Betula pubescens Ehrh. Moor-Birke
+
+
+KANTON BERN
+Birke Biel 9
+Birch Emmental 39
+Birche Beatenberg 41
+Birche Emmental 55
+Torfbirke 63
+Byrch Kandertal 66
+
+KANTON AARGAU
+Birche Rheinfelden,
+
+Mägden, Möhlin 57
+Duftbirke Freiamt 71
+
+KANTON LUZERN
+Birche Schwarzenberg 36
+Birche Urserner Hinterland 37
+Birre Urserner Hinterland 37
+
+KANTON UNTERWALDEN OB DEM WALD
+Birchä Giswil 21
+Birchä Sarnen 21
+Bire Schwendi 21
+
+KANTON SCHAFFHAUSEN
+Birke Stein am Rhein 49
+
+KANTON ZÜRICH
+Sumpfbirke 62
+Birche ob. Glattal 67
+
+184
+
+
+
+Birche Pfannenstiel 67
+
+KANTON SCHWYZ
+Ruchbirkä Wägital 40
+Ruchbirkä Arth 40
+
+KANTON URI
+Birkä Gurtnellen 4
+
+KANTON APPENZELL I.RH.
+Böhhä 34
+
+KANTON ST. GALLEN
+Birka Berneck 59
+
+KANTON GRAUBÜNDEN
+Bircha Luzein 7
+Bircha St. Antonien 7
+Birkä Seewis 32
+Birhä Schiers 33
+Bircha Langwies 44
+Birchä Mittel-Schanfigg 44
+
+185
+
+
+
+Betula verrucosa Ehrh. Warzen-Birke
+
+
+KANTON BASEL-LANDSCHAFT
+Birke Sissach 54
+Birche Oberbaselbiet 54
+Birche Liestal 73
+Birke Liestal 73
+Birche Reigoldswil 76
+
+KANTON SOLOTHURN
+Birke 3
+
+KANTON BERN
+Birche Seeland 1
+Birke Murten/Biel 9
+Birch Emmental 39
+Birche Beatenberg 41
+Birche Rüschegg 53
+Byrch Kandertal 66
+Biirkä Adelboden 66
+
+KANTON AARGAU
+Birch Aarau 6
+Birke Brugg 23
+Birche Lenzburg 56
+Birch Lenz bürg 56
+Birche Rheinfelden,
+
+Mägden, Möhlin 57
+Birke 71
+
+KANTON LUZERN
+Birke Rigi 36
+Birche Rigi 36
+186
+
+
+
+Birche
+Berke
+Birche
+
+Schwarzenberg
+Horw
+Sursee
+
+36
+36
+38
+
+KANTON UNTERWALDEN OB DEM WALD
+Harzerä Älggi 21
+Harzerä Sächseln 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Birch 10
+
+KANTON ZÜRICH
+Birke Sihlwald 58
+Birche ob. Glattal 67
+Birche Pfannenstiel 67
+
+KANTON SCHWYZ
+Birchä Innerschwyz 28
+Birkä Wägital 40
+Birkä Arth 40
+
+KANTON URI
+Birkä Gurtnellen 4
+Birkä Ursern 4
+
+KANTON TESSIN
+Berchulti Bosco/Gurin 72
+
+KANTON APPENZELL A.RH.
+Bilche Gais 13
+
+187
+
+
+
+KANTON ST. GALLEN
+Bilka
+Bilchä
+Birchä
+Bilächä
+Birche
+Birchä
+Bircha
+Birchä
+Birka
+Bilche
+
+Unter-Rheintal 13
+Werdenberg 13
+Sargans 13
+Toggenburg 13
+Vilters 30
+Meis 30
+Vättis 30
+Flums 30
+Berneck 59
+Wattwil 64
+
+KANTON GLARUS
+Birche
+Birchä
+
+31
+31
+
+KANTON GRAUBÜNDEN
+Bircha
+Bircha
+Birkä
+Birhä
+Bircha
+Bircha
+Birchä
+Bircha
+Bircha
+Bircha
+Bircha
+
+Luzein 7
+St. Antonien 7
+Seewis 32
+Schiers 33
+Valendas 43
+Langwies 44
+Mittel-Schanfigg 44
+Obersaxen 45
+Jenaz 46
+Mastrils 75
+Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Börha Schaan 47
+Börcha Vaduz 47
+Bircha Balzers 47
+Birka Unterland 47
+
+188
+
+
+
+Buxus sempervirens L. Buchsbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Buchs Oberwil 50
+Buchs Oberbaselbiet 54
+Bux Liestal 73
+Buchs Liestal 73
+Buchs Reigoldswil 76
+
+KANTON SOLOTHURN
+Buchs
+Buchs
+
+Dörnach 3
+Olten-Gäu 11
+
+KANTON BERN
+Buchs
+Buchs
+Buchs
+Buchsboum
+Buchsboum
+Buchs
+Buchs
+Buchs
+Buggs
+Buchs
+
+Langenthal 9
+Murten 16
+Biel 16
+Murten 16
+Biel 16
+Emmental 39
+nördl. Seeland 42
+Rüschegg 53
+Kandersteg 66
+
+63
+
+KANTON AARGAU
+Bochs
+Buchs
+Buchs
+
+Palme
+
+Aarau 22
+Brugg 23
+Rheinfelden, Mägden,
+Möhlin 57
+Kirchspiel 70
+
+189
+
+
+
+KANTON LUZERN
+Buchs Rigi 36
+Buchs Schwarzenberg 36
+Bochs Horw 36
+
+KANTON SCHAFFHAUSEN
+Buchs Stein am Rhein 49
+Gäälholz Stein am Rhein 49
+
+KANTON ZÜRICH
+Buchs
+
+KANTON SCHWYZ
+Buchs Arth 40
+
+KANTON THURGAU
+Buchs Weinfelden 18
+
+KANTON ST. GALLEN
+Buggs Flums, Berschis,
+
+Walenstadt 30
+Buxboom Berneck 59
+Buxbäsa Berneck 59
+
+KANTON GRAUBÜNDEN
+Bux Fanas 32
+Bux Schiers 33
+
+190
+
+
+
+Carpinus Betulus L. Hainbuche
+
+
+KANTON BASEL-LANDSCHAFT
+Hagebueche Oberwil 50
+Hagebueche Oberbaselbiet 54
+Hagebueche Liestal 73
+Bueche Reigoldswil 76
+
+KANTON SOLOTHURN
+Hagebueche Breitenbach 3
+Hagelbueche Breitenbach 3
+Hagebueche Olten-Gäu 11
+Hagibueche Olten-Gäu 11
+
+KANTON BERN
+Hagebueche Seeland 1
+Hagebuche Langenthal 9
+Hagebuche Murten 16
+Hagebuche Biel 16
+Hagebueche 14
+Hagebuche Büren a.A. 19
+Wyssbueche Büren a.A. 19
+Hagbueche 25
+Hagebueche Emmental 39
+Hagebueche nördl. Seeland 42
+Hagebueche Mittelland 48
+Hagebueche Rüschegg 53
+Hagebuche Wohlen 55
+Hagebueche Emmental 55
+Wyssbueche 63
+Hagebueche 63
+Hagäbuächä Kandertal 66
+
+191
+
+
+
+KANTON AARGAU
+Hagebueche Aarau 6
+Hagebueche Fricktal 8
+Hagebueche Aarau 22
+Hagebueche Brugg 23
+Hagebuech Lenzburg 56
+Hagebueche Rheinfelden,
+
+Mägden, Möhlin 57
+Weissbuche Freiamt 71
+Hagebuche Zofingen 68
+Hagebuech Möhlin 69
+Hagebuech Kirchspiel, Aargau 70
+Wyssbuech Kirchspiel 70
+Steibuche Laufenburg 70
+Hagebueche Oberaargau 14
+
+KANTON LUZERN
+Hagbueche VI
+Hagbuechä Amt Sursee VI
+Hagbuechä Amt Willisau VI
+Hagäbuechä Amt Sursee VI
+Hagäbuechä Amt Willisau VI
+Hagebueche Rigi 36
+Hagebuech Schwarzenberg 36
+Hagenbueche Horw 36
+Hagbuech Hinterland 37
+Hagebue Hinterland 37
+Hagebuech Sursee 38
+Hagebueche Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Hagäbuächä 21
+
+KANTON SCHAFFHAUSEN
+Hagebueche
+Hagebuech Stein am Rhein 49
+
+192
+
+
+
+KANTON ZÜRICH
+Hagebueche 2
+Hagebueche I
+Hagebuche Weinland 29
+Hagebuche Schlatt 51
+Hagebueche Sihlwald 58
+Hagebuche 59
+Hagebuche Furttal 60
+Hagebuche 62
+Waisbuche 62
+Hagebueche ob. Glattal 67
+Hagebueche Pfannenstiel 67
+
+KANTON SCHWYZ
+Hagbuechä Bez. March VI
+Hagbuechä Schwyz VI
+Hagelbuechä Galgenen VI
+Hagebuechä Schwyz 28
+Hage-Buchä Arth 40
+Hagebuoch Wägital 40
+
+KANTON THURGAU
+Hagebueche
+Hagebueche Weinfelden 18
+
+KANTON ST. GALLEN
+Hagabuacha Werdenberg 13
+Hagebuche Vilters 30
+Hagebuchä Meis 30
+Hagebuche Flums, Berschis,
+
+Bad Ragaz 30
+Hagabuacha Berneck 59
+
+KANTON GLARUS
+Hagebueche 31
+Hagebuechä 31
+
+
+
+KANTON GRAUBÜNDEN
+Hagebueche
+Hagebueche
+Hagäbuächä
+
+FÜRSTENTUM LIECHTENSTEIN
+Hagabuacha Schiers V
+Hagabuacha Vorderprättigau 32
+
+
+
+194
+
+
+
+Castanea sativa Mill. Edelkastan
+
+
+KANTON BERN
+Cheschtene
+Chestele
+zahmi Cheschtele
+Chegele
+Kestele
+Äss-Chestele
+rächti Chestele
+Cheschtene
+Chestele
+zahmi Cheschti
+Chöschtiboom
+Educhestele
+Chöschtiboom
+
+Langenthal 9
+Langenthal 9
+Murten 16
+
+14
+Büren a.A. 19
+Büren a.A. 19
+Büren a.A. 19
+Emmental 39
+Emmental 39
+Beatenberg 41
+Rüschegg 53
+Emmental 55
+Kandertal 66
+
+KANTON AARGAU
+zahmi Cheschtene
+zaami Chestene
+Cheschtene
+zaami Cheschtene
+Chestene
+Marroni
+
+KANTON LUZERN
+Chestene
+Cheschtene
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Lenzburg 56
+Freiamt 71
+Kirchspiel 70
+
+Rigi 36
+Horw 36
+
+KANTON SCHAFFHAUSEN
+echti Kastanie I
+
+195
+
+
+
+KANTON ZÜRICH
+Chestene 2
+Maronibaum 61
+zahme Kastanie 62
+Marronibaum 62
+zahmi Kaschtanie ob. Glattal 67
+zahmi Kaschtanie Pfannenstiel 67
+zahmi Cheschtenen ob. Glattal 67
+zahmi Cheschtenen Pfannenstiel 67
+Maronibaum 59
+
+KANTON ZUG
+Chestenäbaum
+
+KANTON SCHWYZ
+Kastanie Arth 40
+
+KANTON URI
+GurtnellenCheschtänäbäim 4
+
+KANTON THURGAU
+Kastanie Weinfelden 18
+
+KANTON ST. GALLEN
+Keschnäbaum Sargans 13
+Maronibaum Goldach 17
+Marabaum Eichberg 17
+Cheschnä Vilters 30
+Cheschnä Meis 30
+Cheschdana Bad Ragaz 30
+Cheschnä Flums, Berschis,
+
+Walenstadt 30
+Mara Berneck 59
+
+196
+
+
+
+KANTON GLARUS
+Cheschtenäbaum
+Cheschtenebaum
+
+Glarus 31
+31
+
+KANTON GRAUBÜNDEN
+Chestänä Seewis 32
+Cheschtänä Schiers 33
+
+197
+
+
+
+Clematis Vitalba L. Waldrebe
+
+
+KANTON BASEL-LANDSCHAFT
+Liene Oberwil 50
+Niele Oberbaselbiet 54
+Jele Wittinsburg, Bretzwil 54
+Jele Reigoldswil 54
+Niele Liestal 73
+Niele Reigoldswil 76
+Jele Reigoldswil 76
+
+KANTON SOLOTHURN
+Jele Nuglar, Seewen 3
+Liene Dorneck 3
+Niële Gäu 5
+
+KANTON BERN
+le
+Niele Thun
+Niele Biel
+Niele Seeland 1
+Niele Langenthal 9
+Niele 14
+Iiele 14
+Niele Murten, Biel 16
+Jele Büren a.A. 19
+Niele Büren a.A. 19
+Niele 25
+Liendien Schwanden 35
+Lienen Hasliberg 35
+leie Emmental 39
+Nielle Beatenberg 41
+Niendli Brienzersee 41
+Niele Biel 42
+Niele Mittelland 48
+Waldräbe Rüschegg 53
+
+198
+
+
+
+Jele Rüschegg 53
+Jele Emmental 55
+Niele 63
+Husaretuback 63
+Niälä Kandertal 66
+
+KANTON WALLIS
+Niele Oberwallis 12
+Niele Termen 74
+Niele Brig 74
+
+KANTON AARGAU
+Niele Aarau 6
+Niele Fricktal 8
+Niele Oberaargau 14
+Niele Aarau 22
+Niele Brugg 23
+Liene Oberhof 22
+Niele Lenzburg 56
+Liene Magden 57
+Niele Freiamt 71
+Liene Freiamt 71
+Niele Zofingen 68
+Liene Möhlin 69
+Niele Brugg 70
+Liane Brugg 70
+Niele Fricktal 70
+Liane Fricktal 70
+Niele Kirchspiel 70
+
+KANTON LUZERN
+Nielä Vili
+Niele Rigi 36
+Niele Schwarzenberg 36
+Niele Horw 36
+Niele Amt Willisau 37
+Nieäle Sursee 38
+
+199
+
+
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Niälä 21
+
+KANTON UNTERWALDEN NID DEM WALD
+
+Niele 10
+
+KANTON SCHAFFHAUSEN
+
+Lene Bez. Reiat
+Lene Bez. Schaffhausen
+Lene Bez. Unterklettgau
+Lene Bez. Schleitheim
+Haglene Bez. Oberklettgau
+Haglene Bez. Unterklettgau
+Niele Bez. Stein am Rhein
+Liene Bez. Schaffhausen
+Liele Rüdlingen I
+Niele Stein am Rhein 49
+Nelle 29
+
+KANTON ZÜRICH
+Niele I
+Liene Stammheim I
+Liene Bez. Rafzerfeld I
+Lëëne
+Niele
+
+Bez. Rafzerfeld
+2
+
+
+Niele Weinland 29
+Laanewide Flurlingen 29
+Niele Schlatt 51
+Niele Sihlwald 58
+Niehle 61
+Nieälä 62
+Niele ob. Glattal 67
+Niele Pfannenstiel 67
+
+KANTON SCHWYZ
+Niälä Einsiedeln 28
+Nieelen Wägital 40
+Nieelen Arth 40
+
+200
+
+
+
+KANTON URI
+
+Niälä Gurtnellen 4
+
+KANTON THURGAU
+Jele Oberthurgau
+Jele Unterthurgau
+Liene Rhein
+Niele Bischofszell
+Niele Hinterthurgau
+Niele Thurtal
+Niele Oberthurgau
+Niele Obersee
+Niele Rhein
+Niele Unterthurgau
+Niele Weinfelden 18
+Niele Steckborn 52
+Niele Diessenhofen 52
+Liene Steckborn 52
+Liene Diessenhofen 52
+
+KANTON APPENZELL I.RH.
+Nielä 34
+
+KANTON ST. GALLEN
+Niala Rheintal 13
+Niala Toggenburg 13
+Räucherli 13
+Niele ganzes Rheintal 17
+Nielä Vilters, Meis 30
+Niela Bez. Sargans 30
+Niala Berneck 59
+Niala Sevelen 59
+Räba Berneck 59
+Niele Wattwil 64
+
+201
+
+
+
+KANTON GRAUBÜNDEN
+Niele Schiers
+Niele Trimm
+Niela Luzein 7
+Niela Jenins 15
+Niela Churwaiden 20
+Pfiifferöhrli Klosters 27
+Niele Klosters 27
+Niele Vorderprättigau 32
+Dielä Seewis 32
+Niela Valendas 43
+Nielä Mittel-Schanfigg 44
+Niela Mittelprättigau,
+
+Jenaz 46
+Niala Mastrils 75
+Niala Untervaz 75
+
+KANTON GLARUS
+Wiele Glarus 31
+Wielä Glarus 31
+Niele Glarus 31
+Nielä Glarus 31
+
+FÜRSTENTUM LIECHTENSTEIN
+Niala Oberland 47
+Niala Unterland 47
+
+202
+
+
+
+Cornus mas L. Kornelkirsche
+
+
+KANTON BASEL-LANDSCHAFT
+Tierlibaum Oberwil 50
+Dierlibaum Oberbaselbiet 54
+Diirlibaum Liestal 54
+Fluehwiidli Diegten 54
+Dierlibaum Liestal 73
+Dierlibaum Reigoldswil 76
+
+KANTON SOLOTHURN
+Tierlibaum Gäu 5
+
+KANTON BERN
+Tierli VI
+Tierli Thun VI
+Tierli Erlach VI
+Tierlibaum Langenthal 9
+Tierliboum Murten 16
+Tierliboum Bern 14
+Tierliboum Büren a.A. 19
+Tierliboum 25
+Tierliboum Thunersee 41
+Tierliboum 48
+Tierlibaum 63
+Kornel-Chirschi Kandertal 66
+
+KANTON AARGAU
+Tierlibaum Fricktal 8
+Tierliboum Oberaargau 14
+Dierlibaum Freiamt 22
+Tierlibaum Zurzach 23
+Tierlibaum Lenzburg 56
+Tierliboum Mägden 57
+Judechriesi Freiamt 71
+
+203
+
+
+
+Tierlibaum
+Tierli
+Judechriesi
+Judechriesi
+
+Muri 71
+Möhlin 69
+Fricktal 70
+Kirchspiel 70
+
+KANTON SCHAFFHAUSEN
+Tierlibomm
+Tierlibomm
+Tierlibom
+
+Bez. Reiat
+
+Stein am Rhein 49
+
+KANTON ZÜRICH
+Tierlibaum
+Tierlibaum
+Tierlibaum
+Tierlibaum
+Tierlibaum
+Tierlibaum
+
+KANTON SCHWYZ
+Kornelkriesi
+
+KANTON THURGAU
+Tierlibomm
+
+KANTON ST. GALLEN
+Tiarli-Bomm
+Turnetzla-Bomm
+Tirlitzli
+Malausa
+Chriesi
+Schwarzbeeristuda
+Hart rigai
+
+Weinland 29
+Winterthur 29
+
+61
+62
+
+Zürich-Stadt 67
+
+Arth 4.0
+
+Ober-Rheintal
+
+13
+13
+13
+
+Vilters 30
+Sevelen 59
+Berneck 59
+Berneck 59
+
+204
+
+
+
+Cornus sanguinea L. Hartriegel
+
+
+KANTON BASEL-LANDSCHAFT
+Hartriegel
+Chindgerte
+Chindgerte
+Chingerte
+Tintebeeri
+Spickbeeri
+Chingerte
+Chingerte
+Tintebeeri
+Chindgerte
+
+Oberwil 50
+Liestal 54
+Sissach 54
+Oberbaselbiet 54
+Rümlingen 54
+Arisdorf 54
+Liestal 73
+Reigoldswil 76
+Reigoldswil 76
+Reigoldswil 76
+
+KANTON SOLOTHURN
+Ching-gerte
+Chiengerte
+
+Dorneck 3
+Thierstein 3
+
+KANTON BERN
+Hartriegel
+Hornstruch
+Pumpenschlegel
+Geisschiechle
+Rotstrauch
+Hornstruch
+Hertgerte
+Tierliboum
+Hartriegäll
+
+Biel 16
+Seeland 16
+Schwanden 35
+Brienzersee 41
+Jurasüdfuss 42
+Mittelland 48
+Wohlen 55
+Emmental 55
+Kandertal 66
+
+KANTON AARGAU
+Chängeste
+Steiwidli
+Chenggerte
+roti Chingerte
+
+Aarau 6
+Fricktal 8
+Suhrental 22
+Brugg 23
+
+205
+
+
+
+Chinggerte
+
+Chiengerte
+Chingerte
+Zeigerholz
+Geisshag-Staude
+Ching-gerte
+Hornstruch
+Kingerte
+
+Ammerswil,
+Othmarsingen 56
+Mägden, Möhlin 57
+Freiamt 71
+Freiamt 71
+Zofingen 68
+Möhlin 69
+Kirchspiel 70
+Kirchspiel 70
+
+KANTON LUZERN
+roter Hornstrauch
+Chrotäbeeri
+Tintebeeri
+Hornstruuch
+
+Vili
+Entlebuch Vili
+Rigi, Schwarzenberg 36
+Horw 36
+
+KANTON UNTERWALDEN OB DEM WALD
+Chrotäbeeri VI
+
+KANTON UNTERWALDEN NID DEM WALD
+Chrotäbeeri Emmetten VI
+Chrotäbeeri VI
+Chrotäbeeri Engelberg VI
+
+KANTON SCHAFFHAUSEN
+Rotgert
+Rotgert
+Rotchellgert
+Rotchellgert
+Rotchillgert
+Rotchillgert
+Rotchillgert
+Rotchillgert
+Rotchillgert
+Rotchillgert
+Rotchingert
+Rotchollgert
+Rotchollgert
+
+Ramsen
+Buch
+Bez. Reiat
+Bez. Schleitheim
+Bez. Stein am Rhein
+Bez. Reiat
+Bez. Schaffhausen
+Bez. Unterklettgau
+Bez. Schleitheim
+Bez. Schaffhausen
+Bargen
+Bez. Stein am Rhein
+Bez. Unterklettgau
+
+206
+
+
+
+Rotchöllgert Bez. Schaffhausen
+Rotchöllgert Bez. Unterklettgau
+Bluetruete Rüdlingen
+rot Cholgertis Stein am Rhein 49
+Geerte Trasadingen I
+Rotgeerte Ramsen I
+Rotgeerte Buch I
+Chellgeerte Bez. Reiat I
+Chellgeertis Bez. Reiat I
+Chellgeerte Bez. Schleitheim I
+Chellgeertis Bez. Schleitheim I
+Rotchellgeerte Bez. Reiat I
+Chillgeertis Bez. Reiat I
+Rotchillgeerte Buch I
+Rotchillgeerte Merishausen I
+Chollgeert Bez. Unterklettgau I
+Rotchollgeert Bez. Reiat I
+Chölgeerte Bez. Schaffhausen I
+Chingeerte Bargen I
+Ättiruete Bez. Oberklettgau I
+
+KANTON ZÜRICH
+rooti Chregeete Turbenthal I
+root Chegeet Gossau I
+rooti Chërgeete Obfelden I
+rooti Chilgërte Rafz I
+rooti Cholgërte Stammheim I
+rooti Hërgeete Bez. Affoltern I
+Chilgeerte 2
+Kelgerte Stammertal 29
+Kelgerte Weinland 29
+Rotkelgerte Flaach 29
+Hartriegel Sihlwald 58
+Roterhornstrauch 61
+roter Hornstrauch 62
+Chengärte Dübendorf 67
+roti Chärgete rechtes Zürichseeufer 67
+
+KANTON ZUG
+roter Dornstrauch
+Chrotäbeeri
+
+
+
+207
+
+
+
+KANTON SCHWYZ
+Chrotäbeeri
+Chrotäbeeri
+Besensträucher
+Hartriegel
+
+KANTON URI
+Bisch
+Chrotäbeeri
+
+Küssnacht a.R.
+Bez. Schwyz
+Arth
+Wägital
+
+Gurtnellen
+
+
+40
+40
+
+4
+
+KANTON THURGAU
+Hulftere Unterthurgau
+Hülftere Hinterthurgau
+Hülftere Untersee
+Hülftere Seerücken
+roti Halftere Rhein
+Hartriegel Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Hagstudä 34
+
+KANTON ST. GALLEN
+Beiwida 13
+Bluatrüethis Rheintal 13
+Bluatruatha Rheintal 13
+Rotcherngeht Werdenberg 13
+Geishasla Werdenberg 13
+Geishasla Sargans 13
+Herragerta Gaster 13
+Bluatrouta Bad Ragaz 30
+Geisshaslä Walenstadt 30
+Bluetrueta Sevelen 59
+Hartrigal Berneck 59
+
+208
+
+
+
+KANTON GRAUBÜNDEN
+Bluetruetha Jenins
+Nägelhülzi Haldenste
+Bluatruata Jenins 15
+Tintebeeri Vorderprättigau 32
+Geissberi Schiers 33
+Karnal Valendas 43
+Horngerta Untervaz 75
+
+
+FÜRSTENTUM LIECHTENSTEIN
+Bluatruata Oberland 47
+Bluatruata Unterland 47
+Bluatrüatle Oberland 47
+Bluatrüatle Unterland 47
+
+209
+
+
+
+Cory lus Avellana L. Haselstrauch
+
+
+KANTON BASEL-LANDSCHAFT
+Hasle Oberwil 50
+Hasle Oberbaselbiet 54
+Hasle Liestal 73
+Hasle Reigoldswil 76
+
+KANTON SOLOTHURN
+Hasle Dörnach 3
+Haselstude Olten-Gäu 11
+
+KANTON BERN
+Hasle Seeland 1
+Haselstude Langenthal 9
+Hasle Langenthal 9
+Hasustruch Biel 16
+Hasustruch Murten 16
+Hasustude Biel 16
+Hasustude Murten 16
+Hasle Biel 16
+Hasle Murten 16
+Haslere 14
+Hasunussstruch 14
+Haselstruch Büren a.A. 19
+Hasle Büren a.A. 19
+Hasle 25
+Haselstüüden Gadmen 35
+Haselstüüden Hasliberg 35
+Hasle Emmental 39
+Hasle Beatenberg 41
+Hasle nörd. Seeland 42
+Hasle Mittelland 48
+Haslere Mittelland 48
+Hasle Rüschegg 53
+Hasle Emmental 55
+
+210
+
+
+
+Hasle 63
+Haslere Adelboden 66
+Hasli Kandertal 66
+
+KANTON WALLIS
+Hasulstude Termen 74
+Hasulstude Brig 74
+
+KANTON AARGAU
+Hasle Aarau 6
+Hasle Aarau 22
+Hasu Suhrental 22
+Hasel Brugg 23
+Hasle Lenzburg 56
+Hasle Mägden 57
+Hasle Freiamt 71
+Haselschtruuch Möhlin 69
+Haselbusch Möhlin 69
+Hasle Bez. Brugg 70
+Hasle Kirchspiel 70
+
+KANTON LUZERN
+Hasel Rigi 36
+Hasle Schwarzenberg 36
+Haselnuss Horw 36
+Haselstude Amt Willisau 37
+Hasle Amt Willisau 37
+Hasastude Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Hagnuss 21
+
+KANTON SCHAFFHAUSEN
+Haselstuude
+Haselpösche
+Haselnusspösche
+Haselnuss Stein am Rhe
+
+
+
+
+KANTON ZÜRICH
+Hasle 2
+Haselnuss 2
+Hasle Flaach 29
+Hasle Buch a.I. 51
+Haselstude Sihlwald 58
+Hasle Sihlwald 58
+Hasel 61
+Hasle 62
+Hasle ob. Glattal 67
+Hasle Pfannenstiel 67
+Haselstruch ob. Glattal 67
+Haselstruch Pfannenstiel 67
+
+KANTON SCHWYZ
+Haslä Schwyz 28
+Haselstaudä Arth 40
+Haselnuss Wägital 40
+
+KANTON URI
+Hassläschtüdä Gurtnellen 4
+
+KANTON TESSIN
+Haselnusböm Bosco/Gurin 72
+
+KANTON THURGAU
+Hadenussstude Hinterthurgau
+Hagenossstude Thurtal
+Haselnussstude Hinterthurgau
+Haselnussstude Thurtal
+Haselnussstude Hinterthurgau
+Haselnussstude Thurtal
+Haselstude Oberthurgau
+Hasenossstude Oberthurgau
+Haselnuss-Stude Weinfelden 18
+
+212
+
+
+
+KANTON APPENZELL I.RH.
+
+Haselnoss 34
+
+KANTON ST. GALLEN
+Haslistuda Rheintal 13
+Hasliholz Rheintal 13
+Haslä Vilters 30
+Haslä Meis 30
+Hasla Bad Ragaz 30
+Haselschtuda Vättis 30
+Haselschtuda Flums 30
+Haslä Berschis 30
+Hasla Sevelen 59
+Hasle Berneck 59
+Hasle Wattwil 64
+Haselstruuch Wattwil 64
+
+KANTON GLARUS
+Hasle Glarus 31
+Haslä Glarus 31
+
+KANTON GRAUBÜNDEN
+Hasle Schiers V
+Hasla Luzein 7
+Hasla St. Antonien 7
+Haselstuda Vals 24
+Haslene Klosters 27
+Hasle Vorderprättigau 32
+Haslä Seewis 32
+Haselstudä Seewis 32
+Haslä Schiers 33
+Hassla Safien, Valendas 43
+Hasla Langwies 44
+Haslä Mittel-Schanfigg 44
+Hassla-Stüda Obersaxen 45
+Hassla Mastrils 75
+Hassla Untervaz 75
+
+213
+
+
+
+FÜRSTENTUM LIECHTENSTEIN
+
+Hasla Oberland 47
+Haslstruch Unterland 47
+
+
+
+214
+
+
+
+Crataegus Oxy acari tha L. Weissdorn
+
+
+KANTON BASEL-LANDSCHAFT
+Wiissdorn Oberbaselbiet 54
+Wissdorn Liestal 73
+Wyssdorn Reigoldswil 76
+
+KANTON SOLOTHURN
+Wissdorn Dörnach 3
+Wyssdorn Olten-Gäu 11
+
+KANTON BERN
+Wyssdorn Murten 16
+Wyssdorn Biel 16
+Wiissdorn 14
+Wyssdorn Büren a.A. 19
+Higgi Schwanden 35
+Schlehdorn Emmental 39
+Wiesdorn Rüschegg 53
+Wyssdorä Kandertal 66
+
+KANTON AARGAU
+Wiissdorn Aarau 6
+Wiissdorn Aarau 22
+Wiissdorn Lenz bürg 56
+Wyssdorn Rheinfelden,
+
+Mägden, Möhlin 57
+Wissdorn Freiamt 71
+Hagedorn Freiamt 71
+Wissdorn Möhlin 69
+Wisdom Fricktal 70
+Wyssdorn Kirchspiel 70
+
+215
+
+
+
+KANTON LUZERN
+Wissdorn Rigi 36
+Wiissdorn Schwarzenberg 36
+Wiissdorn Horw 36
+
+KANTON SCHAFFHAUSEN
+Wiissdorn Stein am Rhein 49
+
+KANTON ZÜRICH
+Wysstörn I
+Hegitörn Bez. Hinwil I
+Hegitörn Bez. Affoltern I
+Määlbeeri Wald I
+Haagöpfeli Wald I
+Frauebeeri oberes Tösstal I
+Heggebeeri I
+Söibeeri I
+Wissdorn Sihlwald 58
+Wiissdorn ob. Glattal 67
+Wiissdorn Pfannenstiel 67
+
+KANTON SCHWYZ
+Wissdorä Wägital 40
+Wissdorn Arth 40
+
+KANTON URI
+Dornä Gurtnellen 4
+
+KANTON TESSIN
+Wisdom Bosco/Gurin 72
+
+KANTON THURGAU
+Meelbeerstude Thurtal
+Wissdorn Bischofszell
+
+216
+
+
+
+Wissdorn Hinterthurgau
+Wissdorn Thurtaî
+Wissdorn Oberthurgau
+Wisdom Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Wisdonä 34
+
+KANTON APPENZELL A.RH.
+Mehlbeier Gais 13
+
+KANTON ST. GALLEN
+Dornä Neu-Toggenburg 13
+Weissdorä Flums 30
+Wissdöura Berschis 30
+Wyssdorn Berneck 59
+
+KANTON GLARUS
+Mehlbeeri 31
+
+KANTON GRAUBÜNDEN
+Mehlberri Schiers
+Wisstora Luzein 7
+Dööre Vorderprättigau 32
+Wyssdörä Seewis 32
+Schwiinberi Mittel-Schanfigg 44
+
+FÜRSTENTUM LIECHTENSTEIN
+Wissdorn Oberland 47
+Wissdorn Unterland 47
+Wissdarn Oberland 47
+Wissdarn Unterland 47
+
+217
+
+
+
+Daphne Mezereum L. Seidelbast
+
+
+KANTON BASEL-LANDSCHAFT
+Sidelbascht Oberwil 50
+Ziland Oberbaselbiet 54
+Ufertbluest Wenslingen 54
+Zielande Läufelfingen,
+
+Eptingen 54
+Zielang Bretzwil 54
+Sidelbascht Rümlingen,
+
+Titterlen 54
+Ziland Liestal 73
+Chällerhals Liestal 73
+Zyland Reigoldswil 76
+
+KANTON SOLOTHURN
+Sidelbast Dorneck 3
+Seidelbast Thierstein 3
+Sidelbast Olten-Gäu 11
+
+KANTON BERN
+Ziland VI
+Ziland Thun VI
+Zilang Eggiwil VI
+Seidelbascht Murten 16
+Seidelbascht Biel 16
+Zilang 14
+Kellerhals Büren a.A. 19
+Zylang Büren a.A. 19
+Xilang Emmental 39
+Zilang Rüschegg 53
+Zilang Gemeinde Wohlen 55
+Zilang Emmental 55
+Chällerhals Oberland 63
+Zylang Oberland 63
+Zilanholz Kandertal 66
+
+218
+
+
+
+KANTON AARGAU
+Zilande
+Ziland
+Ziland
+Ziland
+Zilander
+Ziland
+Zyland
+Zylander
+Chellerhals
+Ziland
+Zyland
+Siiland
+Ziland
+Zieland
+Kellerhals
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Brugg 23
+Brugg 23
+Lenz bürg 56
+Mägden 57
+Möhlin 57
+Freiamt 71
+Freiamt 71
+Zofingen 68
+Möhlin 69
+Aarau 70
+Kirchspiel 70
+Kirchspiel 70
+
+KANTON LUZERN
+Gemeiner Kellerhals
+Chällerhals
+Siland
+Siland
+Ziländer
+Sydelbascht
+Seidelbast
+Ziländerli
+Ziländer
+
+Luzern
+Wegg
+Entlebuch
+Wegg
+
+Rigi
+Schwarzenberg
+Schwarzenberg
+Horw
+
+
+36
+36
+36
+36
+
+KANTON SCHAFFHAUSEN
+Sidelbluest
+Ziilbluest
+Ziiletli
+Ziiletlibluest
+Ziiletebluest
+Ziiletebluest
+Ziiletebluest
+Zitlibluest
+Ziileholz
+Ziileteholz
+Zilinde
+
+Bez. Stein am Rhein II/I
+Buch II/I
+Dörflingen
+Thayngen
+Bez. Reiat
+Bez. Schaffhausen
+Bez. Oberklettgau
+Bez. Schaffhausen II/I
+Hallau
+Stetten
+Jestetten
+
+219
+
+
+
+Siidelbast Stein am Rhein 49
+Merzebluest Neuhausen I
+Holzgüggel Lohn I
+Holzgüggel Siblingen I
+
+KANTON ZÜRICH
+Zilande Bez. Horgen I
+Zilande Bez. Affoltern I
+Zilande Oberland I
+Zilande Bez. Meilen I
+Zilande Regensberg I
+Zilander Bez. Winterthur I
+Zilander Gossau I
+Zilander Niederweningen I
+Zilander Rorbas I
+Zilander Bez. Bülach I
+Zilander Seegräben I
+Ziletli Stammheim I
+Chälerhals Hagenbuch I
+Mëërzebluescht Rafzerfeld I
+Sidelbascht Kappel I
+Sydebascht Kappel I
+Sillebascht Buchenegg 1
+Zilander Winterthur 2
+Zylander Kleinandelfingen 29
+Zinetli Stammertal 29
+Ziletabluest Ellikon 29
+Ziletabluest Flaach 29
+Waldlorbeer Schlatt 51
+Zylander Schlatt 51
+Giftbäumli Schlatt 51
+Warzenholz Schlatt 51
+Sidelbascht Sihlwald 58
+Ziilande Sihlwald 58
+Kellerhals 61
+Zilande 61
+Zilander 61
+Zilander oberes Glattal 67
+Zilander Pfannenstiel 67
+
+220
+
+
+
+KANTON ZUG
+Zilander
+
+KANTON SCHWYZ
+Sidelbast Gersau VI
+Sidelbast Einsiedeln VI
+Sidelbast Bez. March VI
+Zilander Tuggen VI
+Ziland Wollerau VI
+Seidelbascht Wägital 40
+Seidelbascht Arth 40
+
+KANTON THURGAU
+Sidebluest Oberthurgau
+Sidebluest Untersee
+Sidelbluest Oberthurgau
+Sillebluest Oberthurgau
+Sillebluest Bischofszell
+Zillande Thurtal
+Zillande Untersee
+Zillander Unterthurgau
+Zillander Hinterthurgau
+Zillander Obersee
+Zillebluest Oberthurgau
+Zillebluest Thurtal
+Zillebluest Hinterthurgau
+Zillebluest Untersee
+Zillibluest Thurtal
+Zielbluest Rhein
+Seidelbast Weinfelden 18
+Zilebluescht Amriswil 9
+
+KANTON ST. GALLEN
+Zilatbluast Rheintal 13
+Zahnwehholz Werdenberg 13
+Warzebast Werdenberg 13
+Giftbäumli Ober-Rheintal 13
+Zilander Ober-T oggenburg 13
+Zilbluest Unter-T oggenburg 13
+
+221
+
+
+
+Brisillabluest Unter-Toggenburg 13
+Seidlbascht Vättis, Mels, Flums,
+
+Walenstadt 30
+Sydelbast Berneck 59
+
+KANTON GRAUBÜNDEN
+Seidelbascht Langwies, Mittel-
+
+schanfigg 44
+
+222
+
+
+
+Evonymus europaea L. Spindelbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Pfaffechäppeli Oberwil 50
+Pfaffechäppli Sissach, Reigoldswil 54
+Pfaffechäppli Anwil, Arisdorf 54
+Pfaffehüetli Bennwil,
+
+Läufelfingen 54
+Chrallebeeri Oltingen, Wittinsberg,
+
+Rothenfluh 54
+Chrällelibeeri Liestal 54
+Pfaffehüetli Liestal 73
+Pfaffechäppli Liestal 73
+
+KANTON SOLOTHURN
+Pfaffehüetli Hofstetten 3
+Pfaffechäpli Dorneck 3
+Pfaffechäpli Thierstein 3
+Pfaffehüetli Olten-Gäu 11
+
+KANTON BERN
+Geggets Holz Biel VI
+Pfaffehüetli VI
+Pfaffehüetli
+Pfaffehüetli
+
+Thun
+25
+
+
+Pfaffehüetli Langenthal 9
+Pfaffehüetli Murten 16
+Pfaffehüetli Biel 16
+Pfaffehüetli 14
+Pfaffehüetli Büren a.A. 19
+Bräzeleholz Büren a.A. 19
+Pfaffehüetli Emmental 39
+Pfaffenhüetli nördl. Seeland 42
+Pfaffehüetli Mittelland 48
+Pfaffehüetli Oberland 48
+Brung Rüschegg 53
+
+223
+
+
+
+Brätzeliholz
+Pfaffähüätli Kandertal 66
+
+63
+
+KANTON AARGAU
+Pfaffehüetli Aarau 6
+Pfaffehüetli Fricktal 8
+Pfaffehüetli Oberaargau 14
+Pfaffehüetli Aarau 22
+Pfaffechäppli Brugg 23
+Pfaffehüetli Brugg 23
+Schuenägeliholz Brugg 23
+Schuenegeliholz Lenzburg 56
+Pfaffechäpeli Mägden 57
+Pfaffechapli Möhlin 57
+Pfaffehüetli Freiamt 71
+Mutschälle Freiamt 71
+Chäppeliholz Freiamt 71
+Schuenägeliholz Freiamt 71
+Tierlibaum Zofingen 68
+Pfaffechäppli Möhlin 69
+Pfaffehüetli 70
+Pfaffechäppli Kirchspiel 70
+Schuenägeliholz Laufenburg 70
+
+KANTON LUZERN
+Pfaffächäppli Ämter Sursee VI
+Pfaffächäppli Willisau VI
+Pfaffächäppeli Ämter Sursee VI
+Pfaffächäppeli Willisau VI
+Pfaffehüetli Rigi 36
+Pfyffeholz Rigi 36
+Pfaffechäppli Rigi 36
+Pfaffenholz Horw 36
+Pfaffechäppli Hinterland 37
+Pfaffehüetli Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Chäpäliholz Sächseln 21
+Chäpäliholz Giswil 21
+
+224
+
+
+
+10
+KANTON UNTERWALDEN NID DEM WALD
+Pfaffehüetli
+
+KANTON SCHAFFHAUSEN
+Pfaffehüetli Bez. Stein am Rhein
+Pfaffehüetli Bez. Reiat ÌI
+Pfaffehüetli Bez. Schaffhausen
+Pfaffehüetli Bez. Oberklettgau
+Pfaffehüetli Bez. Unterklettgau
+Pfaffehüetli Bez. Schleitheim
+Pfaffechäppli Bez. Reiat
+Pfaffechäppli Bez. Schaffhausen
+Chäppiliholz Beringen
+Pfaffehödeli Unterhallau I
+Güggelhoode Buchberg I
+Schellehüetli Hemmenthal I
+Chäppeliholz Beringen I
+Mutschellili Bez. Reiat I
+Mutschellili Bez. Schaffhausen I
+Putschellili Bez. Reiat I
+Spindelholz Buch I
+Pfaffechäppli Stein am Rhein 49
+
+KANTON ZÜRICH
+Pfaffehüetli Oberland I
+Pfaffehüetli Aibisrieden I
+Pfaffehüetli Kappel I
+Pfaffechäppli I
+Pfaffechäppli Affoltern a.A. I
+Pfaffechäppli Wetzikon I
+Pfaffechäppli Rafzerfeld I
+Chüeferschlegeli Zollikon I
+Mutschälleholz Stammheim I
+Bumbeschlegel Wetzikon I
+Bumpeschlegeli Oberland I
+Pumpeschlegeli Gossau I
+Guggehüürli Niederweningen I
+Pfaffehüetli Winterthur 2
+Pfaffenhüetli Weinland 29
+Pfaffehuet 51
+
+225
+
+
+
+Pfaffehüetli 51
+Pfaffechäpli Sihlwald 58
+Pfaffehüetli Sihlwald 58
+Pfaffehüetli ob. Glattal 67
+Chüeferschlegeli recht. Zürichseeufer 67
+
+KANTON ZUG
+Pfaffächäppli V
+Heerechäppeli Zug VI
+Pfaffächäppli Zug VI
+Heerächäppli Zug VI
+
+KANTON SCHWYZ
+Pfaffenhüetli Schwyz 28
+Pfaffähüötli Wägital 40
+Pfaffähüötli Arth 40
+
+KANTON THURGAU
+Bräzeliholz Untersee
+Spindle Untersee
+Pfaffechäppli Hinterthurgau
+Pfaffechäppli Thurtal
+Pfaffechäppli Oberthurgau
+Pfaffechäppli Rhein
+Pfaffechäppli Obersee
+Pfaffedächli Oberthurgau
+Pfaffehüetli Weinfelden 18
+Pfaffehüetli Steckborn 52
+Pfaffehüetli Diessenhofen 52
+
+KANTON ST. GALLEN
+Pfaffächäppli Sargans 13
+Pfaffächäppli 13
+Pfaffächäppli Ober-Toggenburg 13
+Schellaholz Werdenberg 13
+Butschellaholz Werdenberg 13
+Pfaffenhüetli Walenstadt 30
+Pfaffahuetli Berneck 59
+
+226
+
+
+
+Pfaffehüetli Grabs 65
+
+KANTON GLARUS
+Pfaffehüetli 31
+
+KANTON GRAUBÜNDEN
+Pfaffenchäppli Schiers V
+Pfaffahüatli Jenins 15
+Pfaffehüetli Vorderprättigau 32
+Pfaffähüetli Seewis 32
+Pfaffachäppli Valendas 43
+
+FÜRSTENTUM LIECHTENSTEIN
+Pfaffakäpple Oberland 47
+Pfaffahüatle Unterland 47
+
+227
+
+
+
+Evonymus latifolia (L.) Mill. Voralpen-Spindelbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Pfaffechäppli
+Pfaffehüetli
+
+Reigoldswil 76
+Reigoldswil 76
+
+KANTON BERN
+Brung Rüschegg 53
+
+KANTON LUZERN
+Pfaffehüetli
+Pfyffeholz
+Pfaffechäppli
+
+Rigi 36
+Rigi 36
+Rigi 36
+
+KANTON ZÜRICH
+Pfaffechäpli
+Pfaffehüetli
+
+Sihlwald 58
+Sihlwald 58
+
+228
+
+
+
+Fagus silvatica L. Rotbuche
+
+
+KANTON BASEL-LANDSCHAFT
+Bueche Oberwil 50
+Bueche Oberbaselbiet 54
+Bueche Liestal 73
+
+KANTON SOLOTHURN
+Bueche Dörnach 3
+Rotbueche Olten-Gäu 11
+Bluetbueche Olten-Gäu 11
+
+KANTON BERN
+Bueche Langenthal 9
+Buech Langenthal 9
+Bueche Murten 16
+Bueche Biel 16
+Buche Büren 19
+Bueche 14
+Böchen Hasliberg 35
+Buech Emmental 39
+Bueche Beatenberg 41
+Bueche nördl. Seeland 42
+Bueche Rüschegg 53
+Bluetbueche Wohlen 55
+Bluetbueche Emmental 55
+Buächä Kandertal 66
+
+KANTON AARGAU
+Buech Aarau 6
+Bueche Fricktal 8
+Bueche Aarau 22
+Bueche Brugg 23
+Bueche Lenzburg 56
+Buech Lenzburg 56
+
+229
+
+
+
+Bueche Rheinfelden,
+Mägden, Möhlin 57
+
+Buche Freiamt 71
+(Blut)buche Zofingen 68
+Buech Möhlin 69
+Buech 70
+
+KANTON LUZERN
+Bueche Rigi 36
+Rotbuech Schwarzenberg 36
+Bueche Horw 36
+Buech Willisau 37
+Bueche Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Buochholz Lungern 21
+Buechholz Sarnen 21
+
+KANTON SCHAFFHAUSEN
+Buech
+Bueche
+Bueche Stein am Rhein 49
+Wiissbueche Stein am Rhein 49
+
+KANTON ZÜRICH
+Buech
+Bueche
+Bueche Sihlwald 58
+Steibuche 62
+Bueche oberes Glattal 67
+Bueche Pfannenstiel 67
+
+KANTON SCHWYZ
+Buächä 28
+Rotbuoch Wägital 40
+Rot-Buochä Arth 40
+
+230
+
+
+
+KANTON URI
+
+Buächä Gurtnellen 4
+
+KANTON THURGAU
+Bueche
+Bueche Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Buechä 34
+
+KANTON ST. GALLEN
+Buacha Bad Ragaz 30
+Buacha Vättis 30
+Buchä Meis, Flums 30
+Buechä Berschis 30
+Buechä Walenstadt 30
+Buechä Berneck 59
+Bueche Wattwil 64
+
+KANTON GRAUBÜNDEN
+Buocha Luzein 7
+Buech Prättigau 27
+Buochä Seewis 32
+Buähä Schiers 33
+Buocha Valendas 43
+Buach Mastrils 75
+Buacha Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Buacha Oberland 47
+Buacha Unterland 47
+
+231
+
+
+
+Fraxinus excelsior L. Esche
+
+
+KANTON BASEL-LANDSCHAFT
+Esche Oberwil 50
+Esche Sissach 54
+Esche Diegten 54
+Osche Oberbaselbiet 54
+Osche Liestal 73
+Osche Reigoldswil 76
+
+KANTON SOLOTHURN
+Esche Dörnach 3
+Osche Olten-Gäu 11
+
+KANTON BERN
+Osch Emmental
+Esche Langenthal 9
+ösch Langenthal 9
+Ösche 14
+Esch Hasliberg 35
+Ösch Emmental 39
+Eesch Beatenberg 41
+Eesch Brienzersee 41
+Ösch Mittelland 48
+Ösch Emmental 48
+Ösche Rüschegg 53
+Ösche Emmental 55
+Oesch Oberland 63
+Oesch Mittelland 63
+Eschä Kandertal 66
+Öschä Spiez 66
+Esche Murten, Biel 16
+Esche Büren 19
+
+232
+
+
+
+KANTON AARGAU
+Esche Aarau 6
+Osche Brugg 23
+Esche Lenzburg 56
+Osch Lenz bürg 56
+Ösche Rheinfelden 57
+Òsche Freiamt 71
+Ösche Möhlin 69
+Ösche Fricktal 70
+
+KANTON LUZERN
+Esche Rigi 36
+Esche Schwarzenberg 36
+Esche Horw 36
+Ösch Willisau 37
+Ösche Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Wialäsche Alpnach 21
+Wialäsche Giswil 21
+
+KANTON SCHAFFHAUSEN
+
+Ösche Rüdlingen
+Esche Rüdlingen
+Esche Buchberg
+
+
+
+Stein am Rhein 49
+
+
+KANTON ZÜRICH
+Esch I
+Ösch Oberhasli I
+Esche Sihlwald 58
+Esche oberes Glattal 67
+Esche Pfannenstiel 67
+
+KANTON SCHWYZ
+Eeschä 28
+Eschschä Einsiedeln 28
+
+233
+
+
+
+Eschä Wägital 40
+Eschä Arth 40
+
+KANTON URI
+Eschä Gurtnellen 4
+Äschä Gurtnellen 4
+
+KANTON TESSIN
+Escha Bosco/Gurin 72
+
+KANTON THURGAU
+Esche
+Esche Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Eisch 34
+
+KANTON APPENZELL
+Eisch Gais 13
+
+KANTON ST. GALLEN
+Escha Vättis 30
+Eschä Bez. Sargans 30
+Escha Berneck 59
+
+KANTON GRAUBÜNDEN
+Esche Schiers
+Esch Luzein 7
+Escha Vals 24
+Esch Seewis 32
+Chalcheschä Seewis 32
+Esch Schiers 33
+Escha Valendas 43
+
+234
+
+
+
+Eschä Mittel-Schanfigg 44
+Escha Obersaxen 45
+Escha Mastrils 75
+Esch Untervaz 75
+
+235
+
+
+
+Hedera Helix L. Efeu
+
+
+KANTON BASEL-LANDSCHAFT
+
+Äfeu Oberwil 50
+Äfheu Oberbaselbiet,
+
+Arisdorf 54
+Afeu Liestal 73
+Äfeu Reigoldswil 76
+
+KANTON SOLOTHURN
+Äfeu Dörnach 3
+Äfeu Solothurn 11
+
+KANTON BERN
+Abheu Lauenen
+Efeu Murten, Biel 16
+Äboun Schwanden 35
+Efeu Büren 19
+Effeu Hasliberg 35
+Efeu Emmental 39
+Efföi Beatenberg 41
+Ääboum Brienzersee 41
+Efeu Rüschegg 53
+Äfföi Kandertal 66
+
+
+KANTON AARGAU
+Äfeu Aarau 6
+Äbheu Oberhof 22
+Efeu Brugg 23
+Efeu Lenzburg 56
+Äfheu Rheinfelden,
+
+Mägden, Möhlin 57
+Abheu Freiamt 71
+Äbheu Freiamt 71
+Ebheu Freiamt 71
+
+236
+
+
+
+Äfheu Möhlin 69
+Ebheu Bözen 70
+
+KANTON LUZERN
+Äbheu Amt Sursee VI
+Äbheu Amt Willisau VI
+Äbheu VI
+Äbheu Entlebuch VI
+Räbheu Sursee VI
+Räbheu Willisau VI
+Räbheu Entlebuch VI
+Äbuech Weggis VI
+Ääbuech Rigi 36
+Äfeu Schwarzenberg 36
+Efeu Horw 36
+
+KANTON UNTERWALDEN OB DEM WALD
+Äbach Sarnen, Schwendi 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Äbuech Emmetten VI
+Äbuech
+Ähbuch 10
+
+
+KANTON SCHAFFHAUSEN
+Äbheu Bez. Stein am Rhein
+Äbheu Bez. Reiat
+Äbheu Oberhailau
+Äbheu Osterfingen
+Ebheu Buchberg
+Eföi Stein am Rhein 49
+
+KANTON ZÜRICH
+Äbhöi Bez. Horgen I
+Äbhöi Oberland I
+Äbhöi Niederweningen I
+
+237
+
+
+
+Äbhöi Bez. Affoltern I
+Ebhöi Stammheim I
+Ebhöi Dinhard I
+Ebhöi Rafzerfeld I
+Efföi Seegräben I
+Efföi Bez. Affoltern I
+Äffhöi Regensberg I
+Äffhöi Meilen I
+Äfföi Gossau I
+Epheu Regensberg 2
+Efeu Sihlwald 58
+Efeu ob. Glattal 67
+Efeu Pfannenstiel 67
+Äfeu ob. Glattal 67
+Äfeu Pfannenstiel 67
+
+KANTON ZUG
+Ebüech V
+Äbheu V
+Äbuech v:
+
+KANTON SCHWYZ
+Ebheu Küssnacht a.R. VI
+Ebheu March VI
+Abheu March VI
+Äbuech Weggis VI
+Äbuech Küssnacht a.R. VI
+Äbuech Gersau VI
+Äbuech Bez. Schwyz VI
+Äbuech Einsiedeln VI
+Eppech Bez. Schwyz VI
+Effeu Einsiedeln 28
+Ääbuech Muotathal 28
+Efeu Wägital, Arth 40
+
+KANTON URI
+Efeu Gurtnellen 4
+Äbuech Bez. Uri
+
+238
+
+
+
+KANTON TESSIN
+Efeu Bosco/Gurin 72
+
+KANTON THURGAU
+Efeu Weinfelden 18
+
+KANTON APPENZELL
+Chreser 34
+
+KANTON ST. GALLEN
+Ebheu 13
+Eppeu Ober-Rheintal 13
+Ebhöö Werdenberg 13
+Abheu Seebezirk 13
+Efeu Meis 30
+Efheu Flums 30
+Efeu Berneck 59
+
+KANTON GRAUBÜNDEN
+Ebheu Schiers V
+Efeu Seewis 32
+Efeu Mittel-Schanfigg 44
+
+FÜRSTENTUM LIECHTENSTEIN
+Äbhöö Oberland 47
+Äbhöö Unterland 47
+
+239
+
+
+
+Hippophaë rhamnoides L. Sanddorn
+
+
+KANTON BASEL-LANDSCHAFT
+
+Sanddorn Oberwil 50
+
+
+KANTON BERN
+
+Sanddorn Biel 16
+
+
+Sanddorä Kandertal 66
+
+KANTON AARGAU
+
+Sanddorn Lenz bürg 56
+
+
+
+KANTON SCHAFFHAUSEN
+
+Rhiidorn Rüdlingen
+Sanddorn Stein am Rhein 49
+
+
+
+
+KANTON SCHWYZ
+
+Sanddorn Arth 40
+
+
+
+
+KANTON URI
+
+Dornä Gurtnellen 4
+
+
+
+KANTON ST. GALLEN
+
+Sanddorn Berneck 59
+
+
+
+KANTON GRAUBÜNDEN
+Sprengberri Schiers
+Sanddöre
+Tubakröhrlistude
+
+Trimm
+Conters
+
+
+
+240
+
+
+
+Beiwide Malans
+Dööra Seewis 32
+Sanddöörä Seewis 32
+Sprengberi Schiers 33
+Sanddoora Langwies 44
+Sanddoorä Mittel-Schanfigg 44
+
+
+FÜRSTENTUM LIECHTENSTEIN
+Bündnerdorn Schaan 47
+
+241
+
+
+
+Ilex A qui folium L. Stechpalme
+
+
+KANTON BASEL-LANDSCHAFT
+Stächpalme
+Stächpalme
+Schtächpalme
+Edelpalme
+Stächpalme
+
+KANTON SOLOTHURN
+
+Balme
+Stächpalme
+
+KANTON BERN
+Bandore
+Stechlaub
+Stächpaume
+Stächpaume
+Bandore
+Stechpaumele
+Stächpalme
+Stächpalm
+Stächpalm
+Stächpaume
+Stächbalm
+Stächbalm
+Balmdore
+Stächpalme
+Stächpbaume
+Stächpalmä
+
+Oberwil 50
+Oberbaselbiet 54
+Liestal 73
+Liestal 73
+Reigoldswil 76
+
+Dörnach 3
+Olten-Gäu 11
+
+Bönigen
+Langenthal 9
+Murten 16
+Biel 16
+Oberland 14
+Büren a.A. 19
+Büren a.A. 19
+Gadmen 35
+Hasliberg 35
+Emmental 39
+Beatenberg 41
+Brienzersee 41
+Thunersee 41
+Rüschegg 53
+Emmental 55
+Kandertal 66
+
+KANTON AARGAU
+Stächpalme
+Stächpalme
+
+Lenzburg 56
+Rheinfelden,
+Mägden, Möhlin 57
+
+242
+
+
+
+Palmdorn Freiamt 71
+Stechlaub Zofingen 68
+Schtächbalme Möhlin 69
+Palme Kirchspiel 70
+
+KANTON LUZERN
+Stächbalmä VI
+Balmä VI
+Stächpalme Rigi 36
+Stächpalme Schwarzenberg 36
+Stächpalme Horw 36
+Muttipalme Willisau 37
+
+KANTON UNTERWALDEN OB DEM WALD
+Distelstern Sächseln 21
+Wiächseltern Sarnen, Schwendi 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Glattbalme 10
+
+KANTON ZÜRICH
+Palmetörn Bez. Horgen I
+Palmetörn Gossau I
+Stächpalme Sihlwald 58
+Stächlaub Sihlwald 58
+Stechlaub 61
+Stächpalme oberes Glattal 67
+Palmedorn rechtes Zürichseeufer 67
+
+KANTON ZUG
+Stächbalmä V
+Balmä V
+
+KANTON SCHAFFHAUSEN
+Stechpalme Stein am Rhein 49
+
+243
+
+
+
+KANTON SCHWYZ
+Balmädörä
+Geissbalmä
+Stächbalmä
+Stächpalmä
+Stächpalmä
+
+Tuggen
+March
+Innerschwyz
+Wägital
+Arth
+
+28
+40
+40
+
+
+KANTON URI
+Palmä Seedorf 4
+Palmä Gurtnellen 4
+
+KANTON THURGAU
+Schwobetörn Obersee
+Stechlaub Bischofszell
+Stechlaub Oberthurgau
+Stechlaub Untersee
+Stechpalme Hinterthurgau
+Spisehölzli Thurtal
+Stechlaub Beckelswilen 18
+
+KANTON APPENZELL I.RH.
+
+Stechlaub 34
+
+KANTON APPENZELL A.RH.
+Stechlaub Gais 13
+Stechpalme Gais 13
+
+KANTON ST. GALLEN
+Stechlaub 13
+Stechlaub Rheintal 13
+Stechlaub Toggenburg 13
+Palma 13
+Palma Rheintal 13
+Palma Sargans 13
+Palmadörn Werdenberg 13
+Stächlaub Marbach 17
+
+244
+
+
+
+Palmä Berschis 30
+Palmä Meis, Flums 30
+Stächpalma Berneck 59
+Stechlaub 64
+Stechlaubstude Wildhaus 64
+Geisspalme Wattwil 64
+Stechpalme Wattwil 64
+
+KANTON GLARUS
+Palmä 31
+Geisspalmä 31
+
+KANTON GRAUBÜNDEN
+Stechlaub Prättigau V
+Stächpalmä Seewis 32
+Stechpalma Mastrils 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Stächloob Oberland 47
+Stächloob Unterland 47
+
+245
+
+
+
+Juglans regia L. Walnussbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Nussbaum Oberwil 50
+Nussbaum
+Nussbaum
+
+KANTON SOLOTHURN
+Nussbaum
+Walnussbaum
+
+KANTON BERN
+Nussboum
+Nussboum
+Nussboum
+Nussboum
+Nussbö
+Nussboum
+Nussbuum
+Nussboum
+Nussboum
+Nussboom
+Nussboom
+
+Oberbaselbiet 54
+Liestal 73
+
+Dörnach 3
+Olten-Gäu 11
+
+Langenthal 9
+Murten 16
+Biel 16
+
+14
+Oberhasli 35
+Emmental 39
+Beatenberg 41
+Mittelland 48
+Emmental 48
+Rüschegg 53
+Kandertal 66
+
+KANTON WALLIS
+Nussböüm
+Nussböüm
+
+KANTON AARGAU
+Nussbaum
+Nussbaum
+Nussbaum
+Nossboum
+
+Termen 74
+Brig 74
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Suhrental 22
+
+246
+
+
+
+Nussbaum Brugg 23
+Nussbaum Lenzburg 56
+Nussboum Rheinfelden 57
+Nussbaum Freiamt 71
+Nussbaum Möhlin 69
+
+KANTON LUZERN
+Nussbaum Rigi 36
+Nussbaum Willisau 37
+Nussboum Sursee 38
+
+KANTON SCHAFFHAUSEN
+Nussbomm
+Nuss Stein am Rhein 49
+
+KANTON ZÜRICH
+Nussbaum 2
+Nussbaum Buch a.I. 51
+Nussbaum Sihlwald 58
+Nussbaum oberes Glattal 67
+Nussbaum Pfannenstiel 67
+
+KANTON URI
+Nussbäum Gurtnellen 4
+
+KANTON THURGAU
+Nussbomm
+Nussbomm Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Nossbom 34
+
+247
+
+
+
+
+KANTON ST. GALLEN
+Nussbaum
+Nussboom
+Nussbom
+
+Bez. Sargans 30
+Berneck 59
+
+64
+
+KANTON GRAUBÜNDEN
+
+Nussbom
+Nussbom Luzein 7
+Nussbom Vorderprättigau 32
+Nussbom Seewis 32
+Nussbom Schiers 33
+Walnussbaum Mastrils 75
+Walnussbaum Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Nossbomm Oberland 47
+Nossbomm Unterland 47
+
+248 >
+
+
+
+Ligustrum vulgare L. Liguster
+
+
+KANTON BASEL-LANDSCHAFT
+Liguschter Oberwil 50
+Liguschter Sissach 54
+Liguschter Diegten, Rothenfluh,
+
+Läufelfingen 54
+Geissbeeri Anwil 54
+Geissbeeri Wittinsburg 54
+Geisswiidli Oltingen 54
+Geisshulftere Wenslingen 54
+Dintebeeri Oberdorf 54
+Dintebeeri Liestal 54
+Geissbeeri Liestal 73
+Geissbaum Liestal 73
+Geisswidli Liestal 73
+Dintebeeri Reigoldswil 76
+Geissbeeri Reigoldswil 76
+Geissbäumli Reigoldswil 76
+
+KANTON SOLOTHURN
+Liguster Dorneck 3
+Liguster Thierstein 3
+Tintebeeri Hofstetten 3
+Geissbeerirüeteli Seewen 3
+Leguster Breitenbach 3
+Bäsechrut Olten-Gäu 11
+
+KANTON BERN
+Tintebeeri
+Liguschter Murten 16
+Liguschter Biel 16
+Rächenbegli Schwanden 35
+Liguschter Rüschegg 53
+Geissbeere Wohlen 55
+Tintebeeri 63
+
+249
+
+
+
+Liguster Kandertal 66
+
+KANTON AARGAU
+Wyssi Chingerte Brugg 23
+Tintebeeri Schenkenbergstal 23
+Liguschter Lenzburg 56
+Geissenbäumli Mägden 57
+Chingerte Freiamt 71
+Tintebeeri Freiamt 71
+Kindgerte Freiamt 71
+Liguschter Möhlin 69
+Chingerte Brugg 70
+Chingerte Fricktal 70
+
+KANTON LUZERN
+Dintäbeeri VI
+Steiwidli VI
+Rächäbögli Entlebuch VI
+Chiengert Rigi 36
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Rächäbegli VI
+Bäsäruätä 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Rechebögli 10
+Rächäbegli VI
+
+KANTON SCHAFFHAUSEN
+wiss Chellgert Bez. Reiat
+wiss Chellgert Herblingen
+wiss Chellgert Siblingen
+wiss Chiligerte Merishausen
+wiss Chiligerte Beringen
+wiss Chollgerte Hemishofen
+wiss Chollgerte Osterfingen
+wiss Chollgerte Löhningen
+250
+
+
+
+wiss Chöllgerte Trasadingen
+wiss Chölgrit Hallau
+Chellgert Rüdlingen
+weiss Chelgertis Stein am Rhein 49
+Geisshasliholz Ramsen I
+Gaasshasliholz Schleitheim I
+Wiisschellgeert Bez. Stein am Rhein I
+Wiisschellgeert Bez. Reiat I
+Wiisschellgeert Bez. Schaffhausen I
+Wiisschellgeert Bez. Unterklettgau I
+Wiisschellgeert Bez. Oberklettgau I
+Wiisschellgeert Bez. Schleitheim I
+Wiisschollgeert Bez. Stein am Rhein I
+Wiisschollgeert Bez. Reiat I
+Wiisschollgeert Bez. Schaffhausen I
+Wiisschollgeert Bez. Unterklettgau I
+Wiisschollgeert Bez. Oberklettgau I
+Wiisschollgeert Bez. Schleitheim I
+Wiisschillgeert Bez. Stein am Rhein I
+Wiisschillgeert Bez. Reiat I
+Wiisschillgeert Bez. Schaffhausen I
+Wiisschillgeert Bez. Unterklettgau I
+Wisschillgeert Bez. Schleitheim I
+Chölgeert Löhningen I
+Chollgeert Neunkirch I
+Chillgeerte Buchberg I
+
+KANTON ZÜRICH
+wyss Chegeete Gossau I
+Chegeete Wetzikon I
+Chërngërte Obfelden I
+Chilgërte Rafzerfeld I
+Chërngërte Obfelden I
+Chërgeete Bockwil I
+Hërgeete Hausen I
+wyssi Hërgeete Hedingen I
+Chilgeerte 2
+Wiisskelgerte Flaach 29
+Liguschter Sihlwald 58
+Kängerte 61
+Liguschter ob. Glattal 67
+Grüeni Chärgete recht. Zürichseeufer 67
+
+251
+
+
+
+KANTON SCHWYZ
+Liguschter Wägital 40
+Liguschterstruuch Arth 40
+
+KANTON THURGAU
+Chorngertli Obersee
+Killgerte Unterthurgau
+Tintenbeeri Thurtal
+Tintenbeeri Oberthurgau
+Tintenbeeri Obersee
+Korngerte Weinfelden 18
+Haggerte Weinfelden 18
+Cholgerte Basadingen 52
+Chelgerte Steckborn, Diessen­
+
+hofen 52
+Horngerte Steckborn, Diessen­
+
+hofen 52
+
+KANTON ST. GALLEN
+Chorngert Rheintal, St. Gallen 13
+Chorngertli Rheintal, St. Gallen 13
+Cherngert Ober-Rheintal,
+
+Werdenberg 13
+Wiesscherngeht Ober-Rheintal,
+
+Werdenberg 13
+Nagelholz Werdenberg 13
+Chergert Sargans 13
+Cheragert Sargans 13
+Tintenstrauch Vilters 30
+Chärägerte Walenstadt 30
+Ligustar Berneck 59
+
+KANTON GLARUS
+Tintebeeri 31
+
+KANTON GRAUBÜNDEN
+Geissbeeri Seewis 32
+
+252
+
+
+
+Liguster Seewis 32
+Tintabeeri Valendas 43
+
+FÜRSTENTUM LIECHTENSTEIN
+Bockbeer Schaan 47
+Bockbeer Vaduz 47
+Bockbeer Eschen 47
+
+253
+
+
+
+Lonicera alpigena L. Alpen-Geissblatt
+
+
+KANTON BERN
+Bäseholz Oberland 48
+Geesblatt Rüschegg 53
+Geesblatt 66
+Beseholz Kandertal 66
+Hüändärholz Adelboden 66
+
+KANTON AARGAU
+Pfaffenröhrchen Oberhof 22
+
+KANTON UNTERWALDEN OB DEM WALD
+Beiwydä
+Beiwydä
+
+Sarnen
+Lungern
+
+21
+21
+
+KANTON SCHAFFHAUSEN
+Geissblatt Stein am Rhein 49
+
+KANTON ZÜRICH
+Alpe Geissblatt Sihlwald 58
+
+KANTON SCHWYZ
+Chrotäbeeri Wägital 40
+Chrotäbeeri Arth 40
+
+KANTON URI
+Bisch Gurtnellen 4
+
+254
+
+
+
+KANTON ST. GALLEN
+Goassblatt
+Chrottebein
+Beseries
+
+KANTON GRAUBÜNDEN
+Alpen-Heckenkrischa
+Sprengberi
+
+Berneck 59
+Grabs 65
+Grabs 65
+
+Seewis 32
+Langwies, Mittel-
+schanfigg 44
+
+255
+
+
+
+Lonicera coerulea L. Blaues Geissblatt
+
+
+KANTON AARGAU
+Hagille Möhlin 69
+
+KANTON URI
+Bisch Gurtnellen 4
+
+KANTON APPENZELL I.RH.
+Chrotebei 34
+
+KANTON ST. GALLEN
+Goassblatt Berneck 59
+Bäsarys Berneck 59
+
+KANTON SCHAFFHAUSEN
+Geissblatt Stein am Rhein 49
+
+256
+
+
+
+Lonicera nigra L. Schwarzes Geissblatt
+
+
+KANTON BERN
+Schlangegschtüüd Beatenberg 41
+Bäseholz Mittelland 48
+Gitziholz Mittelland 48
+Geesblatt 66
+Bäseholz Kandertal 66
+
+KANTON SOLOTHURN
+Geissblatt Olten-Gäu 11
+
+KANTON UNTERWALDEN NID DEM WALD
+Geisshasel 10
+
+KANTON AARGAU
+Schwarzes Geissblatt Freiamt 71
+
+KANTON ZÜRICH
+Beiwide Sihlwald 58
+Bäsechris Sihlwald 58
+
+KANTON SCHWYZ
+Beiwydli Innerschwyz 28
+Chrotäbeeri Wägital 40
+Schwarzes Gaisblatt Arth 40
+
+KANTON URI
+Bisch Gurtnellen 4
+
+257
+
+
+
+KANTON APPENZELL I.RH.
+Chrotebei 34
+
+KANTON ST. GALLEN
+Tüfelsbeeri Ober-Toggenburg 13
+Bäsarys Berneck 59
+
+KANTON GRAUBÜNDEN
+Sprengberri Luzein 7
+
+258
+
+
+
+Lonicera Xylosteum L. rote Heckenkirsche
+rotes Geissblatt
+
+
+KANTON BASEL-LANDSCHAFT
+Bäseriis Oberwil 50
+Steiwiidli Oberbaselbiet 54
+Bäseriis Oberbaselbiet 54
+Wiissholz Liestal 54
+Bäseriis Liestal 73
+Schteiwidli Liestal 73
+Steiwydli Reigoldswil 76
+Bäserys Reigoldswil 76
+
+KANTON SOLOTHURN
+Steiwidli Dorneck 3
+Steiwidli Thierstein 3
+Beseriis Nuglar 3
+Gitziriis Hofstetten 3
+Steiwydli Gäu 5
+Geissblatt Olten-Gäu 11
+
+KANTON BERN
+Je länger je lieber Langenthal 9
+Bäsehouz Murten 16
+Bäsehouz Biel 16
+Geissblatt Murten 16
+Geissblatt Biel 16
+Huenerholz 14
+Bäsehouz 14
+Bäsenriis Schwanden 35
+Bässenriis Hasliberg 35
+Bäsehouz Emmental 39
+Hühnerhouz Emmental 39
+Schlangegschtüüd Beatenberg 41
+Bäseries Brienzersee 41
+Besenholz Brügg 42
+
+259
+
+
+
+Besenholz Nidau 42
+Hühnerholz Brügg 42
+Hühnerholz Nidau 42
+Bäseholz Mittelland 48
+Gitziholz Mittelland 48
+Huenerhouz Mittelland 63
+Geesblatt 66
+Bäseholz Kandertal 66
+
+KANTON AARGAU
+Bäseries Aarau 22
+Beiwide Suhrental 22
+Bäseriis Brugg 23
+Beiwidli Lenzburg 56
+Bäseryss Mägden, Möhlin 57
+Durröhrli Mägden 57
+Beiwide Freiamt 71
+Tüfelsbeeri Freiamt 71
+Giftbeer Zofingen 68
+Bey-Wyde Zofingen 68
+Beseris Zofingen 68
+Schteiwiide Möhlin 69
+Bäserys Kirchspiel, Fricktal 70
+Beiwidliholz Laufenburg 70
+
+KANTON LUZERN
+Steiwidli Entlebuch
+Hagbeeri Entlebuch
+Jäisch Rigi 36
+Jeusch Rigi 36
+Bäsestruuch Horw 36
+Steirüetli Sursee 38
+
+
+KANTON UNTERWALDEN OB DEM WALD
+Chrotäbeeri
+Rächäbegliholz Sächseln 21
+Rächäbegliholz Giswil 21
+
+
+260
+
+
+
+KANTON UNTERWALDEN NID DEM WALD
+Besestude 10
+Chrotäbeeri Emmetten VI
+Chrotäbeeri Engelberg VI
+
+KANTON SCHAFFHAUSEN
+Beseriis Bez. Reiat
+Beseriis Bez. Schaffhausen
+Beseriis Löhningen
+Geisshaslis Bez. Reiat I
+Gaisshaslis Rüdlingen I
+Gaisshaslis Buchberg I
+Wissgertis Bez. Stein am Rhein I
+
+KANTON ZÜRICH
+Bäiwidli Oberland I
+Bäiwidli Gossau I
+Bäiwidli Affoltern I
+Chelgërte Turbenthal I
+Gäisshasle Rafzerfeld I
+Bääsechrys Gossau I
+Beiwiide 2
+Besechriis Stammertal 29
+Besechriis Kleinandelfingen 29
+Beseris Flaach 29
+Gashasli Stammertal 29
+Gashasli Schlattertal 29
+Besechris 51
+Beiwide Sihlwald 58
+Bäsechris Sihlwald 58
+Geissblatt 62
+Besechriis oberes Glattal 67
+Besechriis Pfannenstiel 67
+Beiwide oberes Glattal 67
+Beiwide Pfannenstiel 67
+Beiwidli oberes Glattal 67
+Beiwidli Pfannenstiel 67
+
+261
+
+
+
+KANTON SCHWYZ
+
+Steiwidä Gersau VI
+Chrotäbeeri Gersau VI
+Chrotäbeeri Bez. Schwyz VI
+Chrotäbeeri Einsiedeln VI
+Chrotäbeeri March VI
+Chrotäbeeri Wägital 40
+Heckenchrisi Arth 40
+
+KANTON URI
+Chrotäbeeri VI
+
+KANTON THURGAU
+Beiwiedli Unterthurgau
+Besechries Weinfelden 18
+Hüenerholz Weinfelden 18
+Wiessholz Weinfelden 18
+wisses Besechries Beckelswilen 18
+Wiissgerte Basadingen 52
+Bäsechriis 52
+
+KANTON APPENZELL I.RH.
+
+Chrotebei 34
+
+KANTON APPENZELL A.RH.
+Chrottebeierstude Gais 13
+
+KANTON ST. GALLEN
+Fulholder Ober-Rheintal 13
+Gaishasla Werdenberg 13
+Chrottawägali Werdenberg 13
+Beiwida Werdenberg 13
+Bäsaries Sargans 13
+Bäsaries Werdenberg 13
+Chrottabeeristuda Ober-Rheintal 13
+Chrottabeeristuda Toggenburg 13
+
+262
+
+
+
+Besenries Rheintal 17
+Pfiffaröhrli Bad Ragaz 30
+Bäsäries Weisstannen, Flums 30
+Cheragert Flums 30
+Bäsäries Walenstadt 30
+Bäsarys Berneck 59
+
+KANTON GLARUS
+Beiwiide 31
+Bäsechris 31
+
+KANTON GRAUBÜNDEN
+Sprengberri Trimm
+Sprengberri Luzein 7
+Beiwiida Jenins 15
+Bääsariis Jenins 15
+Pfiferöörli Vorderprättigau 32
+Pfifäröhrli Vorderprättigau 32
+Bäsmäries Vorderprättigau 32
+
+FÜRSTENTUM LIECHTENSTEIN
+Weda Schaan 47
+
+263
+
+
+
+Malus silvestris Mill. Holzapfelbaum
+
+
+KANTON BASEL-LANDSCHAFT
+
+Hulzepfeli
+Holzäpfeli
+Holzöpfel
+Holzöpfelbaum
+
+KANTON SOLOTHURN
+Holzöpfel
+Holzöpfelbaum
+
+KANTON BERN
+Holzöpfel
+Wüude Öpfuboum
+Wüude Öpfuboum
+Houzöpfuboum
+Houzöpfuboum
+Holzöpfelboum
+Holzepfelbö
+Holzöpfelbuum
+Holzöpfeli
+Holzöpfeli
+Holzöpfu
+Holzöpfl
+
+Oberwil 50
+Oberwil 50
+Oberbaselbiet 54
+Liestal 73
+
+Dörnach 3
+Olten-Gäu 11
+
+Langenthal 9
+Murten 16
+Biel 16
+Murten 16
+Biel 16
+Büren 19
+Hasliberg 35
+Beatenberg 41
+Mittelland 48
+Oberland 48
+Rüschegg 53
+Kandertal 66
+
+KANTON AARGAU
+Holzöpfel
+Holzöpfel
+Öpfelbaum
+Holzöpfel
+Houzöpfu
+Holzöpfel
+Holzöpfel
+Wildapfelbaum
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Aarau 22
+Suhrental 22
+Brugg 23
+Lenzburg 56
+Zofingen 68
+
+264
+
+
+
+Holzöpfel
+Holzöpfel
+
+KANTON LUZERN
+Holzöpfelbaum
+Holzöpfubaum
+
+KANTON SCHAFFHAUSEN
+Holzöpfelbomm
+Holzöpfelbom
+
+KANTON ZÜRICH
+Schiquitte
+Liebesapfel
+Holzöpfel
+Holzöpfel
+Holzöpfel
+
+Möhlin 69
+Laufenburg 70
+
+Rigi 36
+Schwarzenberg 36
+
+Bez. Schaffhausen
+Stein am Rhein 49
+
+Seuzach 29
+Irchel 51
+Sihlwald 58
+oberes Glattal 67
+Pfannenstiel 67
+
+KANTON SCHWYZ
+Holzöpfel
+Holzöpfel
+Holzöpfelbaum
+
+KANTON URI
+Holzepfel
+
+KANTON THURGAU
+Holzöpfelbomm
+wilde Öpfelbomm
+
+KANTON APPENZELL
+Holzepfelbom
+
+Einsiedeln 28
+Wägital 40
+Arth 40
+
+Gurtnellen 4
+
+Weinfelden 18
+
+34
+
+265
+
+
+
+KANTON ST. GALLEN
+Holzöpfel Berschis 30
+Holzöpfel Walenstadt 30
+Holzöpfal Berneck 59
+Öpfel Wattwil 64
+Holzöpfel Wattwil 64
+
+KANTON GRAUBÜNDEN
+Holzöpfel Luzein 7
+Surer Seewis 32
+Holzöpfel Vorderprättigau 32
+wilte Äpfelbaum Valendas 43
+Holzöpfelbom Mittel-Schanfigg 44
+Holzäpfel Obersaxen 45
+Holzöpfelbaum Mastrils 75
+
+266
+
+
+
+Os try a carpinifolia Scop. Hopfenbuche
+
+
+KANTON SCHWYZ
+Hopfenbuche Arth 40
+
+KANTON ST. GALLEN
+Hagabuecha Berneck 59
+
+267
+
+
+
+Pirus communis L. Holzbirnbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Holzbire Oberbaselbiet 54
+Holzbirebaum Liestal 73
+
+KANTON SOLOTHURN
+
+wildi Biirli Dörnach 3
+Holzbiirli Dörnach 3
+Holzbirebaum Olten-Gäu 11
+
+KANTON BERN
+wilde Bireboum Langenthal 9
+wüude Bireboum Murten 16
+wüude Bireboum Biel 16
+Holzbireboum Büren 19
+Birboom Rüschegg 53
+Gättärbiri Kandertal 66
+
+KANTON AARGAU
+Birebaum Aarau 6
+Holzbire Aarau 6
+Holzbire Fricktal 8
+Holzbire Aarau 22
+wiude Bereboum Suhrental 22
+Holzbire Brugg 23
+Holzbirrli Freiamt 71
+Holzbire Möhlin 69
+Holzbirre Laufenburg 70
+
+KANTON LUZERN
+Holzbirebaum Rigi 36
+wilde Birrbaum Schwarzenberg 36
+
+268
+
+
+
+KANTON SCHAFFHAUSEN
+Holzbire Stein am Rhein 49
+
+KANTON ZÜRICH
+Holzbere Sihlwald 58
+Holzbire oberes Glattal 67
+Holzbire Pfannenstiel 67
+
+KANTON SCHWYZ
+Holzbirräbaum Arth 40
+Birebomm
+
+KANTON THURGAU
+wilde Berebomm Weinfelden 18
+
+KANTON ST. GALLEN
+wilde Birebaum Berschis 30
+wilde Birebaum Walenstadt 30
+Birrabamm Sevelen 59
+Beraboomm Berneck 59
+Holzbire Wattwil 64
+
+
+269
+
+
+
+Populus alba L. Weiss-(Silber-) Pappel
+
+
+KANTON BASEL-LANDSCHAFT
+Silberbabbele Oberbaselbiet 54
+Päppele Reigoldswil 76
+
+KANTON SOLOTHURN
+Silberpappele Olten-Gäu 11
+
+KANTON BERN
+Süeberpapple Murten 16
+Süeberpapple Biel 16
+Päppele Büren 19
+Päpple Emmental 39
+Siuberpapple Rüschegg 53
+Papplä Kandertal 66
+
+KANTON AARGAU
+Silberpappele Lenzburg 56
+Silberpappele Rheinfelden,
+
+Mägden, Möhlin 57
+Silberpappel Freiamt 71
+Silberbappele Möhlin 69
+
+KANTON SCHAFFHAUSEN
+Silberpappel Stein am Rhein 49
+
+KANTON LUZERN
+Silberpapple Schwarzenberg 36
+
+270
+
+
+
+KANTON ZÜRICH
+
+Silberpaple Sihlwald 58
+Silberpappele oberes Glattal 67
+Silberpappele Pfannenstiel 67
+
+KANTON SCHWYZ
+Pappälä 28
+Papplä 28
+Silber-Papplä Arth 40
+
+KANTON URI
+Papplä Seedorf 4
+
+KANTON TESSIN
+Wiis Papplu Bosco/Gurin 72
+
+KANTON THURGAU
+Mehlbomm Hinterthurgau
+Silberbapele
+Alber Steckborn 52
+
+KANTON ST. GALLEN
+Silberpappla Berneck 59
+Alber Rheintal 64
+
+KANTON GLARUS
+Päppele 31
+Pappelä 31
+
+KANTON GRAUBÜNDEN
+Wysspapplä Seewis 32
+Silberpapplä Seewis 32
+
+
+271
+
+
+
+FÜRSTENTUM LIECHTENSTEIN
+Alber Vaduz 47
+Älbala Eschen 47
+
+272
+
+
+
+Populus nigra L. Schwarz-Pappel
+
+
+KANTON BASEL-LANDSCHAFT
+Babbele Oberbaselbiet 54
+Sorbolle Zunzgen 54
+Sorbolle Bockten 54
+Bappele Liestal 73
+
+KANTON SOLOTHURN
+Papele Dörnach 3
+Päppele Olten-Gäu 11
+
+KANTON BERN
+Saarbaum
+Saarbaum Thun
+Saarbaum Twann
+Sargbaum Twann
+Sarbaum Seeland 1
+Saarboum Langenthal 9
+Schwarzpapple Biel 16
+Sarbaum Emmental 39
+Saarboum Mittelland 48
+Saarboom Rüschegg 53
+Saarboum 63
+Papplä 66
+
+KANTON AARGAU
+Sarbache 6
+Saarweide Freiamt 71
+Sarbache Muri 71
+Schwarzbappele Möhlin 69
+
+273
+
+
+
+KANTON LUZERN
+Sarbach Weggis VI
+Sarbelä Sursee VI
+Sarbelä Willisau VI
+Sarbollä Sursee VI
+Sarbollä Willisau VI
+Sarbollä VI
+Päpple Rigi 36
+Päppele Horw 36
+Sarbele Luzern 37
+Sarbele Hinterland 37
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Sarbach 21
+
+KANTON UNTERWALDEN NID DEM WALD
+
+Sarbachä VI
+
+KANTON SCHAFFHAUSEN
+Päppele Thayngen
+Albere Thayngen
+Olbere Bez. Stein am Rhein
+Ulbere Bez. Stein am Rhein
+Sarbache Bez. Schaffhausen
+Olbere Stein am Rhein 49
+
+KANTON ZÜRICH
+Albere Stammheim I
+Feldemer Eiche Altikon 2
+Albere Altikon 2
+Albere Andelfingen 29
+Saarbache Flaach 29
+Stangepaple 51
+Schwarzpaple Sihlwald 58
+Päppele oberes Glattal 67
+Päppele Pfannenstiel 67
+
+274
+
+
+
+KANTON SCHWYZ
+Sarbachä
+Sarbachä
+Sarbachä
+Schwarz-Papplä
+
+Küssnacht a.R.
+Bez. Schwyz
+Bez. March
+Arth 40
+
+
+KANTON URI
+Papplä Seedorf 4
+
+KANTON THURGAU
+Albere Weinfelden 18
+
+KANTON ST. GALLEN
+Alber Werdenberg 13
+Albera Bad Ragaz 30
+Papälä Meis 30
+Albera Flums 30
+Schwarzpappla Berneck 59
+Päpple Wattwil 64
+
+KANTON GLARUS
+Päppele Glarus 31
+Pappelä Glarus 31
+
+KANTON GRAUBÜNDEN
+Albera Jenins 15
+Schwarz-Papplä Seewis 32
+Albera Mastrils 75
+Alber Untervaz 75
+
+275
+
+
+
+Populus tremula L. Zitter-Pappel
+
+
+KANTON BASEL-LANDSCHAFT
+Eschpe Oberwil 50
+Aschbe Oberbaselbiet 54
+Eschbe Zunzgen 54
+Äschbe Liestal 54
+Aschpe Liestal 73
+Eschpe Reigoldswil 76
+
+KANTON SOLOTHURN
+
+Aspe Dörnach 3
+Espe Nuglar, Hofstetten 3
+Espe Olten-Gäu 11
+
+KANTON BERN
+Asp Sigrisw
+Espe Langenthal 9
+Asp Langenthal 9
+Aschpe Murten 16
+Aschpe Biel 16
+Zitterpapple Murten 16
+Zitterpapple Biel 16
+Eschbe Bern 14
+Aschpe Bern 14
+Aspe Büren 19
+Aspe Bern 25
+Aspen Gadmen 35
+Aspen Hasliberg 35
+Eschpe Emmental 39
+Aschpe Emmental 39
+Aschpe Beatenberg 41
+Aspe Mittelland 48
+Aspe Oberland 48
+Aschpe Rüschegg 53
+Aspe Wohlen 55
+
+276
+
+
+
+Aspe Emmental 55
+Eschpe 63
+Aschbä Kandertal 66
+
+KANTON WALLIS
+Aspe 12
+
+KANTON AARGAU
+Aschpe Aarau 6
+Espä Sins VI
+Eschbe Oberaargau 14
+Aspe Aarau 22
+Espe Brugg 23
+Aschpe Lenzburg 56
+Aschpe Rheinfelden,
+
+Mägden, Möhlin 57
+Espe Freiamt 71
+Aspe Freiamt 71
+Aspe Zofingen 68
+Espe Zofingen 68
+Aschbe Möhlin 69
+Aschpe Brugg 70
+Aschpe Fricktal, Kirchspiel 70
+Eschpe Brugg 70
+Eschpe Fricktal 70
+
+KANTON LUZERN
+Espe Entlebuch VI
+Aspe Entlebuch VI
+Aspä Entlebuch VI
+Asp Entlebuch VI
+Esplä Entlebuch VI
+Aspli Rigi 36
+Aspe Schwarzenberg 36
+Espe Horw 36
+Aspe Willisau 37
+Aschpe Sursee 38
+Eschpe Sursee 38
+
+
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Aspä Giswil 21
+Aspä Lungern 21
+Aspli Giswil 21
+Aspli Lungern 21
+
+KANTON UNTERWALDEN NID DEM WALD
+
+Espe
+
+KANTON SCHAFFHAUSEN
+
+Aspe
+Aschpe Stein am Rhein 49
+
+KANTON ZÜRICH
+Eschpe Bez. Horgen I
+Eschpe Niederweningen I
+Eschpe Wald I
+Eschpe Rorbas I
+Eschpe Seegräben I
+Eschpe Bez. Affoltern I
+Aschpe Stammheim I
+Aschpe Regensberg I
+Aschpe Gossau I
+Aschpe Rafzerfeld I
+Aschpe Oberhasli I
+Äschpe Oberland I
+Aschpe Turbenthal I
+Eschpli Kappel I
+Aspe Weinland 29
+Espe Schlatt 51
+Espe 51
+Aschpe Sihlwald 58
+Zitterpaple Sihlwald 58
+Aspe 61
+Espe 61
+Eschpe oberes Glattal 67
+Eschpe Pfannenstiel 67
+Aschpe oberes Glattal 67
+Aschpe Pfannenstiel 67
+
+278
+
+
+
+KANTON SCHWYZ
+Espe Bez. March VI
+Aspe Bez. March VI
+Aspä Bez. March VI
+Espä Einsiedeln 28
+Aspä Innerschwyz 28
+Aschpä Wägital 40
+Aspä Arth 40
+
+KANTON URI
+Eschpä Gurtnellen 4
+
+KANTON THURGAU
+Aschpe Obersee
+Aschpe Rhein
+Beseholz Oberthurgau
+Eschpe Bischofszell
+Eschpe Hinterthurgau
+Eschpe Thurtal
+Eschpe Oberthurgau
+Eschpe Untersee
+Aschbe Weinfelden 18
+Aschpe Steckborn 52
+
+KANTON APPENZELL I.RH.
+Espä 34
+Zwaslistuude 13
+
+KANTON ST. GALLEN
+Eschpa 13
+Aschpilob Werdenberg 13
+Äschpä Sargans 13
+Aspa Bez. Sargans 30
+Aspä Bez. Sargans 30
+Eschpa Sevelen 59
+Aspa Berneck 59
+Zytterpappla Berneck 59
+Eschpe Wattwil 64
+
+279
+
+
+
+Äschpe Wattwil 64
+Aschpe Wattwil 64
+
+KANTON GLARUS
+Aschpe 31
+Aschpä 31
+
+KANTON GRAUBÜNDEN
+Aschpe Schiers V
+Aspa Trimmis V
+Eschpa Trimmis V
+Triembal Heinzenberg V
+Trémbel Remüs V
+Trémbel Schieins V
+Aschpa Luzein 7
+Aschpa St. Antonien 7
+Aspe Prättigau 27
+Aspe Vorderprättigau 32
+Aspä Vorderprättigau 32
+Aschpä Schiers 33
+Aspa Valendas 43
+Aschpa Langwies 44
+Aschpä Mittel-Schanfigg 44
+Aspa Obersaxen 45
+Aspa Jenaz, Mittel-Prättigau 46
+Aspa Mastrils 75
+Aspa Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Aspa Vaduz 47
+Pappla Unterland 47
+
+280
+
+
+
+Prunus avium L. Waldkirschbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Chirsbaum Oberwil 50
+wilde Chirsibaum Oberbaselbiet 54
+Chriesibaum Anwil 54
+Chriesibaum Oltingen 54
+Chirsbaum Liestal 73
+Chriesibaum Liestal 73
+Chriesbaum Liestal 73
+
+KANTON SOLOTHURN
+Chirsbaum Dörnach 3
+Chriesibaum Gäu 5
+Wildchriesbaum Olten-Gäu 11
+Wildi Chriesi Olten-Gäu 11
+
+KANTON BERN
+Kriesboum 9
+Chirschboum 9
+wüudi Chirsi Murten 16
+wüudi Chirsi Biel 16
+Kirschiboum 14
+wilde Chirsboum Büren 19
+Kirschbaum Büren 19
+Waldchriesiböin Oberhasli 35
+Chirschiboum Emmental 39
+Chirschbuum Beatenberg 41
+Chriesboum Brienzersee 41
+Wilde Mittelland 48
+Chriesboom Rüschegg 53
+Wildchirschi Kandertal 66
+
+281
+
+
+
+KANTON AARGAU
+Waldchriesi Aarau 6
+wildi Chriesi Aarau 22
+Zächlichriesi Fricktal 8
+Chriesi Brugg 23
+Holzchriesi Lenzburg 56
+wildi Chriesi Lenz bürg 56
+Chirsboum Mägden 57
+Chriesboum Möhlin 57
+wilde Chriesi Freiamt 71
+Holzchriesi Muri 71
+wilde Chriesbaum Möhlin 69
+Wildchriesi Fricktal, Kirchspiel 70
+Vogelchriese Kirchspiel 70
+
+KANTON LUZERN
+Vogelchriesi Rigi 36
+wilde Chriesbaum Schwarzenberg 36
+Waldchriesibaum Horw 36
+wildi Chriesi Willisau 37
+Chriesi-Baum Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+wildi Chriesi
+
+21
+
+KANTON SCHAFFHAUSEN
+
+49
+
+Chriesbomm
+Holzchriesibomm
+Chriesibomm
+Chriesi Stein am Rhe
+
+KANTON ZÜRICH
+Chriesi
+Chriesbäum
+Chriesbomm Stammhe
+Vogelchriesi 51
+Holzchriesi 51
+Chriesi Sihlwald 58
+282
+
+
+
+Vogelkirsche 61
+Chriesbaum oberes Glattal 67
+Chriesbaum Pfannenstiel 67
+Chriesibaum oberes Glattal 67
+Chriesibaum Pfannenstiel 67
+
+KANTON SCHWYZ
+Chriäsibaum Einsiedeln 28
+Chriesbaum Innerschwyz 28
+wildä Chrisbaum Innerschwyz 28
+wildi Chrieesi Wägital 40
+wildi Chriesi Arth 40
+
+KANTON URI
+wildi Chriäsi Gurtnellen 4
+
+KANTON TESSIN
+Chrigiböm Bosco/Gurin 72
+
+KANTON THURGAU
+Chriesibomm
+wildi Chriesi Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Wöldächriesbom 34
+
+KANTON ST. GALLEN
+Chriasibomm 13
+Kriesi Bad Ragaz 30
+Wildächriesibaum Bez. Sargans 30
+Chriesi Sevelen 59
+Chriesiboomm Berneck 59
+Chriesi Wattwil 64
+wildi Chriesi Wattwil 64
+
+283
+
+
+
+KANTON GRAUBÜNDEN
+Chriesbomm
+wildi Chriesi Luzein 7
+Chriesbom Seewis 32
+Chriesbom Schiers 33
+wilte Chriesbaum Valendas 43
+wilti Chriesi Mittel-Schanfigg 44
+Chriesbaum Obersaxen 45
+Chriesbum Mastrils 75
+Chriesbam Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Kriesebomm Oberland 47
+Kriesebomm Unterland 47
+
+284
+
+
+
+Prunus Padus L. Traubenkirsche
+
+
+KANTON BASEL-LANDSCHAFT
+Stinkwiide Oberwil 50
+Schtinkwiide Liestal 73
+
+KANTON BERN
+Fulboum Langenthal 9
+Fuuboum Biel 16
+Fuuboum Büren 19
+Fuulbaum Seeland 25
+Trubechirschi Emmental 39
+Trubechirschi Emmental 55
+Trubächirschi Kandertal 66
+
+KANTON AARGAU
+Stinkwide Aarau 6
+Stinkwide Brugg 23
+Trubechriesi Brugg 23
+Stinkwide Lenzburg 56
+Stinkwyde Rheinfelden,
+
+Mägden, Möhlin 57
+Stinkweide Freiamt 71
+Stinkweide Zofingen 68
+Schtinkwiide Möhlin 69
+Fuulbaum Brugg 70
+Stinkwyde Kirchspiel 70
+
+KANTON LUZERN
+Truubechriesi Rigi 36
+
+KANTON ZÜRICH
+Stinkwide Bez. Affoltern
+
+285
+
+
+
+Stinkhasle Bez. Affoltern
+Stinkblueme Hedingen
+Stinkwiide Winterthur-Töss 2
+Stinkwidli Weinland 29
+Chrottbaum Flaach 29
+Trubechriesi Sihlwald 58
+Stinkweide 61
+Stinkwide oberes Glattal 67
+
+KANTON SCHWYZ
+Trubächriesi Arth 40
+
+KANTON THURGAU
+Gelzebomm Bischofszell
+Schwarzhasel Thurtal
+Schwarzhasle Obersee
+Schtinkwide Weinfelden 18
+wilde Flieder Wigoltingen 18
+Stinkwide Steckborn 52
+Stinkwide Diessenhofen 52
+
+KANTON ST. GALLEN
+
+Malausa Vättis 30
+Stinkwyda Berneck 59
+
+KANTON GRAUBÜNDEN
+Elsberri St. Antonien 7
+Trubäkriesele Seewis 32
+Engadiner Chriesi Valendas 43
+Loossi Mittel-Schanfigg 44
+Laussa Obersaxen 45
+
+286
+
+
+
+Prunus spinosa L. Schwarzdorn, Schlehdorn
+
+
+KANTON BASEL-LANDSCHAFT
+Schlerche Oberwil 50
+Schleeche Oberbaselbiet 54
+Schleedorn Sissach 54
+Schleä Wenslingen 54
+Schwarzdorn Bockten, Wittinsburg,
+
+Liestal 54
+Schlehdorn Liestal 73
+Schleche Liestal 73
+Schwarzdorn Liestal 73
+Schleeche Reigoldswil 76
+
+KANTON SOLOTHURN
+Schleedorn Dörnach 3
+Schleedorn Gäu 5
+
+KANTON BERN
+Schlehdorn Langenthal 9
+Schwarz dorn Murten 16
+Schwarz dorn Biel 16
+Schlehdorn Murten 16
+Schlehdorn Biel 16
+Schlehdorn Emmental 39
+Schleedore Beatenberg 41
+Schwarzdorn Rüschegg 53
+Schwarz dorä Kandertal 66
+Schleii Kandertal 66
+Schleiäni Kandertal 66
+
+KANTON WALLIS
+Schlehdorn Termen 74
+Schlehdorn Brig 74
+
+287
+
+
+
+KANTON AARGAU
+Schlehe
+Schwarzdorn
+Schlehdorn
+
+Schlehe
+Schwarzdorn
+Schläädorn
+Schlehe
+Schlehdorn
+
+Fricktal 8
+Lenzburg 56
+Rheinfelden,
+Mägden, Möhlin 57
+Freiamt 71
+Muri 71
+Möhlin 69
+Kirchspiel, Fricktal 70
+Kirchspiel, Fricktal 70
+
+KANTON LUZERN
+Züpperli
+Schleedorn
+Schwarzdorn
+
+Rigi 36
+Horw 36
+Schwarzenberg 36
+
+KANTON SCHAFFHAUSEN
+Schwarztorn
+Schwarztorn
+Schlee
+Schlee
+Schli
+Schlee
+Schlee
+Schleestruuch
+Schliestruuch
+Schwarzdörn
+Schlehe
+Schwarzdorn
+Schleedorn
+
+Bez. Stein am Rhein
+Bez. Reiat
+Bez. Stein am Rhein
+Bez. Reiat
+Merishausen
+Bez. Reiat
+Bez. Schaffhausen
+
+
+Stein am Rhein 49
+Stein am Rhein 49
+Stein am Rhein 49
+
+KANTON ZÜRICH
+Schleee
+Schleee
+Schleee
+Schleee
+Schleee
+Schleee
+Schleetörn
+
+Regensberg I
+Gossau I
+Bez. Winterthur I
+Oberland I
+Aibisrieden 1
+Bez. Affoltern I
+Kappel I
+
+288
+
+
+
+Schwarztörn Bez. Horgen I
+Schleeäbluescht Hirzel I
+Schleedorn Sihlwald 58
+Dörn Sihlwald 58
+Schleie 61
+Schleedorn oberes Glattal 67
+Schleedorn Pfannenstiel 67
+
+KANTON SCHWYZ
+Schwarzdörnä Innerschwyz 28
+Schwarzdorn Arth 40
+
+KANTON URI
+Dorn Gurtnellen 4
+
+KANTON THURGAU
+Schlehe Hinterthurgau
+Schleihe Bischofszell
+Schleihe Thurtal
+Schleihe Oberthurgau
+Spisehölzli Oberthurgau
+Spisehölzli Obersee
+Schwarzdorn Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Schlehä 34
+
+KANTON ST. GALLEN
+Bockbeeri Sargans 13
+Dornä Neu-Toggenburg 13
+Wild Chriacha Unter-T oggenburg 13
+Hageldorn Unter-T oggenburg 13
+Schlehdorn Vilters 30
+Schwarzdorn Flums 30
+Schwarzdöura Berschis 30
+Schwarzdorn Berneck 59
+wildi Zwätschga Berneck 59
+
+289
+
+
+
+Schlee-e Wattwil 64
+Schwarzdorn Wattwil 64
+
+KANTON GLARUS
+Schleche 31
+Schlechä 31
+
+KANTON GRAUBÜNDEN
+Schlehestude
+Pernullia Luzein 7
+Pernullia Fideris 7
+Schleha Jenins 15
+Schlehe Vorderprättigau 32
+Schwarzdörä Seewis 32
+Schlehä Seewis 32
+Schlehä Schiers 33
+
+
+FÜRSTENTUM LIECHTENSTEIN
+Schleha Schaan 47
+
+290
+
+
+
+Quercus petraea (Matt.) Liebl. Trauben-Eiche
+
+
+KANTON BASEL-LANDSCHAFT
+Eiche Oberwil 50
+Eiche Oberbaselbiet 54
+Eiche Liestal 73
+Eiche Reigoldswil 76
+
+KANTON SOLOTHURN
+Eiche Dörnach 3
+Eiche Olten-Gäu 11
+
+KANTON BERN
+Trubeeiche Murten 16
+Trubeeiche Biel 16
+Truben-Eiche Büren 19
+Eich Emmental 39
+liehe Beatenberg 41
+Eche Rüschegg 53
+Wintereiche 63
+Eechä Kandertal 66
+
+KANTON AARGAU
+Eich Aarau 6
+Eiche Brugg 23
+Truubeneiche Lenzburg 56
+Traubeneiche Muri 71
+Steineiche Muri 71
+Trübeleich Möhlin 69
+Eiche Fricktal 70
+
+KANTON LUZERN
+Truube Eich Schwarzenberg 36
+Steineiche Horw 36
+
+291
+
+
+
+KANTON SCHAFFHAUSEN
+
+Eich
+Aach
+Ooch
+Aache Stein am Rhein 49
+
+KANTON ZÜRICH
+Eiche Sihlwald 58
+Eiche oberes Glattal 67
+Eiche Pfannenstiel 67
+Trubeneiche oberes Glattal 67
+Trubeneiche Pfannenstiel 67
+
+KANTON SCHWYZ
+Eichä Innerschwyz 28
+Trubäeichä Arth 40
+Traubeneich Wägital 40
+Trubeneich Wägital 40
+
+KANTON URI
+Eichä Gurtnellen 4
+
+KANTON THURGAU
+Ache
+Eiche
+Eiche Weinfelden 18
+Ache Beckelswilen 18
+
+KANTON APPENZELL I.RH.
+Ächä 34
+
+KANTON ST. GALLEN
+Aach 13
+Aacha 13
+Eicha Valens 30
+
+292
+
+
+
+Eichä Meis, Flums 30
+Truba Eiecha Berneck 59
+Eiche Wattwil 64
+
+KANTON GRAUBÜNDEN
+Eich Luzein 7
+Eichä Seewis 32
+Chohl-Eichä Seewis 32
+Steineiche Jenaz, Mittelprättigau 46
+Kohleiche Jenaz, Mittelprättigau 46
+Eicha Mastrils 75
+Eich Untervaz 75
+
+293
+
+
+
+Quercus Robur L. Stiel-Eiche
+
+
+KANTON BASEL-LANDSCHAFT
+Eiche Oberwil 50
+Eiche Oberbaselbiet 54
+Eiche Liestal 73
+
+KANTON SOLOTHURN
+Eiche
+Eiche
+
+KANTON BERN
+Stieleiche
+Stieleiche
+Stieleiche
+Eich
+liehe
+Eche
+Stiil-Eiche
+Summereiche
+Eechä
+
+Dörnach 3
+Olten-Gäu 11
+
+Murten 16
+Biel 16
+Büren 19
+Emmental 39
+Beatenberg 41
+Rüschegg 53
+
+63
+63
+
+Kandertal 66
+
+KANTON AARGAU
+Eich
+Eiche
+Stileiche
+Schtileich
+
+KANTON LUZERN
+Äiche
+Stieleich
+Haageiche
+
+Aarau 6
+Brugg 23
+Lenzburg 56
+Möhlin 69
+
+Rigi 36
+Schwarzenberg 36
+Horw 36
+
+294
+
+
+
+KANTON SCHAFFHAUSEN
+
+Aache Stein am Rhein 49
+
+
+KANTON ZÜRICH
+Äich
+Eiche Sihlwald 58
+Eiche oberes Glattal 67
+Eiche Pfannenstiel 67
+Stiileiche Pfannenstiel 67
+
+KANTON SCHWYZ
+Eichä Innerschwyz 28
+Stieleichä Arth 40
+Stieleich Wägital 40
+
+KANTON URI
+Eichä Gurtnellen 4
+
+KANTON TESSIN
+Stiel Eicha Bosco/Gurin 72
+
+KANTON THURGAU
+Eiche Weinfelden 18
+Ache Beckelswilen 18
+
+KANTON APPENZELL I.RH.
+Ächä 34
+
+KANTON ST. GALLEN
+Eichä Flums 30
+Styleiecha Berneck 59
+Eiche Wattwil 64
+
+295
+
+
+
+KANTON GRAUBÜNDEN
+Haageichä Schiers 33
+
+FÜRSTENTUM LIECHTENSTEIN
+Ächa Oberland 47
+Ocha Ruggell 47
+Ocha Gamprin 47
+Acha Mauren 47
+Acha Eschen 47
+Eicha Triesenberg 47
+
+296
+
+
+
+Rhamnus alpina L. Alpen-Kreuzdorn
+
+KANTON BASEL-LANDSCHAFT
+Alpechrüzdorn Sissach 54
+
+KANTON BERN
+Chrüüzdorä Kandertal 66
+
+KANTON LUZERN
+Alpe Chrüüzdorn Schwarzenberg 36
+
+KANTON URI
+Dorn Gurtnellen 4
+
+KANTON GRAUBÜNDEN
+Sprengberri Luzein 7
+
+297
+
+
+
+Rhamnus cathartica L. Kreuzdorn
+
+
+KANTON BASEL-LANDSCHAFT
+Chrizdorn Oberwil 50
+Chrüzdorn
+Chrüzdorn
+Wegdorn
+Chrüzdorn
+
+Anwil 54
+Rickenbach 54
+Sissach 54
+Reigoldswil 76
+
+KANTON BERN
+Chrüzdorn
+Hirschdorn
+Wägdorn
+Chrüüzdorä
+
+KANTON AARGAU
+Chrüzdorn
+
+Wegdorn
+Chrüzdorn
+
+Rüschegg 53
+63
+63
+
+Kandertal 66
+
+Rheinfelden,
+Mägden, Möhlin 57
+Freiamt 71
+Möhlin 69
+
+KANTON LUZERN
+Chrüzdorn
+Chrüüzdorn
+Chrüüzdorn
+
+Rigi 36
+Schwarzenberg 36
+Horw 36
+
+KANTON SCHAFFHAUSEN
+Wegdorn Lohn
+
+KANTON ZÜRICH
+Dörn Sihlwald 58
+
+298
+
+
+
+KANTON SCHWYZ
+Kreuzdorn Arth 40
+
+KANTON URI
+Dorn Gurtnellen 4
+
+KANTON ST. GALLEN
+Krützdorn Berneck 59
+
+KANTON GRAUBÜNDEN
+Sprengberri Luzein 7
+Dööra Seewis 32
+Himmelsleitern Schiers 33
+
+299
+
+
+
+Rhamnus Frangula L. Faulbaum, Pulverholz
+
+
+KANTON BASEL-LANDSCHAFT
+Stinkwiide
+Stinkwiide
+Pulverholz
+Pfiffeholz
+Fulbaum
+Pulverholz
+
+KANTON SOLOTHURN
+Fulbaum
+
+KANTON BERN
+Fulboum
+Fuulboum
+Fuulboum
+Pueverhouz
+Pueverhouz
+Geischiechel
+Fuulbeeri
+Fuulholz
+Fuuboom
+Fuulboom
+
+Wittinsburg, Dietgen 54
+Liestal, Oltingen 54
+Bennwil 54
+Wenslingen, Zunzgen 54
+Reigoldswil 76
+Reigoldswil 76
+
+Olten-Gäu 11
+
+Langenthal 9
+Murten 16
+Biel 16
+Murten 16
+Biel 16
+Schwanden 35
+Brienzersee 41
+Mittelland 48
+Rüschegg 53
+Kandertal 66
+
+KANTON AARGAU
+Fuulbaum
+Pulverholz
+Zapfehölzli
+Schwarze Chingerte
+Stinkweide
+Zapfeholz
+Pulverholz
+Stinkwide
+Fuulbaum
+
+Aarau 22
+Brugg 23
+Mägden, Möhlin 57
+Freiamt 71
+Freiamt 71
+Freiamt 71
+Zofingen 68
+Zofingen 68
+Möhlin 69
+
+300
+
+
+
+Pulverholz Kirchspiel 70
+
+KANTON LUZERN
+Wolfbeeri Amt Sursee VI
+Wolfbeeri Amt Willisau VI
+Wolfbeeri Amt Luzern VI
+Wolfbeeri Amt Entlebuch VI
+Fuulbaum Rigi 36
+Polverholz Horw 36
+
+KANTON UNTERWALDEN OB DEM WALD
+21Schwarzhasel Alpnach-Sarnen
+
+KANTON UNTERWALDEN NID DEM WALD
+Stinkwide 10
+Wolfsbeeri VI
+
+KANTON SCHAFFHAUSEN
+Fuulbömmis Lohn
+Fuulbomm Ramsen
+Fuulbomm Bez. Schaffhausen
+Fuulbomm Löhningen
+Fuulbäumis Rüdlingen
+Fuul Rüdlingen
+Schwarzwiide Stein am Rhein
+Schwarzwiidis Buch
+Schwarzhaslis Schleitheim
+Hulftere Bez. Reiat I
+Hulftere Oberhailau I
+Baderössliholz Neunkirch I
+Güggelhödis Unterhailau I
+Schwarz Cholgertis Stein am Rhein 49
+
+301
+
+
+
+KANTON ZÜRICH
+Hërgeete Bez. Horgen I
+Chërgeete Stäfa I
+Chelgeetli Seegräben I
+Schwarzi Chregeete Turbenthal I
+Pulverruete Rafzerfeld I
+Pulverruete Gossau I
+Pulverruete Seegräben I
+Pulverruete Kappel I
+Pulverruete Wettswil I
+Pulverholz Stammheim I
+Fuuldorn Flaach 29
+Fulbaum Sihlwald 58
+Stinkwide Sihlwald 58
+Pulverholz Sihlwald 58
+Pulverholz oberes Glattal 67
+Pulverholz Pfannenstiel 67
+Pulverruete rechtes Seeufer 67
+
+KANTON ZUG
+Wolfsbeeri V
+Wolfsbeeri Zug VI
+
+KANTON SCHWYZ
+Wolfbeeri Küssnacht a.R. VI
+Wolfbeeri Gersau VI
+Wolfbeeri Bez. Schwyz VI
+Wolfbeeri Einsiedeln VI
+Wolfbeeri Bez. March VI
+Wolfsbeeri Bez. Schwyz VI
+Wolfsbeeri Einsiedeln VI
+Fuulbaum Schwyz 28
+Pulverholz Arth 40
+Faulbaum Arth 40
+
+KANTON THURGAU
+Cholgerte Untersee
+Chrotteholz Hinterthurgau
+Chrottestude Thurtal
+
+302
+
+
+
+IVPulverholz Thurtal
+Pulverholz Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Fulbom 34
+
+KANTON ST. GALLEN
+Pulverholz 13
+Schwebeiholz 13
+Pfifaholz 13
+Pfifaholz Sargans 13
+Fulholz Werdenberg 13
+Chrottabeeristuida Werdenberg 13
+Schwarzhasla Gaster 13
+Schwarzerlä Ober-T oggenburg 13
+Stingg-Holz Berschis 30
+Schtinggescha Sevelen 59
+Pulverholz Berneck 59
+
+KANTON GRAUBÜNDEN
+Sprengberri Luzein 7
+Fulbom Seewis 32
+Pulverholz Seewis 32
+Pulverholz Jenaz, Mittelprättigau 46
+
+303
+
+
+
+Ribes alpinum L. Alpen-J ohannisbeere
+
+
+KANTON BASEL-LANDSCHAFT
+Johannisbeeristoch Oberbaselbiet 54
+Chrüselistock Sissach 54
+Johannistrübeli Reigoldswil 76
+
+KANTON BERN
+Alpe-Meertrübeli Langenthal 9
+wüude Meertrübeli Murten 16
+wüude Meertrübeli Biel 16
+Meertrübeli 14
+Meertrübeli Emmental 39
+Meertrübeli Mittelland 48
+Meertrübeli Oberland 48
+Mehrtrübeli Rüschegg 53
+Bärgmeertrübäli Kandertal 66
+
+KANTON LUZERN
+Johannistrüübeli Rigi 36
+Trüübali Schwarzenberg 36
+Trüübali Horw 36
+
+KANTON SCHWYZ
+40wildi Johannisbeeri Wägital
+
+wildi Johannesbeeri Arth 40
+
+KANTON URI
+Johannisberri Gurtnellen 4
+Johannisberri Ursern 4
+
+304
+
+
+
+KANTON TESSIN
+Griaifla Bosco/Gurin 72
+
+KANTON ST. GALLEN
+Johannisbeer Berneck 59
+Santihansbeeri Ebnat-Kappel 64
+
+KANTON GRAUBÜNDEN
+Johannisberri Luzein 7
+Trübli Churwaiden 20
+Trüübli Vorderprättigau 32
+Wieggi Hinterprättigau 32
+Wilti Johannisbeeri Valendas 43
+Wieggi Mittel-Schanfigg 44
+Süüfa Obersaxen 45
+wildi Trübli Untervaz 75
+
+305
+
+
+
+Robinia Pseudacacia L. Falsche Akaz
+
+
+KANTON BASEL-LANDSCHAFT
+Akazie Oberwil 50
+Agazie Oberbaselbiet 54
+Akazie Liestal 73
+Agazie Liestal 73
+Robinie Reigoldswil 76
+
+KANTON SOLOTHURN
+Agaazie Dörnach 3
+
+KANTON BERN
+Akazie Murten 16
+Akazie Biel 16
+Akazie 14
+Akazie Büren 19
+Akazie Emmental 39
+Akazie Beatenberg 41
+Akazie Mittelland 48
+Akaziä Kandertal 66
+
+KANTON AARGAU
+Akazi Fricktal 8
+Akazie Aarau 22
+Akazie Brugg 23
+Akazie Lenzburg 56
+Akazie Rheinfelden,
+
+Mägden, Möhlin 57
+Robinie Zofingen 68
+Agazi Möhlin 69
+Akazie Kirchspiel 70
+Robinie Laufenburg 70
+falsche Akazie Muri 71
+
+306
+
+
+
+KANTON LUZERN
+Akazie Rigi 36
+Akazi Schwarzenberg 36
+Robinie Horw 36
+Robinie Sursee 38
+
+KANTON SCHAFFHAUSEN
+Akazie Stein am Rhein 49
+
+KANTON ZÜRICH
+Silberrääge I
+Akazie Weinland 29
+Robinie Sihlwald 58
+Akazie Sihlwald 58
+Akazie oberes Glattal 67
+Akazie Pfannenstiel 67
+
+KANTON SCHWYZ
+Akazie Arth 40
+
+KANTON THURGAU
+falschi Akazie Thurtal
+falschi Akazie Oberthurgau
+falschi Akazie Unterthurgau
+wildi Akazie Thurtal
+wildi Akazie Oberthurgau
+wildi Akazie Unterthurgau
+Akazie Weinfelden 18
+
+KANTON ST. GALLEN
+Akazi Berschis 30
+Akazia Berneck 59
+
+KANTON GRAUBÜNDEN
+Akaziä Seewis 32
+
+307
+
+
+
+Salix alba L. Weisse Weide
+
+
+KANTON BASEL-LANDSCHAFT
+Wide Oberwil 50
+Wiidebaum Oberbaselbiet 54
+Wiide Liestal 73
+Wyde Reigoldswil 76
+
+KANTON SOLOTHURN
+Wide Dörnach 3
+Wyde Olten-Gäu 11
+
+KANTON BERN
+Wysswide Langenthal 9
+Silberwyden Oberhasli 35
+Wide Emmental 39
+Wide Beatenberg 41
+Wide Rüschegg 53
+Silber-Wyde 63
+Widdä Kandertal 66
+
+KANTON WALLIS
+Wiislöüb Termen 74
+Wiislöüb Brig 74
+
+KANTON AARGAU
+Wiisswide Aarau 22
+Wide Brugg 23
+Wide Lenz bürg 56
+Lederwide Freiamt 71
+Silber Wiide Möhlin 69
+Pfyfeholz Kirchspiel, Fricktal 70
+
+308
+
+
+
+KANTON LUZERN
+Wide Rigi 36
+Wide Schwarzenberg 36
+Fälbe Horw 36
+Wide Sursee 38
+
+KANTON SCHAFFHAUSEN
+Chopfwiide
+Goldwiide
+Wiide Stein am Rhein 49
+
+KANTON ZÜRICH
+Wiid I
+Wide I
+Feime Stammheim I
+Feime Benken I
+Pfyfferuete Wetzikon I
+Pfyffeholz Oberland I
+Felbe unteres Thurtal 29
+Felbe Ellikon 29
+Wide Sihlwald 58
+Wiisswide oberes Glattal 67
+
+KANTON SCHWYZ
+Wisswidä Schwyz 28
+Silberwidä Wägital 40
+Widä Arth 40
+
+KANTON URI
+Wiidä Gurtnellen 4
+
+KANTON ST. GALLEN
+Felbe Rheintal 13
+Felbe Werdenberg 13
+Felbe Bad Ragaz 30
+Fälbä Meis, Flums 30
+
+309
+
+
+
+Fälba
+
+KANTON GLARUS
+Wide
+Widä
+
+Berneck 59
+
+31
+31
+
+KANTON GRAUBÜNDEN
+Widä
+Wyss-Wydä
+Wiidä
+Sala
+Sala.
+
+Vorderprättigau 32
+Vorderprättigau 32
+Schiers 33
+Mastrils 75
+Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Felba Unterland 47
+Pfiffaholz Schaan 47
+
+310
+
+
+
+Salix cap rea L. Sal-Weide
+
+
+KANTON BASEL-LANDSCHAFT
+Salwide Oberwil 50
+Salwiide Oberbaselbiet 54
+Saalwiide Liestal 73
+
+KANTON SOLOTHURN
+Wide Dörnach 3
+Saalwide Dörnach 3
+Pfifeholz Dörnach 3
+Sal-Wyde Olten-Gäu 11
+
+KANTON BERN
+Salwide Langenthal 9
+Salwyde Murten 16
+Salwyde Biel 16
+Wiiden Gadmen 35
+Wiiden Hasliberg 35
+Wide Emmental 39
+Wide Beatenberg 41
+Wide Rüschegg 53
+Saalwiddä Kandertal 66
+
+KANTON AARGAU
+Salwide Aarau 6
+Wide Brugg 23
+Pfiiffeholz Lenz bürg 56
+Wyde Rheinfelden,
+
+Mägden, Möhlin 57
+Chätzliwyde Möhlin 57
+Sahlweide Muri 71
+Sal-Wiide Möhlin 69
+Pfiffeholz Laufenburg 70
+
+311
+
+
+
+KANTON LUZERN
+Sal Wide Schwarzenberg 36
+Saalwide Horw 36
+Wide Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Sali Giswil 21
+
+KANTON SCHAFFHAUSEN
+
+Salwiide Bez. Stein am Rhein
+Salwiide Bez. Reiat
+Salwiide Lohn
+Salbide Dörflingen
+Salbide Löhningen
+Sallwiide Oberhailau
+Pfiiffeholz Bez. Stein am Rhein
+Pfiiffeholz Bez. Reiat
+Pfiiffeholz Bez. Schaffhausen
+Pfiiffeholz Bez. Unterklettgau
+Salwiide Stein am Rhein 49
+
+KANTON ZÜRICH
+Saale Wald I
+Saalwide Hagenbuch I
+Pfiffeholz Stammertal 29
+Pfiffeholz Flaach 29
+Pfeifenruete Schlatt, Winterthur 51
+Salwide Sihlwald 58
+Chäzlibaum Sihlwald 58
+Wide oberes Glattal 67
+Wide Pfannenstiel 67
+Pfiiferuete oberes Glattal 67
+Pfiiferuete Pfannenstiel 67
+Pfiifeholz oberes Glattal 67
+Pfiifeholz Pfannenstiel 67
+
+312
+
+
+
+KANTON SCHWYZ
+Saalwidä
+Saalwidä
+
+Arth
+Wägital
+
+40
+40
+
+KANTON URI
+Wiidä Gurtnellen 4
+
+KANTON THURGAU
+Pfiifeholz Hinterthurgau
+Pfiifeholz Obersee
+Pfiifestude Hinterthurgau ♦
+Maiepfiife Oberthurgau
+Maiepfifestude Oberthurgau
+Wide Weinfelden 18
+
+KANTON APPENZELL A.RH.
+Pfiffeholz Herisau 58
+
+KANTON ST. GALLEN
+Gaislaub Werdenberg 13
+Gaislaub Sargans 13
+Sala Sargans 13
+Maiapfifästuda Toggenburg 13
+Pfifästuda Toggenburg 13
+Maiaholz Wil 13
+Kätzlibaum Bad Ragaz 30
+Kätzlibaum Meis 30
+Wieda Vättis 30
+Sala Flums 30
+Salä Berschis 30
+Wyda Berneck 59
+
+KANTON GRAUBÜNDEN
+Sale V
+Saala Luzein 7
+Saala St. Antonien 7
+
+313
+
+
+
+Sala Vals 24
+Palmä Vorderprättigau 32
+Saalwyda Vorderprättigau 32
+Salä Schiers 33
+Sala Safien, Versam,
+
+Valendas 43
+Saala Langwies 44
+Saalä Mittel-Schanfigg 44
+Sala Stüda Obersaxen 45
+Saala Jenaz, Mittelprättigau 46
+
+314
+
+
+
+Salix viminalis L. Korb-Weide
+
+
+KANTON BASEL-LANDSCHAFT
+Chorbwide
+Wiide
+Chörber-Wiide
+Bindwiide
+Chorbwiide
+Chorbwyde
+
+KANTON SOLOTHURN
+Wide
+
+KANTON BERN
+Korbwide
+Chorbwyde
+Chorbwyde
+Wide
+gäubi Chorberwide
+Widdä
+
+Oberwil 50
+Oberbaselbiet 54
+Zunzgen 54
+Liestal 54
+Liestal 73
+Reigoldswil 76
+
+Dörnach 3
+
+Langenthal 9
+Murten 16
+Biel 16
+Emmental 39
+Rüschegg 53
+Kandertal 66
+
+KANTON AARGAU
+Chorbwide
+Wide
+Wide
+Hamfwyde
+Bandweide
+Gertenweide
+Züriwide
+Kopfweide
+Chorb-Wiide
+
+Aarau 6
+Fricktal 8
+Brugg 23
+Mägden 57
+Freiamt 71
+Muri 71
+Muri 71
+Zofingen 68
+Möhlin 69
+
+315
+
+
+
+KANTON LUZERN
+Chorbwide Rigi 36
+gelbi Wiidli Schwarzenberg 36
+Wide Sursee 38
+
+KANTON UNTERWALDEN NID DEM WALD
+Bruch wide 10
+Chorbwide 10
+
+KANTON SCHAFFHAUSEN
+Hanfwiide
+
+KANTON ZÜRICH
+Wiedli
+Wide
+
+KANTON SCHWYZ
+gälbi Widli
+gälbi Widli
+
+KANTON URI
+Wiidä
+
+KANTON THURGAU
+Chopf-Wide
+
+KANTON ST. GALLEN
+Chorbwiedä
+Wieda
+Korbwyda
+
+Schlatt, Winterthur 51
+Sihlwald 58
+
+Arth 40
+Wägital 40
+
+Gurtnellen 4
+
+Weinfelden 18
+
+Meis 30
+Flums 30
+Berneck 59
+
+316
+
+
+
+KANTON GRAUBÜNDEN
+
+Salä Vorderprättigau 32
+Chorb-Wydä Vorderprättigau 32
+Wida Mastrils 75
+Bända Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Bandhäg Schaan 47
+
+317
+
+
+
+Sambucus nigra L. Schwarzer Holunder
+
+
+KANTON BASEL-LANDSCHAFT
+Holler Oberwil 50
+Hollere Oberwil 50
+Holder Oberwil 50
+Holder Oberbaselbiet 54
+Holder Liestal 73
+Holdere Liestal 73
+Holder Reigoldswil 76
+
+KANTON SOLOTHURN
+Holder Dorneck 3
+Holder Thierstein 3
+Holler Kleinlützel 3
+Holler Leimental 3
+schwarze Holder Olten-Gäu 11
+
+KANTON BERN
+Houler Twann VI
+Houler Erlach VI
+Huuer Simmental VI
+Houder Seeland 1
+Holder Langenthal 9
+schwarze Houder Murten 16
+schwarze Houder Biel 16
+Houder 14
+Houder Büren a.A. 19
+schwarze Holder Büren a.A. 19
+Holder Schwanden 35
+schwarze Holder Gadmen 35
+schwarze Holder Hasliberg 35
+Houer ob. Emmental 39
+Houler Summiswald 39
+schwarze Holder Beatenberg 41
+schwarze Holder Brienzersee 41
+
+318
+
+
+
+Holder nördl. Seeland 42
+Holder Mittelland 48
+Houer Oberland 48
+Houer Emmental 48
+schwarze Houer Rüschegg 53
+schwarze Houer Emmental 55
+schwarzä Holdär Kandertal 66
+
+KANTON WALLIS
+Hollerne Oberwallis 12
+
+KANTON AARGAU
+Schwarzholder Aarau 6
+Holder Fricktal 8
+schwarzer Holder Aarau 22
+schwarzi Holdere Freiamt 22
+Holder Brugg 23
+Holdere Brugg 23
+Holdere Lenz bürg 56
+Holder Rheinfelden,
+
+Mägden, Möhlin 57
+Holderstock Freiamt 71
+Holder Zofingen 68
+schwarze Holder Möhlin 69
+Holder Brugg, Kirchspiel 70
+
+KANTON LUZERN
+Holder
+Holder
+
+Entlebuch
+Wegg
+
+
+Holderä Sursee VI
+Holderä Willisau VI
+Holder Rigi 36
+schwarze Holder Schwarzenberg 36
+Houder Horw 36
+schwarzer Holder Willisau 37
+Houdere Sursee 38
+
+319
+
+
+
+KANTON UNTERWALDEN OB DEM WALD
+Winterzwätschgä Alpnach 21
+Winterzwätschgä Lungern 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Holder VI
+
+KANTON SCHAFFHAUSEN
+Holder Bez. Stein am Rhein
+Holder Bez. Reiat
+Holder Bez. Unterklettgau
+Holder Bez. Schleitheim
+Holderebaum Rüdlingen
+Holderebaum Buchberg
+Holderpösche I
+Sprützeholz I
+Schlebüchseholz I
+Bolzeholz I
+Holder Stein am Rhein 49
+Holunder Stein am Rhein 49
+
+KANTON ZÜRICH
+Holder I
+Holderstruuch I
+Holderpusch I
+Holdere I
+Holdere Winterthur 2
+Holdere 51
+Holder Sihlwald 58
+schwarzi Holdere oberes Glattal 67
+schwarzi Holdere Pfannenstiel 67
+
+KANTON ZUG
+Holder Zug
+
+320
+
+
+
+KANTON SCHWYZ
+Holder Bez. Schwyz VI
+Holder Bez. Einsiedeln VI
+Holder Bez. March VI
+Holderä Bez. Schwyz VI
+Holderä Bez. Einsiedeln VI
+Holderä Bez. March VI
+Holder Schwyz 28
+schwarzi Holdärä Schwyz 28
+Schwarzholder Wägital 40
+schwarzer Holunder Arth 40
+
+KANTON URI
+schwarzi Holtärä Gurtnellen 4
+
+KANTON THURGAU
+Holder Obersee
+Holder Untersee
+Holdere Hinterthurgau
+Holdere Thurtal
+Holdere Unterthurgau
+Schliestruch Rhein
+wiise Holder Rhein
+Holdere Weinfelden 18
+
+KANTON APPENZELL
+Holder
+
+
+34
+
+KANTON ST. GALLEN
+Holder 13
+Holder Werdenberg 13
+Holderstuda Werdenberg 13
+Husholder Unter-T oggenburg 13
+Holder ganzes Rheintal 13
+schwarzer Holder Bez. Sargans 30
+Holder Flums 30
+Holder Sevelen 59
+
+321
+
+
+
+schwarza Holdar Berneck 59
+Holdarstuda Berneck 59
+Holder 64
+Holderbom ganzes Toggenburg 64
+
+KANTON GLARUS
+schwarze Holdere 31
+schwarze Holderä 31
+
+KANTON GRAUBÜNDEN
+Holdera Luzein 7
+schwarza Holder Vals 24
+Holder Prättigau 27
+Holdere Vorderprättigau 32
+Holder Seewis 32
+Holder Schiers 33
+schwarzi Holdära Valendas 43
+Holdärä Mittel-Schanfigg 44
+schwarza Holder Obersaxen 45
+Holder-Beeri J enaz-Mittelprättigau 46
+Holder Mastrils 75
+Holder Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Holder Oberland 47
+Holder Unterland 47
+
+322
+
+
+
+Sambucus racemosa L. Roter Holunder
+
+
+KANTON BASEL-LANDSCHAFT
+rote Hollere Oberwil 50
+rote Holder Oberbaselbiet 54
+rote Holder Liestal 73
+Truubeholder Liestal 73
+Zotzelholder 73
+rote Holder Reigoldswil 76
+
+KANTON SOLOTHURN
+rote Holder Dorneck 3
+rote Holder Thierstein 3
+rote Holler Kleinlützel 3
+rote Holler Leimental 3
+rote Holder Olten-Gäu 11
+
+KANTON BERN
+Attichbeeri
+rote Holder
+
+Thun
+Langenthal 9
+
+rote Houder Murten 16
+rote Houder Biel 16
+rot Houder 14
+Houder Büren a.A. 19
+rote Holder Büren a.A. 19
+rote Holder Gadmen 35
+rote Holder Hasliberg 35
+rote Houer Emmental 39
+rote Houler Emmental 39
+roote Holder Beatenberg 41
+roote Holder Brienzersee 41
+Holder Mittelland 48
+Houer Emmental 48
+Houer Oberland 48
+roote Houer Rüschegg 53
+rote Houer Emmental 55
+
+323
+
+
+
+rotä Holdär Kandertal 66
+
+KANTON AARGAU
+Rotholder
+Holder
+rote Holder
+roti Holdere
+rote Holder
+roti Holdere
+roti Holdere
+Traubenholunder
+Hirsch-Holunder
+Trauben-Holunder
+rote Holder
+Trübeliholder
+
+Aarau 6
+Fricktal 8
+Aarau 22
+Freiamt 22
+Brugg 23
+Brugg 23
+Lenz bürg 56
+Freiamt 71
+Zofingen 68
+Zofingen 68
+Möhlin 69
+Laufenburg 70
+
+KANTON LUZERN
+Holder
+rote Holder
+Houder
+roter Holder
+Houdere
+
+Rigi 36
+Schwarzenberg 36
+Horw 36
+Willisau 37
+Sursee 38
+
+KANTON SCHAFFHAUSEN
+rote Holder
+rote Hulder
+Rotholder
+
+Bez. Reiat
+Osterfingen
+Stein am Rhein 49
+
+KANTON ZÜRICH
+rooti Holdere
+Holder
+roti Holdere
+roti Holdere
+
+KANTON ZUG
+Hollunder
+
+Wald I
+Sihlwald 58
+oberes Glattal 67
+Pfannenstiel 67
+
+
+324
+
+
+
+KANTON SCHWYZ
+rotä Holder Innerschwyz 28
+Rotholder Wägital 40
+roter Holunder Arth 40
+
+KANTON URI
+roti Holtärä Gurtnellen 4
+
+KANTON THURGAU
+Rotholdere Weinfelden 18
+Truubäholder 62
+
+KANTON APPENZELL I.RH.
+Holder 34
+
+KANTON ST. GALLEN
+roter Holder Vilters 30
+wilde Holder Bad Ragaz, Pfäfers,
+
+Meis 30
+routa Holder Vättis 30
+wilde Holder Flums 30
+rote Holder Flums 30
+rota Holdar Berneck 59
+rote Holder 64
+Truubäholder 62
+
+KANTON GLARUS
+rot Holdere 31
+rot Holderä 31
+
+KANTON GRAUBÜNDEN
+roti Holdera Luzein 7
+roti Holdera St. Antonien 7
+rota Holder Vals 24
+
+325
+
+
+
+roti holdere Seewis 32
+Rosäholder Seewis 32
+Wildäholder Seewis 32
+Holder Schiers 33
+roti Holdära Valendas 43
+wilta Holder Langwies 44
+wiltä Holder Mittel-Schanfigg 44
+rota Holder Obersaxen 45
+roter Holder Jenaz, Mittelprättigau 46
+wilda Holder Mastrils 75
+wilda Holder Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+rota Holder Oberland 47
+rota Holder Unterland 47
+
+326
+
+
+
+Sorbus Aria (L.) Crantz Mehlbeerbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Mählbeeri
+Määlbeerbaum
+Määlbaum
+Määlbeeri
+Mählbeeri
+
+KANTON SOLOTHURN
+Mehlbaum
+Mählbeerbaum
+
+KANTON BERN
+Mehlbeeri
+Mäubeerboum
+Mäubeerboum
+Mählberribo
+Mählberribö
+Mäuberi
+Määlbuum
+Määlbuum
+Mehlbeeri
+Mäuberi
+Määlböriboom
+Määlboom
+
+Oberwil 50
+Oberbaselbiet 54
+Liestal 73
+Liestal 73
+Reigoldswil 76
+
+Dörnach 3
+Olten-Gäu 11
+
+Langenthal 9
+Murten 16
+Biel 16
+Gadmen 35
+Hasliberg 35
+Emmental 39
+Beatenberg 41
+Brienzersee 41
+nördl. Seeland 42
+Rüschegg 53
+Kandertal 66
+Kandersteg 66
+
+KANTON AARGAU
+Mählbaum
+Määlbeeri
+Määlbaum
+Määlbeeri
+Mäubeeri
+Määlbeeri
+Mählbeeri
+
+Aarau 6
+Fricktal 8
+Fricktal 8
+Aarau 22
+Suhrental 22
+Brugg 23
+Möhlin 57
+
+327
+
+
+
+Mählboum Mägden 57
+Mehlbaum Freiamt 71
+Melbele Zofingen 68
+Määlbeeribaum Möhlin 69
+Mehlbeeri Laufenburg 70
+
+KANTON LUZERN
+Määlbeeri Rigi 36
+Gersauer-Chriesi Rigi 36
+Määlbeeribaum Schwarzenberg 36
+Määlbeeri Horw 36
+Mäulbeeri Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+
+Mählbaum Kerns 21
+
+
+
+Mehlbach Kerns 21
+
+KANTON SCHAFFHAUSEN
+Mehlbomm
+Mehlbeeribomm
+Wissmehlbomm
+Mehlbeeri
+
+Bez. Schaffhausen
+Bez. Schleithe
+Beggingen
+Stein am Rhein 49
+
+KANTON ZÜRICH
+Mälbeeri Sihlwald 58
+Määlbaum Winterthur 2
+Mulbeeri Schlatt, Winterthur 51
+Määlbeeri oberes Glattal 67
+Määlbeeri Pfannenstiel 67
+
+KANTON SCHWYZ
+Mählbeiri Einsiedeln 28
+Mählbeeri Innerschwyz 28
+Mehlbeeri Wägital, Arth 40
+Gersauerholz Arth 40
+
+328
+
+
+
+KANTON URI
+Määlberri Gurtnellen 4
+
+KANTON TESSIN
+Malberiböm Bosco/Gurin 72
+
+KANTON THURGAU
+Elsbirli Rhe
+Mehlbeer Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Mehlberäbom 34
+
+KANTON ST. GALLEN
+Mehlbomm Werdenberg 13
+Mehlbomm Sargans 13
+Määlbele Rebstein 17
+Mehlbaum Flums 30
+Mehlbeeri Berschis 30
+Mehlbeeri Walenstadt 30
+Mählboom Berneck 59
+
+KANTON GLARUS
+Mehlbeeribaum 31
+
+KANTON GRAUBÜNDEN
+Mehlbomm Schiers
+Flötner Remüs
+Määlberribom Luzein 7
+Meelbeeri Seewis 32
+Mählbom Seewis 32
+Määlberi Schiers 33
+Mählbaum Safien 43
+Mählbeeribaum Valendas 43
+
+329
+
+
+
+Määlberi Langwies, Mittel-
+Schanfigg 44
+
+Mählberibaum Obersaxen 45
+Mählbaum Mastrils 75
+Mählbeeri Untervaz 75
+
+330
+
+
+
+Sorbus aucuparia L. Vogelbeerbaum
+
+
+KANTON BASEL-LANDSCHAFT
+Vogelbeeri Oberwil 50
+Vogelbeerbaum Oberbaselbiet 54
+Stinkösche Oltingen 54
+Vogelbeeri Liestal 73
+Vogelbeeri Reigoldswil 76
+Eberösche Reigoldswil 76
+
+KANTON SOLOTHURN
+Vogelbeeri Dorneck 3
+Vogelbeerbaum Olten-Gäu 11
+
+KANTON BERN
+Gürmsch VI
+Gürmsch Thun VI
+Gürmsch Simmental VI
+Gürmtsch Sigriswil VI
+Gürütsch Lauenen VI
+Vogelbeeri VI
+Vogelbeeri Thun VI
+Vogelbeeri Biel VI
+Gürmsch Seeland 1
+Gürmsch Langenthal 9
+Vogubeerboum Murten 16
+Vogubeerboum Biel 16
+Gürmsch 14
+Gürmsch Büren a.A. 19
+Girmsch Schwanden 35
+Girmsch Gadmen 35
+Girmsch Hasliberg 35
+Gürmsch Emmental 39
+Gürmsch Beatenberg 41
+Gürmsch Brienzersee, Habkern 41
+Gürmsch Jurasüdfuss 42
+
+331
+
+
+
+Vogelbeeri Jurasüdfuss 42
+Gürmsch 48
+Voguberi Rüschegg 53
+Eberesche Rüschegg 53
+Gürmsch Wohlen 55
+Gürmsch Emmental 55
+Gürmsch 63
+Gürmsch Kandertal 66
+
+KANTON WALLIS
+Giiretsch Brig 12
+Giiretsch Termen 74
+Giiretsch Brig 74
+
+KANTON AARGAU
+Vogelbeeri Aarau 22
+Eberesche Erlinsbach 22
+Vogubeeri Suhrental 22
+Vogelbeeri Brugg 23
+Vogelbeeri Lenzburg 56
+Eberesche Othmarsingen 56
+Vogelbeeri Rheinfelden,
+
+Mägden, Möhlin 57
+Bärwid Freiamt 71
+Gaisseleiterli Muri 71
+Eberesche Schlossrued 68
+Vogelbeeribaum Möhlin 69
+Vogelbeeri Brugg 70
+Vogelbeeri Fricktal 70
+Eberesche Laufenburg 70
+
+KANTON LUZERN
+Vogelbeeribaum Amt Sursee VI
+Vogelbeeribaum Amt Willisau VI
+Vogelbeeribaum Amt Entlebuch VI
+Gürmsch Entlebuch VI
+Äberesche Rigi 36
+Wüelesche Rigi 36
+Vogelbeerbaum Schwarzenberg 36
+
+332
+
+
+
+Äberesche Horw 36
+Vogubeeri Sursee 38
+
+KANTON UNTERWALDEN OB DEM WALD
+Wiäleschä Sarnen 21
+Wiäleschä Lungern 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Wielesche 10
+Wielesch 10
+
+KANTON SCHAFFHAUSEN
+Schmärbomm Merishausen
+Schmärbomm
+Vogelbeerbomm Merishausen I
+Wiissmehlbomm Beggingen I
+Güggelhödis Beringen I
+Güggelhödis Neunkirch I
+Vogelbeeri Stein am Rhein 49
+
+KANTON ZÜRICH
+Vogelbeeri I
+Vogeleschli Stammheim I
+Vogelbeeri 51
+Vogelbeeri Sihlwald 58
+Eberesche Sihlwald 58
+Eberesche 61
+Vogelbeeri oberes Glattal 67
+Vogelbeeri Pfannenstiel 67
+
+KANTON ZUG
+Vogelbeeribaum V
+Wielesche V
+Wielesch Zug V
+Eberäsch Zug VI
+Wühläsch Zug 26
+Eberäsch Zug 26
+
+333
+
+
+
+KANTON SCHWYZ
+Vogelbeeribaum Küssnacht a.R. VI
+Vogelbeeribaum Schwyz VI
+Vogelbeeribaum Einsiedeln VI
+Vogelbeeribaum Bez. March VI
+Wieleschä Gersau VI
+Wieleschä Küssnacht a.R. VI
+Wielesche Bez. Schwyz VI
+Wielesch Bez. Gersau VI
+Wielesch Bez. Schwyz VI
+Wielesch Bez. March VI
+Wielescheli Bez. March VI
+Welesch Bez. Schwyz VI
+Nieleschä Galgenen VI
+Wildeschä Schübelbach VI
+Vogelbeeri Innerschwyz VI
+Willeeschä Innerschwyz VI
+Welleschä Wägital 40
+Welleschä Arth 40
+Vogelbeeri Innerschwyz 28
+Willeesche Innerschwyz 28
+
+KANTON URI
+Wielesch
+Wieleschä
+Wielesch
+
+Gurtnellen 4
+
+KANTON TESSIN
+Vogelberiböm Bosco/Gurin 72
+
+KANTON THURGAU
+Vogelbeer Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Mooseisch 34
+
+334
+
+
+
+KANTON ST. GALLEN
+Vogelbeerbomm 13
+Eschvogelbeerbomm Unter-Rheintal 13
+Moosesch Rheintal 13
+Moosesch Werdenberg 13
+Stinkescha Werdenberg 13
+Wielescha Sargans 13
+Wüelescha Sargans 13
+Gürgütsch Sargans 13
+Schwi-Esche Obertoggenburg 13
+Moosesche Eichberg 17
+Moosesche Oberriet 17
+Büelesche Walenstadt 30
+Lischme Vilters 30
+Lischmä Berschis 30
+Gürgütsch Bez. Sargans 30
+Lischma Flums 30
+Vogalbeer Berneck 59
+Schwii-Esche Wattwil 64
+Eberesche Wattwil 64
+Stinkescha Werdenberg 13
+
+KANTON GLARUS
+Wielerche 31
+
+KANTON GRAUBÜNDEN
+Gürgetsch Schiers
+Gürgetsch Luzein 7
+Gürgetsch St. Antonien 7
+Gürgütsch Jenins 15
+Göretsch Vals 24
+Gürgetsch Churwaiden 20
+Gürgetsch Prättigau 27
+Eberesche Prättigau 27
+Gürgütsch Vorderprättigau 32
+Gürgütsch Vorderprättigau 32
+Vogelbeer Seewis 32
+Gürgetsch Schiers 33
+Vogelbeeri Versam 43
+Gürratsch Safien 43
+Gürrätsch Valendas 43
+
+
+335
+
+
+
+Girrätsch Valendas 43
+Gürgetsch Langwies 44
+Gyretsch Obersaxen 45
+Gürgetsch Jenaz, Mittelprättigau 46
+Gürigütsch Mastrils 75
+Gürgütsch Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Girigitsch Oberland 47
+Gürgütsch Triesenberg 47
+Äbar-Escha Unterland 47
+
+336
+
+
+
+
+Sorbus torminalis (L.) Crantz Elsbeerbaum
+
+KANTON BASEL-LANDSCHAFT
+Ältschebeeri
+Elsbeerbaum
+Eisbeer
+Elsbeerbaum
+Elsbeeri
+
+KANTON BERN
+Elsbeeri
+Elsbeerboum
+
+KANTON AARGAU
+Elsbeeri
+Elsbeeri
+Elsbeeri
+Alsbeerbaum
+Elsbeeri
+
+KANTON LUZERN
+Elsbeeri
+Elsbeerbaum
+
+Oberwil 50
+Oberbaselbiet 54
+Liestal 73
+Liestal 73
+Reigoldswil 76
+
+Langenthal 9
+Biel 16
+
+Brugg 23
+Lenzburg 56
+Mägden 57
+Möhlin 69
+Laufenburg 70
+
+Rigi 36
+Schwarzenberg 36
+
+KANTON SCHAFFHAUSEN
+Elsbeeribomm
+Elsbirebomm
+Elsbirebomm
+Älschbeeribomm
+Älschbeeribomm
+Älschbeeribomm
+Älschbirrlibomm
+Älschterbirebomm
+
+Oberhailau
+Bez. Schaffhausen
+Bez. Stein am Rhe
+Bez. Schaffhausen
+Bez. Unterklettgau
+Bez. Oberklettgau
+Bez. Reiat
+Merishausen
+
+
+337
+
+
+
+Ernstbirrlibomm
+Frauebirrlibomm
+Eisbeer
+Elsbire
+Elsbire
+Elsbeeri
+Eltstbeeri
+Eltstbeeri
+Elstbirrlibomm
+Eltsterbirebomm
+Altschbirebomm
+Ernstbirrli
+Frauebirrli
+
+Barzheim
+Osterfingen
+Stein am Rhein 49
+Bez. Stein am Rhein I
+Bez. Schaffhausen I
+Oberhailau I
+Bez. Oberklettgau I
+Bez. Schaffhausen I
+Bez. Reiat I
+Merishausen I
+Bez. Reiat I
+Barzheim I
+Osterfingen I
+
+KANTON ZÜRICH
+Elschbeerbomm
+Eisbeer
+Elsbeeri
+
+KANTON SCHWYZ
+Elsbeerbaum
+
+KANTON THURGAU
+Eisbeer
+
+KANTON ST. GALLEN
+Eisbeer
+
+Stammheim I
+2
+
+Pfannenstiel 67
+
+Arth 40
+
+Weinfelden 18
+
+Berneck 59
+
+338
+
+
+
+Staphylea pinnata L. Pimpernuss
+
+
+KANTON BASEL-LANDSCHAFT
+Bimpernuss Sissach, Rünenberg 54
+Bimpernuss Zunzgen 54
+Geissen-Uter Rümlingen, Läufel-
+
+fingen 54
+Pimpernus Reigoldswil 76
+
+KANTON LUZERN
+Biberniissli Bösegg 37
+
+KANTON ST. GALLEN
+Biberli Gaster 13
+
+339
+
+
+
+Tilia cordata Mill. Winter-Linde
+
+
+KANTON BASEL-LANDSCHAFT
+
+Linde Oberwil 50
+Linde Reigoldswil 76
+Linde 54
+
+KANTON SOLOTHURN
+Linge Dörnach 3
+Linde Olten-Gäu 11
+
+KANTON BERN
+chly-blettrigi Linge Büren a.A. 19
+Linden Oberhasli 35
+Linge Emmental 39
+Linde Beatenberg 41
+Spitzlinde Brienzersee 41
+Linge Land 48
+Linge Emmental 48
+Linné Rüschegg 53
+Winter Linge Emmental 55
+Stei-Linge 63
+Winterlinge 63
+Lindä Kandertal 66
+
+KANTON AARGAU
+Linde Aarau 6
+Winterlinde Aarau 56
+chleiblätterigi Linde Mägden 57
+Winterlinde Muri 71
+Winterlinde Möhlin 69
+
+340
+
+
+
+KANTON LUZERN
+Linde Rigi 36
+Linde Schwarzenberg 36
+Lende Horw 36
+
+KANTON SCHAFFHAUSEN
+Staalinde Altorf
+Staalinde Bargen
+Ruesslinde Bargen
+Birelinde Bibern
+Rosslinde Stein am Rhein 49
+
+KANTON ZÜRICH
+Berglinde Schlatt 51
+Linde Sihlwald 58
+Steinlinde 61
+Winterlinde oberes Glattal 67
+Winterlinde Pfannenstiel 67
+
+KANTON SCHWYZ
+Lindä Innerschwyz 28
+Winterlindä Wägital 40
+kleinblättrige Linde Arth 40
+
+KANTON URI
+Lindä Gurtnellen 4
+
+KANTON TESSIN
+Wentar Linda Bosco/Gurin 72
+
+KANTON APPENZELL I.RH.
+Lendä 34
+
+341
+
+
+
+KANTON ST. GALLEN
+Lindä Meis 30
+Schmallindä Flums 30
+Stey-Lenda Berneck 59
+
+KANTON GRAUBÜNDEN
+Linda Luzein 7
+chleiblättrige Linda Seewis 32
+Lindä Schiers 33
+Lindä Mittel-Schanfigg 44
+Linda Mastrils 75
+Linda Untervaz 75
+
+FÜRSTENTUM LIECHTENSTEIN
+Winter-Linda Oberland 47
+Winter-Linda Unterland 47
+
+342
+
+
+
+Tilia platyphyllos Scop. Sommer-Linde
+
+
+KANTON BASEL-LANDSCHAFT
+Linde Oberwil 50
+Linde Oberbaselbiet 54
+Linde Liestal 73
+
+KANTON SOLOTHURN
+Linde Olten-Gäu 11
+
+KANTON BERN
+Summerlinde Murten 16
+Summerlinde Biel 16
+grossbletterigi Linge Büren a.A. 19
+Sommer-Linde Büren a.A. 19
+Breit-Linden Oberhasli 35
+Linge Emmental 39
+Linde Beatenberg 41
+Breitlinde Brienzersee 41
+Linne Rüschegg 53
+Summer Linge Emmental 55
+Summer-Linge 63
+Lindä Kandertal 66
+
+KANTON AARGAU
+Linde Aarau 6
+Linde Brugg 23
+Summerlinde Lenz bürg 56
+grossblätterigi Linde Mägden 57
+Summerlinde Möhlin 69
+Linde Fricktal 70
+Sommerlinde Freiamt 71
+
+343
+
+
+
+KANTON LUZERN
+Linde Schwarzenberg 36
+Breitlende Horw 36
+
+KANTON SCHAFFHAUSEN
+Öpfellinde Bibern
+Linde Stein am Rhein 49
+
+KANTON ZÜRICH
+Linde Sihlwald 58
+Summerlinde oberes Glattal 67
+Summerlinde Pfannenstiel 67
+Linde oberes Glattal 67
+Linde
+
+KANTON ZUG
+Linde
+
+Pfannenstiel 67
+
+KANTON SCHWYZ
+Lindä Innerschwyz 28
+Summärlindä Wägital 40
+grossblätterige Linde Arth 40
+
+KANTON URI
+Lindä Gurtnellen 4
+
+KANTON THURGAU
+Linde Weinfelden 18
+
+KANTON APPENZELL I.RH.
+Lendä 34
+
+344
+
+
+
+KANTON ST. GALLEN
+Bast Rheintal 13
+Bast Toggenburg 13
+Linna Werdenberg 13
+Bastholz Sargans 13
+Breitlindä Flums 30
+Lenda Berneck 59
+
+KANTON GRAUBÜNDEN
+Linda Luzein 7
+grossblättrige Lindä Seewis 32
+Lindä Mittel-Schanfigg 44
+
+FÜRSTENTUM LIECHTENSTEIN
+Summer-Linda Oberland 47
+Summer-Linda Unterland 47
+
+345
+
+
+
+Ulmus carpinifolia Gleditsch Feld-Ulme
+
+
+KANTON BASEL-LANDSCHAFT
+
+Ulme Oberbaselbiet 54
+Fäld-Ulme Liestal 73
+Ulme Reigoldswil 76
+
+KANTON SOLOTHURN
+Ulme Dörnach 3
+Urne Hofstetten 3
+Ulme Olten-Gäu 11
+
+KANTON BERN
+Ilm Seeland 1
+Ulme Murten 16
+Ulme Biel 16
+Ulme Büren a.A. 19
+Rüster Büren a.A. 19
+Ijum Emmental 39
+Rüschter Mittelland 48
+Kork-Ulme 63
+Ulmä Frutigen 66
+Elm Kandertal 66
+Ilm Kandertal 66
+
+KANTON AARGAU
+Ruesche Fricktal 8
+Ulme Brugg 23
+chliblettrigi Ulme Lenzburg 56
+Steilinde Villigen 56
+Rüesche Mägden 57
+Ulme Möhlin 69
+Steilinde Brugg 70
+Steilinde Fricktal 70
+
+346
+
+
+
+KANTON LUZERN
+Ulme Schwarzenberg, Horw 36
+
+KANTON UNTERWALDEN OB DEM WALD
+Fäld-Ilm 21
+
+KANTON SCHAFFHAUSEN
+Ulme Stein am Rhein 49
+
+KANTON ZÜRICH
+Rüster Andelfingen 29
+Ulme oberes Glattal 67
+Ulme Pfannenstiel 67
+Fäldulme oberes Glattal 67
+Fäldulme Pfannenstiel 67
+
+KANTON SCHWYZ
+Ulme Wägital 40
+Feld-Ulmä Arth 40
+
+KANTON URI
+Ulmä Seedorf 4
+
+KANTON THURGAU
+Warmhälterli Weinfelden 18
+
+KANTON APPENZELL I.RH.
+wöldi Lendä 34
+
+KANTON ST. GALLEN
+Ulma Berneck 59
+
+347
+
+
+
+KANTON GRAUBÜNDEN
+Ulm Schiers 33
+Ulma Valendas 43
+
+FÜRSTENTUM LIECHTENSTEIN
+
+Fäld-Ulma Oberland 47
+Fäld-Ulma Unterland 47
+
+
+
+
+
+348
+
+
+
+Ulmus glabra Huds. Berg-Ulme
+
+
+KANTON BASEL-LANDSCHAFT
+Ruesche Oberwil 50
+Ulme Oberbaselbiet 54
+Urne Ziefen 54
+Rüester Liestal 54
+Ulme Liestal 73
+Ruesche Liestal 73
+
+KANTON SOLOTHURN
+Ulme Dörnach 3
+Urne Hofstetten 3
+
+KANTON BERN
+Ulme Murten 16
+Ulme Biel 16
+Ulme Büren 19
+Ilm Schwanden 35
+Ilm Gadmen 35
+Ilm Hasliberg 35
+Ijum Emmental 39
+Ulme Beatenberg 42
+Ilm Brienzersee 42
+Üme Rüschegg 53
+Ulme Rüschegg 53
+Ulmä Frutigen 66
+Elm Kandertal 66
+Ilm Kandertal 66
+
+KANTON AARGAU
+Ulme Aarau 6
+Schteilinde Aarau 6
+Ruesch Suhrental 22
+Ulme Brugg 23
+
+349
+
+
+
+Ulme Lenzburg 56
+Ulm Lenzburg 56
+Rüesche Mägden 57
+Ulme Möhlin 69
+Steilinde Laufenburg 70
+Bergulme Muri 71
+
+KANTON LUZERN
+Urne Rigi 36
+Ulme Rigi 36
+
+KANTON UNTERWALDEN OB DEM WALD
+Bärg-Ilm 21
+
+KANTON SCHAFFHAUSEN
+Ulme Stein am Rhein 49
+
+KANTON ZÜRICH
+Stei-Linde Regensberg 2
+Ulme Sihlwald 58
+Ulme oberes Glattal 67
+Ulme Pfannenstiel 67
+Bergulme oberes Glattal 67
+Bergulme Pfannenstiel 67
+
+KANTON SCHWYZ
+Ilmä Innerschwyz 28
+Bärg-Ulmä Arth 40
+Ulme Wägital 40
+
+KANTON URI
+Ulmä Gurtnellen 4
+Ilmä Gurtnellen 4
+
+350
+
+
+
+KANTON THURGAU
+
+Ulme Weinfelden 18
+
+KANTON APPENZELL I.RH.
+wöldi Lendä 34
+
+KANTON APPENZELL A.RH.
+Schteilinde Herisau 58
+
+KANTON ST. GALLEN
+Elma Werdenberg 13
+lima Sargans 13
+lima Bez. Gaster 13
+lima Ober-Toggenburg 13
+Ulma Berneck 59
+Eime Wattwil 64
+
+KANTON GLARUS
+Urne 31
+Ilmä 31
+
+KANTON GRAUBÜNDEN
+Ulm Luzein 7
+Ulm Seewis 32
+Ulm Schiers 33
+Ulmä Mittel-Schanfigg 44
+Ulma Obersaxen 45
+Ulma Mastrils 75
+Ulm Untervaz 75
+
+351
+
+
+
+FÜRSTENTUM LIECHTENSTEIN
+Bärg-Ulma Oberland 47
+Bärg-Ulma Unterland 47
+Ruzbaum Schaan 47
+Rüster Balzers 47
+Ulma Unterland 47
+
+352
+
+
+
+Viburnum Lantana L. Wolliger Schneeball
+
+
+KANTON BASEL-LANDSCHAFT
+Schneeball Oberwil 50
+Hulftere Oberbaselbiet 54
+Schwilche Oberbaselbiet 54
+Schwülchli Bennwil 54
+Hulftere Liestal 73
+Schwilche Liestal 73
+Hülftere Reigoldswil 76
+Schwilche Reigoldswil 76
+
+KANTON SOLOTHURN
+Schwilche Dörnach 3
+Schneeball Olten-Gäu 11
+
+KANTON BERN
+Widen Schwanden 35
+Schneebau Rüschegg 53
+Schneeball Frutigen 66
+Hulfä Kandertal 66
+Fäderwiid Oberland
+Juchwiid Oberland
+Läderwiid Oberland
+
+KANTON AARGAU
+Mäuwidli Suhrental 22
+Holftere Brugg 23
+Schneeball Lenzburg 56
+Hulftere Mägden 57
+wolliger Schneeball Freiamt 71
+Schlingstrauch Freiamt 71
+Holftere Freiamt 71
+Schnääball Möhlin 69
+Hulftere Brugg 70
+
+353
+
+
+
+Halftere
+Holftere
+Schlinge
+
+Brugg
+Kirchspiel
+Kirchspiel
+
+70
+70
+70
+
+KANTON LUZERN
+Widä
+Widä Entlebuch
+buchbaumig Widä Wegg
+Buchbaumis Wegg
+buchbaumige Wide Rigi
+
+
+KANTON UNTERWALDEN OB DEM WALD
+Widä VI
+
+KANTON UNTERWALDEN NID DEM WALD
+Schiffwidä VI
+Schiffwidä Engelberg VI
+
+KANTON SCHAFFHAUSEN
+Hulftere
+Hulftere
+Hulftere
+Hulftere
+Hulftere
+Rothulftere
+Hulftere
+
+Bez. Stein am Rhein
+Bez. Schaffhausen
+Bez. Reiat
+Bez. Oberklettgau
+Bez. Schleitheim
+Neunkirch
+Stein am Rhein 49
+
+KANTON ZÜRICH
+Hulftere
+Hulftere
+Hulftere
+Hulftere
+wilde Holder
+Huugbaum
+Huugbaum
+Huugbaum
+
+Gossau
+Rafzerfeld
+Stammhe
+Zollikon
+Oberland
+Bonstetten
+Hedingen
+Mettmenstetten
+
+
+354
+
+
+
+Huugbaum Zollikon I
+Ruuchbaum Wettswil I
+Määlbaum Zollikon I
+Mëëwide I
+Charpfebluescht Obfelden I
+Hulftere Thalheim 2
+Hülftere Flaach 29
+Hülftere Stammertal 29
+Hulftere Schlatt, Winterthur 51
+Schneeball Sihlwald 58
+Hulftere Furttal 60
+Hupame Zürich-Amt 61
+Hulftere oberes Glattal 67
+Hulftere Pfannenstiel 67
+Hubäumi Wide rechtes Zürichseeufer 67
+Määlwide rechtes Zürichseeufer 67
+
+KANTON ZUG
+buchbaumigs Holz V
+
+KANTON SCHWYZ
+Widä Bez. March VI
+Widä Emmetten VI
+Schiffwidä Gersau VI
+Schiffwidä Bez. March VI
+buchbaumig Widä Küssnacht a.R. VI
+buchbaumi Widä VI
+Buuchbaumli Innerschwyz 28
+Schneeball Wägital 40
+wolliger Schneeball Arth 40
+
+KANTON URI
+Bisch
+Chrotäbeeri
+
+Gurtnellen 4
+
+KANTON THURGAU
+Halftere Thurtal
+Halftere Rhein
+
+355
+
+
+
+Hulftere Hinterthurgau
+Hulftere Thurtal
+Hulftere Obersee
+Hulftere Unterthurgau
+Hülftere Hinterthurgau
+Hülftere Thurtal
+Hülftere Obersee
+Hülftere Unterthurgau
+Lederwide Bischofszell
+Lederwide Oberthurgau
+Lederwide Thurtal
+Meitliruete Oberthurgau
+Wolfdere Obersee
+Wide Hinterthurgau
+Hülftere Weinfelden 18
+Maashülftere Weinfelden 18
+Wide Beckelswilen 18
+Hulfter Steckborn 52
+Hulfter Diessenhofen 52
+
+KANTON APPENZELL I.RH.
+Schwölche 34
+
+KANTON ST. GALLEN
+
+Schwelcha Ober-Rheintal 13
+Schwelcha Werdenberg 13
+Schwelcha Sargans 13
+Schwelcha Gaster 13
+Schwelchi-Wida Toggenburg 13
+Wida Toggenburg 13
+Hülfterä Toggenburg 13
+Hulfterä Toggenburg 13
+Schwelchi Wide Walenstadt 30
+Schneeball Berneck 59
+Hölftere Wattwil 64
+
+KANTON GRAUBÜNDEN
+Schwälch Schiers V
+Schwilch Fuma 7
+
+356
+
+
+
+Schwälcha Jenins 15
+Schwälch Fanas 32
+Schwälch Seewis 32
+Schwälch Versam 43
+Rot-Schwälch Valendas 43
+
+FÜRSTENTUM LIECHTENSTEIN
+Schwälcha Vaduz 47
+
+357
+
+
+
+Viburnum Opulus L. Gewöhnlicher Schneeball
+
+
+KANTON BASEL-LANDSCHAFT
+Schneeball Oberbaselbiet 54
+Wiisshulftere Oltingen, Wenslingen 54
+Wiissschwilche Waldenburgertal 54
+Wisshulftere Liestal 73
+Wyss-Schwilche Reigoldswil 76
+Wysshülftere Reigoldswil 76
+
+KANTON SOLOTHURN
+Schneeball Olten-Gäu 11
+
+KANTON BERN
+Schneeballe Langenthal 9
+Schneebau Langenthal 16
+Schneebaue Emmental 39
+Schneebau Rüschegg 53
+Schneeball Frutigen 66
+
+KANTON AARGAU
+Hulftere Oberhof 22
+Schneeball Lenz bürg 56
+Wysshülftere Mägden 57
+wissi Holftere Freiamt 71
+Schlangebeeri Muri 71
+Hulftere Möhlin 69
+
+KANTON LUZERN
+Schläckerbeeri Wegg
+Schneeball Rigi 36
+Schneebällali Schwarzenberg 36
+Schneeball Horw 36
+
+
+358
+
+
+
+KANTON UNTERWALDEN OB DEM WALD
+Schwelchä Sächseln 21
+
+KANTON UNTERWALDEN NID DEM WALD
+Chrotäbeeri Emmetten VI
+
+KANTON SCHAFFHAUSEN
+Wisshulftere Bez. Schaffhausen
+Wisshulftere Bez. Oberklettgau
+Schneeball Stein am Rhein 49
+
+KANTON ZÜRICH
+Maassholder I
+Hulftere I
+Schneeball Sihlwald 58
+Schneeball oberes Glattal 67
+Schneeball Pfannenstiel 67
+
+KANTON SCHWYZ
+Chrotäbeeri VI
+Chrotäbeeri Bez. March VI
+Chrottäbeeri Sattel 28
+gewöhnlicher Schneeball Arth 40
+
+KANTON URI
+Bisch Gurtnellen 4
+Widä VI
+buchbaumig Widä VI
+
+KANTON THURGAU
+Schneeballe
+gwöhnliche Schneeball Weinfelden 18
+
+359
+
+
+
+KANTON ST. GALLEN
+wildi Johannisbeer Ober-Rheintal 13
+Wasserholder Sargans 13
+Beiwida Ober-Toggenburg 13
+Massholder Berneck 59
+
+KANTON GRAUBÜNDEN
+Sprengberri Pany 7
+wiss Schwälch Valendas 43
+
+360
+
