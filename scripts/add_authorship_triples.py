@@ -22,7 +22,7 @@ def _check_stopwords(vernacular_name, latin_stopwords):
         return False
 
 def main():
-    argparser = argparse.ArgumentParser(description='Link found plant names to DB-entries in Catalogue of Life.')
+    argparser = argparse.ArgumentParser(description='Extract triples AUTHOR uses_vernacular_name XY.')
 
     argparser.add_argument(
         '-i', '--input_file',

@@ -93,7 +93,7 @@ def _read_stoplist(stoplist):
 
 
 def main():
-    argparser = argparse.ArgumentParser(description='Link found plant names to DB-entries in Catalogue of Life.')
+    argparser = argparse.ArgumentParser(description='Extract triples CANTON uses_vernacular_name XY')
 
     argparser.add_argument(
         '-i', '--input_file',
