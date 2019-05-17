@@ -80,12 +80,12 @@ def main():
                     continue
                 if split_line[0].islower(): # bigram
                     vernacular_name = " ".join(split_line[:2])
-                    total_geotriples.append("{}\temploys_vernacular_name\t{}\n".format(canton, vernacular_name))
+                    total_geotriples.append("{}\tuses_vernacular_name\t{}\n".format(canton, vernacular_name))
                     #triples_geo.write("{}\temploys_vernacular_name\t{}\n".format(canton, vernacular_name))
                     geo_triples_counter += 1
                 else:
                     vernacular_name = split_line[0]
-                    total_geotriples.append("{}\temploys_vernacular_name\t{}\n".format(canton, vernacular_name))
+                    total_geotriples.append("{}\tuses_vernacular_name\t{}\n".format(canton, vernacular_name))
                     #triples_geo.write("{}\temploys_vernacular_name\t{}\n".format(canton, vernacular_name))
                     geo_triples_counter += 1
 
