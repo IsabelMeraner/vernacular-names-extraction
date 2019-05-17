@@ -8,7 +8,7 @@ https://zenodo.org/record/293746/files/bosshard_1978_OCRr.pdf
 
 
 #### motivation:   
-Google search for “wysshulftere” (Viburnum opulus) re-directs to digitized, OCRed work from Bosshard.
+Google search for the Swiss German vernacular name “wysshulftere” (Viburnum opulus) re-directs to digitized, OCRed work from Bosshard.
 
 #### goal:
 add information related to vernacular names to open-source knowledge bases.
@@ -18,7 +18,7 @@ extract the following information:
 - venacular names,    
 - associated scientific (Latin) name,   
 - standard German book name ('Buchname'),   
-- geographc location where plant occurs,   
+- geographic location where plant occurs,   
 - authorship information    
 
 #### output format:
