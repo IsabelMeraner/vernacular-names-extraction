@@ -1,0 +1,15 @@
+@prefix :        <https://bio.isabelmeraner.name/ontology#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://vernbacular/312> rdf:type :NameOccurence.
+<http://vernbacular/312> rdf:value "Schnääball".
+<http://vernbacular/312> :areaFine "Wädenswil" .
+<http://vernbacular/312> :taxon <http://taxon-concept.plazi.org/id/Plantae/Viburnum_lantana> .
+<http://vernbacular/312> :vernacularNamestatus :localName .
+<http://vernbacular/312> :source <https://doi.org/10.5169/seals-664049> .
+
+<http://vernbacular/394> rdf:type :NameOccurence.
+<http://vernbacular/394> rdf:value "Wolliger Schneeball".
+<http://vernbacular/394> :areaCourse "DACHLST" .
+<http://vernbacular/394> :taxon <http://taxon-concept.plazi.org/id/Plantae/Viburnum_lantana> .
+<http://vernbacular/394> :vernacularNamestatus :bookName .
