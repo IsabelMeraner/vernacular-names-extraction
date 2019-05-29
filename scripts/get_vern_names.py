@@ -13,6 +13,8 @@ $ python3 scripts/get_vern_names.py -i resources/geo-latin-vernacular.txt -o tri
 """
 
 import argparse
+import json
+import os
 from tika import parser
 from collections import defaultdict
 
@@ -28,6 +30,7 @@ def get_triples(geo, geo_stopwords, latin_stopwords):
     dictio = defaultdict(int)
     geo_triples_counter = 0
     total_geotriples = set()
+    vern_loc = defaultdict(list)
 
     for line in geo:
         split_line = line.rstrip("\n").rstrip(",").split(" ")
@@ -53,24 +56,39 @@ def get_triples(geo, geo_stopwords, latin_stopwords):
                 continue
             if split_line[0].islower():  # bigram
                 vernacular_name = " ".join(split_line[:2])
+                location_fine = split_line[2:]
+                print("Loc1: {}".format(location_fine))
+                loc = _clean_location(location_fine)
+                print("Loc2: {}".format(loc))
+
                 if _check_vern_name(vernacular_name):
                     continue
                 elif _check_stopwords(vernacular_name, geo_stopwords, latin_stopwords):
                     continue
                 else:
                     total_geotriples.add("{}\tuses_vernacular_name\t{}\n".format(canton, vernacular_name))
+                    if loc:
+                        vern_loc[vernacular_name].append(loc)
                     geo_triples_counter += 1
             else:
                 vernacular_name = split_line[0]
+                location_fine = split_line[1:]
+                print("Loc1: {}".format(location_fine))
+                loc = _clean_location(location_fine)
+                print("Loc2: {}".format(loc))
+
                 if _check_vern_name(vernacular_name):
                     continue
                 elif _check_stopwords(vernacular_name, geo_stopwords, latin_stopwords):
                     continue
                 else:
                     total_geotriples.add("{}\tuses_vernacular_name\t{}\n".format(canton, vernacular_name))
+                    if loc:
+                        vern_loc[vernacular_name].append(loc)
+
                     geo_triples_counter += 1
 
-    return total_geotriples, geo_triples_counter, dictio
+    return total_geotriples, geo_triples_counter, dictio, vern_loc
 
 
 def _check_vern_name(vernacular_name):
@@ -91,6 +109,31 @@ def _read_stoplist(stoplist):
     with open(stoplist, "r") as stopfile:
         return {name.rstrip("\n") for name in stopfile}
 
+def _clean_dict(vern_loc):
+    vern_loc2 = defaultdict(list)
+    for k, v in vern_loc.items():
+        for i, loc in enumerate(v):
+            if loc.isdigit():
+                print("digiit", k, v)
+                # del v[i]
+            else:
+                vern_loc2[k].append(loc)
+
+    return vern_loc2
+
+def _clean_location(loc):
+    romans = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII"]
+
+    if len(loc) == 1:
+        if loc[0] in romans:
+            loc = []
+    else:
+        loc = [el for el in loc if el not in romans]
+        loc = [el for el in loc if not any(el1.isdigit() for el1 in el)]
+
+    if loc:
+        return "_".join(loc)
+    return loc
 
 def main():
     argparser = argparse.ArgumentParser(description='Extract triples CANTON uses_vernacular_name XY')
@@ -137,24 +180,39 @@ def main():
     latin_stopwords = _read_stoplist(latin)
 
     triple_path_geo = "./triples/geo-vern_triples.tsv"
-    #triple_path_book = "./triples/book-vern_triples.tsv"
-    #triple_path_latin = "./triples/latin-vern_triples.tsv"
+    path_out = "./triples/"
+    # triple_path_book = "./triples/book-vern_triples.tsv"
+    # triple_path_latin = "./triples/latin-vern_triples.tsv"
 
     # 1. get text data from pdf (uncomment if needed)
     # extract_from_pdf(input_file, output_file)
 
     # 2. get geo-vern triples from pdf
     with open(geo_file, "r") as geo, open(triple_path_geo, "w", encoding="utf-8") as triples_geo:
-        total_geotriples, geo_triples_counter, dictio = get_triples(geo, geo_stopwords, latin_stopwords)
+        total_geotriples, geo_triples_counter, dictio, vern_loc = get_triples(geo, geo_stopwords, latin_stopwords)
 
         print("Extracted names from cantons: \n", dictio, end="\n\n")
         print("Extracted triples (not unique): {}".format(geo_triples_counter))
 
         # write triples to geo-triple file in triples/geo-vern_triples.tsv
+        canton_vern = defaultdict(list)
         unique_triples = 0
         for tr in total_geotriples:
+            #print(tr)
+            area_coarse, _, name = tr.rstrip("\n").split("\t")
+            canton_vern[name].append(area_coarse)
             unique_triples += 1
             triples_geo.write(tr)
+
+        vern_out = os.path.join(path_out, 'vern-canton.json')
+        with open(vern_out, 'w') as fp:
+            json.dump(canton_vern, fp)
+
+        vern_loc2 = _clean_dict(vern_loc)
+        loc_out = os.path.join(path_out, 'vern-loc.json')
+        with open(loc_out, 'w') as fp:
+            json.dump(vern_loc2, fp)
+
         print("Extracted triples (unique): {}".format(unique_triples))
 
 
