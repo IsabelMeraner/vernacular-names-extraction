@@ -67,6 +67,7 @@ def add_locations(g, subdict, v_name, ID_URI, area_URI, url=False):
     else:
         pass
 
+
 def add_graph_statements(ID_URI, g, name, Name_URI):
     DOI = "https://doi.org/10.5281/zenodo.293746"
     source_URI = URIRef(":source")
@@ -79,6 +80,14 @@ def add_graph_statements(ID_URI, g, name, Name_URI):
     g.add((ID_URI, RDF.value, Literal(name)))
     g.add((ID_URI, source_URI, DOI_URI))
     g.add((ID_URI, status_URI, Name_URI))
+
+
+def get_booknames(data_storage):
+    all_booknames = set()
+    for scientific_name, booknames in data_storage["lat-book"].items():
+        for bookname in booknames:
+            all_booknames.add(bookname)
+    return all_booknames
 
 
 def main():
@@ -119,14 +128,10 @@ def main():
 
     area_global = "DACHLS"  # Germany, Austris,Switzerland, Liechtenstein, South Tyrol
 
-    all_booknames = set()
     found_booknames = set()
+    all_booknames = get_booknames(data_storage)
 
     g = Graph()
-
-    for scientific_name, booknames in data_storage["lat-book"].items():
-        for bookname in booknames:
-            all_booknames.add(bookname)
 
     with open("./resources/authorship-vern-triples_unique_sorted.tsv", "r") as vern_names:
         ID = 0
@@ -134,7 +139,7 @@ def main():
             author, pred, v_name = line.rstrip("\n").split("\t")
 
             if v_name in all_booknames:
-                #print(v_name)
+                # print(v_name)
                 found_booknames.add(v_name)
 
                 ID += 1
@@ -146,13 +151,14 @@ def main():
                 add_locations(g, data_storage["vern-loc"], v_name, ID_URI, areaFine_URI)
                 g.add((ID_URI, areaGlobal_URI, Literal(area_global)))
 
-            ID += 1
-            ID_URI = _build_ID(ID)
+            else:
+                ID += 1
+                ID_URI = _build_ID(ID)
 
-            add_graph_statements(ID_URI, g, v_name, localName_URI)
-            add_locations(g, data_storage["vern-lat"], v_name, ID_URI, taxon_URI, url=True)
-            add_locations(g, data_storage["vern-canton"], v_name, ID_URI, areaCoarse_URI)
-            add_locations(g, data_storage["vern-loc"], v_name, ID_URI, areaFine_URI)
+                add_graph_statements(ID_URI, g, v_name, localName_URI)
+                add_locations(g, data_storage["vern-lat"], v_name, ID_URI, taxon_URI, url=True)
+                add_locations(g, data_storage["vern-canton"], v_name, ID_URI, areaCoarse_URI)
+                add_locations(g, data_storage["vern-loc"], v_name, ID_URI, areaFine_URI)
 
         missing_booknames = all_booknames.difference(found_booknames)
         for scientific_name, booknames in data_storage["lat-book"].items():
@@ -168,7 +174,7 @@ def main():
                     add_locations(g, data_storage["vern-loc"], bookname, ID_URI, areaFine_URI)
                     g.add((ID_URI, areaGlobal_URI, Literal(area_global)))
 
-    g.serialize(destination=rdf_target, format='n3') # format='turtle'
+    g.serialize(destination=rdf_target, format='n3')  # format='turtle'
     print(">> final graph has been serialized with '{}' statements.".format(len(g)))
 
 
