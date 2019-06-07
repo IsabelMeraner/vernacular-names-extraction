@@ -24,7 +24,7 @@ Expected format:
 <http://vernbacular/394> :vernacularNamestatus :bookName .
 
 # How to run the code:
-$ python3 scripts/generate_rdf_triples.py -j ./json/ -r ./triples_v2.rdf
+$ python3 scripts/generate_rdf_triples.py -j ./json/ -r ./triples/triples_v3_n3.rdf
 
 """
 import argparse
@@ -103,6 +103,7 @@ def main():
     data_storage = load_json_data(json_dir)
 
     PREFIX = """
+    @prefix :        <https://bio.isabelmeraner.name/ontology#> .
     PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
