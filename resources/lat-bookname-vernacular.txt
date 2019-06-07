@@ -69,8 +69,7 @@ Chüestudäbaum 13.
 
 Aesculus Hippocastanum L. Rosskastanie
 
-Chestene, Ross-Chestene, Ross-
-Chesti, wildi Chestene,
+Chestene, Ross-Chestene, Ross-Chesti, wildi Chestene,
 Chestenebaum, Cheschtiboum,
 Chöschtiboom, Chischtene,
 Cheschtine, Ross-Cheschnä,
@@ -83,8 +82,7 @@ Kistana
 30, 59; VII, 32, 33,43.
 
 Cheschtele, Cheschtelebaum,
-wildi Cheschtele, Chischtele-
-bomm, Ross-Chestele
+wildi Cheschtele, Chischtelebomm, Ross-Chestele
 
 1,9, 16, 19, 25, 42, 55, 63; 37;
 III; I, 51,62; 13, 17, 61,64; 32.
@@ -156,8 +154,7 @@ Edu-Chestele
 14.
 55.
 
-Marroni, Marronibaum, Mara-
-baum
+Marroni, Marronibaum, Marabaum
 
 59, 61,62; 17, 59.
 
@@ -309,8 +306,7 @@ Elsbeeri, Älsbeerbaum,
 Ältschebeeri, Elsbeerbaum,
 Eltstbeeri, Eisbeer
 Elsbire, Älsterbirebomm,
-Älschbirrlibomm, Altschbire-
-bomm, Elsbire, Eltsterbirebomm,
+Älschbirrlibomm, Altschbirebomm, Elsbire, Eltsterbirebomm,
 Elstbirrlibomm, Ernstbirrlibomm,
 Frauebirrlibomm
 
@@ -396,8 +392,7 @@ I.
 
 Roti Tintebeeri I.
 Geelholz, Gäälhagel, Gächagel 1,62; 7, 15,32,75.
-Oschterholz, Hasebrot, Hase-
-chrut
+Oschterholz, Hasebrot, Hasechrut
 
 54;71.
 
@@ -480,8 +475,7 @@ Rotgeerte, Chregeete, Hergeete,
 Chergeete, Rotkelgeerte; Rotgertis,
 Rotchellgert, Rotchillgert,
 Chindgerte, Chiengerte,
-Chängeste, Chölgeerte, Hert-
-gerte
+Chängeste, Chölgeerte, Hertgerte
 
 54, 73, 76; 3; 55; 6, 22, 23,56,
 57, 71,69, 60; II, 49, III; I, 2,
@@ -613,7 +607,7 @@ II.
 53.
 1,67.
 
-He der a Helix L. Efeu
+Hedera Helix L. Efeu
 
 Effeu, Efföi, Äfeu, Äfhöi,
 Afheu, Äfföi
@@ -643,7 +637,7 @@ Räbheu VIII.
 
 Chreser 34.
 
-Ilex A qui folium L. Stechpalme
+Ilex aquifolium L. Stechpalme
 
 Stächbalme, Stächbaume,
 Stächpaume, Stächpalme,
@@ -710,8 +704,7 @@ Räckhouder, Räckhoultere 16, 14,39, 53.
 Räukholder Vili, 28.
 Dräckholder Vili, 40; 31; 24.
 Holdärä 28.
-Bräuckbeeristudä, Bräuckholder-
-beeri
+Bräuckbeeristudä, Bräuckholderbeeri
 
 Vili; IL
 
@@ -722,9 +715,7 @@ Ligustrum vulgare L. Liguster
 Liguschter, Leguster 50, 54; 3; 16, 53, 66; 56, 69; 58,
 67;40;59;32.
 
-Geissbeeri, Geisswiidli, Geiss-
-baum, Geisshulftere, Geiss-
-hasliholz
+Geissbeeri, Geisswiidli, Geissbaum, Geisshulftere, Geisshasliholz
 
 54; 73, 76; 3; 55; 57; III; 32.
 
@@ -735,8 +726,7 @@ wiissi Chingerte, Chingerte,
 Kindgerte, Chellgerte, Chollgerte,
 Wisschernget, Chillgeerte,
 Chegeete, Cherngerte, Chemgerte,
-Hergeete, Kängerte, Korn-,
-Haggerte, Cholgerte, Horngerte
+Hergeete, Kängerte, Korn-Haggerte, Cholgerte, Horngerte
 
 23, 71,70; 36; II, 49, III; I, 2, 29,
 6 1 ,6 7 ;IV ;18, 52;13, 30.
@@ -755,8 +745,7 @@ Steiwidli VIII.
 Nagelholz 13.
 Bockbeer 47.
 
-Lonicera Xylosteum L. rote Heckenkirsche, rotes Geiss-
-blatt
+Lonicera Xylosteum L. rote Heckenkirsche, rotes Geissblatt
 
 Geisblatt, Gaisblatt, Geisshaslis,
 Gitzi-Riis, Gashasli
@@ -944,8 +933,7 @@ Wysswide
 Wiidebaum
 Fälbe, Fälbä, Felba
 Feime
-Pfyfeholz, Pfiffaholz, Pfyffe-
-ruete
+Pfyfeholz, Pfiffaholz, Pfyfferuete
 Wysslöüb
 Sala
 
@@ -1077,9 +1065,7 @@ Viburnum Opulus L. Gewöhnlicher Schneeball
 Schneeball, Schneeballe,
 Schneebälleli, Schneebau,
 Schneebaue
-Hulftere, Wysshulftere, Wiiss-
-hulftere, Wysshülftere, Wissi
-Holftere
+Hulftere, Wysshulftere, Wiisshulftere, Wysshülftere, Wissi Holftere
 Schwilche, Wiissschwilche,
 Wyss-Schwilche, Wiss Schwälch,
 Schwelchä
@@ -1087,7 +1073,6 @@ Chrotäbeeri
 Schläckerbeeri
 Schlangebeeri
 Sprengberri
-Holder, Massholder, Wasser­
-holder
+Holder, Massholder, Wasserholder
 Widä, Buchbaumig Widä,
 Beiwida
