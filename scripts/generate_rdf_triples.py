@@ -127,7 +127,7 @@ def main():
         for bookname in booknames:
             all_booknames.add(bookname)
 
-    with open("./triples/authorship-vern-triples_unique_sorted.tsv", "r") as vern_names:
+    with open("./resources/authorship-vern-triples_unique_sorted.tsv", "r") as vern_names:
         ID = 0
         for line in vern_names:
             author, pred, v_name = line.rstrip("\n").split("\t")
@@ -167,7 +167,7 @@ def main():
                     add_locations(g, data_storage["vern-loc"], bookname, ID_URI, areaFine_URI)
                     g.add((ID_URI, areaGlobal_URI, Literal(area_global)))
 
-    g.serialize(destination=rdf_target, format='turtle')
+    g.serialize(destination=rdf_target, format='n3') # format='turtle'
     print(">> final graph has been serialized with '{}' statements.".format(len(g)))
 
 
