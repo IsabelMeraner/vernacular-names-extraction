@@ -12,5 +12,4 @@
 <http://vernbacular/394> rdf:value "Wolliger Schneeball".
 <http://vernbacular/394> :areaCourse "DACHLST" .
 <http://vernbacular/394> :taxon <http://taxon-concept.plazi.org/id/Plantae/Viburnum_lantana> .
-http://taxon-concept.plazi.org/id/Plantae/Castanea_sativa
 <http://vernbacular/394> :vernacularNamestatus :bookName .
