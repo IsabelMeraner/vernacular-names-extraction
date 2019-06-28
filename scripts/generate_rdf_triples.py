@@ -30,10 +30,12 @@ $ python3 scripts/generate_rdf_triples.py -j ./json/ -r ./triples/triples_v3_n3.
 import argparse
 import os
 import json
+import requests
 from collections import defaultdict
 from itertools import chain
 from rdflib import URIRef, Literal, Graph
 from rdflib.namespace import RDF
+import urllib.request
 
 
 def load_geo_information(geo_dir):
@@ -83,7 +85,7 @@ def has_latin_name(subdict, v_name):
     return False
 
 
-def add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, areaCoarse, areaFine):
+def add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, areaCoarse, areaFine, BASE_URL):
     DOI = "https://doi.org/10.5281/zenodo.293746"
     source_URI = URIRef(":source")
     status_URI = URIRef(":vernacularNameStatus")
@@ -105,7 +107,30 @@ def add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, areaC
     # ADD LATIN NAME
     plazi_uri = URIRef(
         "{}{}".format(base_plazi_taxon_url, data_storage["names-lat"][v_name][i_lat]))
-    g.add((ID_URI, taxon_URI, plazi_uri))
+
+
+    #print(data_storage["names-lat"][v_name][i_lat])
+    try:
+        #print(urllib.request.urlopen(plazi_uri).getcode())
+        link_uri = plazi_uri
+    except:
+        lat_query = data_storage["names-lat"][v_name][i_lat].replace("_", "+")
+        #print("{}{}".format(BASE_URL, lat_query))
+        resp = requests.get("{}{}".format(BASE_URL, lat_query))
+        data = resp.json()
+
+        if data["total_number_of_results"] == 0:
+            #print("empty CoL result")
+            #link_uri = URIRef("")
+            link_uri = plazi_uri
+        else:
+            link_uri = URIRef(data["results"][0]["url"])
+            #print("found col db entry: ", data["results"][0]["url"])
+
+
+
+    #http://www.catalogueoflife.org/col/webservice?response=full&name=Drosophila+melanogaster
+    g.add((ID_URI, taxon_URI, link_uri))
 
     # ADD CANTON
     g.add((ID_URI, areaCoarse_URI, Literal(areaCoarse)))
@@ -114,7 +139,7 @@ def add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, areaC
     g.add((ID_URI, areaFine_URI, Literal(areaFine)))
 
 
-def add_information(g, data_storage, geo_storage, v_name, ID, Name_URI, standalone_loc):
+def add_information(g, data_storage, geo_storage, v_name, ID, Name_URI, standalone_loc, BASE_URL):
     if has_latin_name(data_storage["names-lat"], v_name):
         #print("has lat name!", v_name, data_storage["names-lat"][v_name])
         for i_lat, lat_name in enumerate(data_storage["names-lat"][v_name]):
@@ -136,10 +161,10 @@ def add_information(g, data_storage, geo_storage, v_name, ID, Name_URI, standalo
                             if areaFine in geo_storage[areaCoarse]:
                                 ID += 1
                                 ID_URI = _build_ID(ID)
-                                print("initialising instance for: ", v_name, Name_URI, areaCoarse, areaFine,
-                                      data_storage["names-lat"][v_name][i_lat])
+                                # print("initialising instance for: ", v_name, Name_URI, areaCoarse, areaFine,
+                                #       data_storage["names-lat"][v_name][i_lat])
                                 add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, areaCoarse,
-                                                     areaFine)
+                                                     areaFine, BASE_URL)
                             else:
                                 # print("not found in geo storage: ", i_loc, areaFine)
                                 #continue
@@ -155,7 +180,7 @@ def add_information(g, data_storage, geo_storage, v_name, ID, Name_URI, standalo
                                             ID += 1
                                             ID_URI = _build_ID(ID)
                                             add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, "",
-                                                                 areaFine)
+                                                                 areaFine, BASE_URL)
                                             standalone_loc[v_name].append(areaFine)
                                 else:
                                     FOUND = False
@@ -166,7 +191,7 @@ def add_information(g, data_storage, geo_storage, v_name, ID, Name_URI, standalo
                                         ID += 1
                                         ID_URI = _build_ID(ID)
                                         add_graph_statements(g, ID_URI, v_name, Name_URI, data_storage, i_lat, "",
-                                                             areaFine)
+                                                             areaFine, BASE_URL)
                                         standalone_loc[v_name].append(areaFine)
 
 
@@ -208,6 +233,8 @@ def main():
     geo_dir = "../resources/loc-cantons.tsv"
     geo_storage = load_geo_information(geo_dir)
 
+    BASE_URL = "http://www.catalogueoflife.org/col/webservice?format=json&response=full&name="
+
     found_booknames = set()
     standalone_loc = defaultdict(list)
     all_booknames = get_booknames(data_storage)
@@ -223,17 +250,17 @@ def main():
             if v_name in all_booknames:
                 #print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> bookname", v_name)
                 found_booknames.add(v_name)
-                ID = add_information(g, data_storage, geo_storage, v_name, ID, bookName_URI, standalone_loc)
+                ID = add_information(g, data_storage, geo_storage, v_name, ID, bookName_URI, standalone_loc, BASE_URL)
             else:
                 #print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> local name", v_name)
-                ID = add_information(g, data_storage, geo_storage, v_name, ID, localName_URI, standalone_loc)
+                ID = add_information(g, data_storage, geo_storage, v_name, ID, localName_URI, standalone_loc, BASE_URL)
 
         missing_booknames = all_booknames.difference(found_booknames)
         for scientific_name, booknames in data_storage["lat-book"].items():
             for bookname in booknames:
                 if bookname in missing_booknames:
                     #print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> missing bookname", bookname)
-                    ID = add_information(g, data_storage, geo_storage, bookname, ID, bookName_URI, standalone_loc)
+                    ID = add_information(g, data_storage, geo_storage, bookname, ID, bookName_URI, standalone_loc, BASE_URL)
 
     g.serialize(destination=rdf_target, format='n3')  # format='turtle'
     print(">> final graph has been serialized with '{}' statements.".format(len(g)))
